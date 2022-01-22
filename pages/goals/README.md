@@ -1,4 +1,13 @@
-# Goals
+# Goals Read Me
+
+This is mostly a landing page for snippets that will one day gp to wherever they are supposed to go
+
+The Goals folder contains a number of pages  relating to goals, manifestos, mission, vision etc.
+
+An early page: https://theo-armour.github.io/2022/#pages/goals/goals.md
+
+A more recent page: https://theo-armour.github.io/2022/#pages/goals/virtues.md
+
 
 ## microfame
 

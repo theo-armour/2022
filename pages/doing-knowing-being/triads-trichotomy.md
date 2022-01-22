@@ -3,7 +3,9 @@
 
 * https://en.wikipedia.org/wiki/Triad
 * https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
+	* **Start here**:
 	* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
+
 * https://en.wikipedia.org/wiki/Triad_(religion)
 * https://en.wikipedia.org/wiki/Rule_of_three
 * https://en.wikipedia.org/wiki/Rule_of_three_(writing)

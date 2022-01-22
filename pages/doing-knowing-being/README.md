@@ -16,7 +16,7 @@ _Doing Knowing Being_
 
 ## Concept
 
-My current major ontology/epistomology of life effort
+My current major ontology/epistemology of life effort
 
 * How look at something and make sense of it?
 * How do you know what you know?
@@ -25,7 +25,7 @@ My current major ontology/epistomology of life effort
 
 What I do - while trying to do some good:
 
-* Stand on the shoulders of gianta. Base my observations/thinking/recommendations on evidence, prior example, clinical research
+* Stand on the shoulders of giants. Base my observations/thinking/recommendations on evidence, prior example, clinical research
 * Be transparent: provide links to the original research
 * Identify beauty. If beauty is in the eyes of the beholder, then help the eyes see things
 
@@ -69,7 +69,8 @@ Edward M. Glaser proposed that the ability to think critically involves three el
 * https://en.wikipedia.org/wiki/Ontology
 * https://en.wikipedia.org/wiki/Epistemology
 * https://en.wikipedia.org/wiki/Classification
-
+* https://en.wikipedia.org/wiki/Philosophy#Applied_and_professional_philosophy
+* https://www.pdcnet.org/wp/
 
 Fashions
 
