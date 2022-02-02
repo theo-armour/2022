@@ -6,6 +6,15 @@
 
 * https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
+## texme
+
+Self-rendering Markdown + LaTeX documents
+
+* https://github.com/susam/texme
+* https://susam.github.io/texme/examples/valid-html5.html
+
+
+
 ## MD to JSON
 
 * https://github.com/kesla/jsonmark/blob/master/jsonmark.js

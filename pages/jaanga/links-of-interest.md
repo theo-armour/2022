@@ -2,7 +2,7 @@
 # Links of Interest
 
 
-## Laddybug Tools
+## Ladybug Tools
 
 * https://www.ladybug.tools/spider/
 * https://www.ladybug.tools/spider/#gbxml-viewer/gbxml-viewer-info.md

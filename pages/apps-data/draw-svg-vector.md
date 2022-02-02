@@ -30,7 +30,7 @@ Concepts seems to be leading - works wherever I need it
 
 
 ## Clip Studio Paint ~ https://www.clipstudio.net/en/
-* Complicated
+* Complicated - yes
 * 1M installs, 4K stars
 * $49 ~ all versions
 * vector and bitmap
@@ -58,12 +58,13 @@ Concepts seems to be leading - works wherever I need it
 
 ## *** Infinite Design ~ https://www.infinitestudio.art/discover.php
 * 66k stars, 10M installs
+* Easy user experience
 * $10
 * Handles pressure nicely
 * Very nice "vectorize" feature
 	* Import > gallery > image > trace > vectorize
 * Android & ChromeOS. No W10, no browser
-* Exporting has isues
+* Exporting has issues
 
 
 ### Infinite Designer Usage

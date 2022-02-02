@@ -1,9 +1,13 @@
 # krita
 
+* Gets very complicated.
+* Bitmap interface overwhelms vector interface.
+
+## Tips
 * Clear = del key
 * Show canvas only = tab key
 * Erase = e = lower button
-* command pallette  = upper button
+* command palette  = upper button
 
 ## zoom
 
@@ -23,7 +27,8 @@
 * Must create vector layer
 * Vector line, fill and color in Tool Options docker
 * No pretty VECTOR brushes
-* G5
+* Full add, edit and delete vertices
+* Cannot join lines
 
 ## Krita ~ https://krita.org/en
 
