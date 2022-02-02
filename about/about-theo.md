@@ -5,7 +5,7 @@
 
 ## Overview
 
-Theo Armour was born in Boston, Massachusetts and grew up in Paris and the United States. Theo lives in San Francisco and has three daughters: <a href="http://www.alixarmour.com/" target="_blank">Alix</a>&nbsp;living in Amsterdam, <a href="http://www.cynthiaarmour.com/" target="_blank">Cynthia</a> in Oakland and <a href="https://www.linkedin.com/in/eloise-armour-b84bb1ab/" target="_blank">Eloise</a>&nbsp;in Missoula MT.
+Theo Armour was <a href="https://en.wikipedia.org/wiki/Brigham_and_Women%27s_Hospital" target="_blank">born</a> 1947-01-28 in Boston, Massachusetts and grew up in Paris and the United States. Theo lives at the <a href="" target="_blank">Heritage on the Marina</a> in San Francisco. He has three daughters: <a href="http://www.alixarmour.com/" target="_blank">Alix</a>&nbsp;living in Amsterdam, <a href="http://www.cynthiaarmour.com/" target="_blank">Cynthia</a> in Oakland and <a href="https://www.linkedin.com/in/eloise-armour-b84bb1ab/" target="_blank">Eloise</a>&nbsp;in Missoula MT.
 
 He attended a number of schools including <a href="https://www.marymount.fr/" target="_blank">Marymount</a> in Paris, <a href="https://www.potomacschool.org/" target="_blank">Potomac</a> in Washington DC, <a href="https://en.wikipedia.org/wiki/Princeton_Day_School#History" target="_blank">Miss Fine's School</a> and <a href="http://www.pds.org/" target="_blank">Princeton Day School</a> both in Princeton NJ, <a href="http://sps.edu/" target="_blank">St Paul's School</a> in Concord NH, <a href="http://www.bbns.org/" target="_blank">Buckingham Browne &amp; Nichols</a> in Cambridge MA and <a href="http://www.syr.edu/" target="_blank">Syracuse University</a> in Syracuse NY.<br />
 
