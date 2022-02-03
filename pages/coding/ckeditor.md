@@ -9,7 +9,7 @@
 More
 
 * https://en.wikipedia.org/wiki/CKEditor
-* https://github.com/ckeditor/ckeditor5 ~ more active than tiny
+* https://github.com/ckeditor/ckeditor5 ~ more active than tinyMCE
 
 About
 
@@ -23,7 +23,9 @@ About
 * Converts Markdown to HTML on the fly
 
 
-### Builder selections
+### Builder selections HTML
+
+Classic good place to start
 
 * Alignment
 * AutoFormat
@@ -46,7 +48,7 @@ About
 * Image // handles block image etc
 * Image resize
 * ImageToolbar
-* ImagrUpload
+* ImageUpload
 * Indent
 * Italic
 * Link
@@ -68,7 +70,6 @@ About
 
 * AutoFormat ~ D
 * AutoSave ~ Add
-* AutoSave
 * BlockQuote ~ Add
 * Bold ~ D
 * CKFinder ~ remove
