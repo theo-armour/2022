@@ -25,42 +25,46 @@ About
 
 ### Builder selections HTML
 
+Keep
+* AutoFormat
+* BlockQuote
+* Bold
+* Link
+* Heading
+* Italic
+* List
+
+Add
+* AutoLink ??
+* Find and replace
+* General HTML support
+* Highlight
+* Horizontal line
+* Remove format
+* Source Editing
+* Strikethrough
+
+
 Classic good place to start
 
 * Alignment
-* AutoFormat
 * AutoImage
-* AutoLink ??
 * AutoSave ??
-* BlockQuote
-* Bold
 * Code
 * Code blocks??
 * Data filter ??
 * Data Schema ??
 * Essentials
-* Find and replace
-* General HTML support
-* Heading
-* Highlight
-* Horizontal line
 * HTML comment
 * Image // handles block image etc
 * Image resize
 * ImageToolbar
 * ImageUpload
-* Indent
-* Italic
-* Link
 * Link image
-* List
 * Markdown
 * Paragraph
-* Remove format
-* Source Editing
 * Special characters
 * Special characters essentials
-* Strikethrough
 * Table
 * TableToolbar
 * TextTransformation
