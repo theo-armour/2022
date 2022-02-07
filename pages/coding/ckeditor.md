@@ -31,6 +31,7 @@ Keep
 * Bold
 * Link
 * Heading
+* Indent
 * Italic
 * List
 
@@ -44,6 +45,7 @@ Add
 * Source Editing
 * Strikethrough
 
+16 items
 
 Classic good place to start
 
