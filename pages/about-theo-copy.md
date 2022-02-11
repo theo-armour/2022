@@ -5,13 +5,32 @@
 
 ## Overview
 
-Theo Armour was born at the <a href="https://snaccooperative.org/ark:/99166/w61w3pdw" target="_blank">Boston Lying-In Hospital</a>born in Boston, Massachusetts and grew up in Paris and the United States. Theo lives in San Francisco and has three daughters: <a href="http://www.alixarmour.com/" target="_blank">Alix</a>&nbsp;living in Amsterdam, <a href="http://www.cynthiaarmour.com/" target="_blank">Cynthia</a> in Oakland and <a href="https://www.linkedin.com/in/eloise-armour-b84bb1ab/" target="_blank">Eloise</a> in Missoula MT.
-
-He attended a number of schools including <a href="https://www.marymount.fr/" target="_blank">Marymount</a> in Paris, <a href="https://www.potomacschool.org/" target="_blank">Potomac</a> in Washington DC, <a href="https://en.wikipedia.org/wiki/Princeton_Day_School#History" target="_blank">Miss Fine's School</a> and <a href="http://www.pds.org/" target="_blank">Princeton Day School</a> both in Princeton NJ, <a href="http://sps.edu/" target="_blank">St Paul's School</a> in Concord NH, <a href="http://www.bbns.org/" target="_blank">Buckingham Browne &amp; Nichols</a> in Cambridge MA and <a href="http://www.syr.edu/" target="_blank">Syracuse University</a> in Syracuse NY.<br />
+Theo Armour was born at the <a href="https://snaccooperative.org/ark:/99166/w61w3pdw" target="_blank">Boston Lying-In Hospital</a>in Boston, Massachusetts and grew up in Paris and the United States. Theo lives in San Francisco and has three daughters: <a href="http://www.alixarmour.com/" target="_blank">Alix</a>&nbsp;living in Amsterdam, <a href="http://www.cynthiaarmour.com/" target="_blank">Cynthia</a> in Oakland and <a href="https://www.linkedin.com/in/eloise-armour-b84bb1ab/" target="_blank">Eloise</a> in Missoula MT.
 
 He is an architect educated at the <a href="http://www.aaschool.ac.uk/" target="_blank" title="http://www.aaschool.ac.uk/">Architectural Association School of Architecture</a> in London. He practiced architecture in London and Hong Kong. He has been a member of <a href="http://www.arb.org.uk/" target="_blank">ARCUK (now the ARB)</a>, <a href="http://www.architecture.com/" target="_blank">RIBA </a>and <a href="http://www.hkia.net/en/Home/Index.htm" target="_blank">HKIA</a>.
 
-Currently Theo is a software developer working with <a href="https://Ladybug.tools" target="_blank">Ladybug Tools</a>. He is the maintainer and primary developer of their <a href="https://www.ladybug.tools/spider-2022/" target="_blank">Spider</a> projects. These are primarily tools for engineers, architects and designers to design more energy efficient buildings. All his efforts are free and open source
+Currently Theo is a software developer working with <a href="https://Ladybug.tools" target="_blank">Ladybug Tools</a>. He is the maintainer and primary developer of their <a href="https://www.ladybug.tools/spider-2022/" target="_blank">Spider</a> projects. These are primarily tools for engineers, architects and designers to design more energy efficient buildings. All his efforts are free and open source.
+
+<hr>
+
+## 1947 - 1948 Boston MA
+Theo Armour was born at the <a href="https://snaccooperative.org/ark:/99166/w61w3pdw" target="_blank">Boston Lying-In Hospital</a>in Boston, Massachusetts. His parents were Norman Armour Jr and Cynthia Sewall Burrage Armour. Along with their daughter Tania Armour.they lived - along with at 29 Hereford Street in Boston. Their nanny's name was Doodoo.
+
+## 1948 - 1952 Paris
+
+In the summer(?) of 1948. the family boarded the SS Rotterdam and sailed to France. They lived at 25 boulevard Jean Mermoz in Neuilly. He attended a number of schools including <a href="https://www.marymount.fr/" target="_blank">Marymount</a> in Paris.
+
+## 1952 - 1953 Washington DC
+
+<a href="https://www.potomacschool.org/" target="_blank">Potomac</a> in Washington DC.
+
+## 1952 - 1961 Princeton NJ
+
+ <a href="https://en.wikipedia.org/wiki/Princeton_Day_School#History" target="_blank">Miss Fine's School</a> and <a href="http://www.pds.org/" target="_blank">Princeton Day School</a> both in Princeton NJ, <a href="http://sps.edu/" target="_blank">St Paul's School</a> in Concord NH,
+
+## 1961 - 1971 Brookville, Nassau County, NY
+
+ <a href="http://www.bbns.org/" target="_blank">Buckingham Browne &amp; Nichols</a> in Cambridge MA and <a href="http://www.syr.edu/" target="_blank">Syracuse University</a> in Syracuse NY.<br />
 
 
 ## 1971 - 1981 London
@@ -24,6 +43,7 @@ Theo was awarded the <a href="http://www.channelswimmingassociation.com/Trophy%2
 
 
 ## 1981-1991 Hong Kong
+
 While in Hong Kong, he was employed by <a href="http://www.yrm.co.uk/" target="_blank">YRM </a>and <a href="http://www.apple.com/hk/" target="_blank">Apple Computer Hong Kong</a>;&nbsp;a founder of PC Plus, an Apple and an IBM PC dealership specializing in Computer Aided Design; a founder of the <a href="http://www.hkmug.org.hk/" target="_blank" title="http://www.hkmug.org.hk">Hong Kong Macintosh User Group</a> and of the <a href="http://www.asianfn.com/" target="_blank" title="http://www.asianfn.com/">Asian Venture Capital Journal</a>;&nbsp;and a member of the&nbsp;<a href="http://www.ieee.org/index.html" target="_blank">IEEE&nbsp;</a>and the&nbsp;<a href="http://www.hkcs.org.hk/en_hk/home/home.asp" target="_blank">HKCS</a>.&nbsp;He was a competitive swimmer and also served as a board member with the Hong Kong&nbsp;<a href="http://www.hksap.org/" target="_blank">Sports Association for the Physically Handicapped</a>. His primary endeavor was founder and CEO of a computer-aided design consultancy: CAD-Asia.<br />
 
 ## 1991 - 2001 - Mill Valley CA
