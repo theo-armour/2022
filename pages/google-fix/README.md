@@ -1,11 +1,36 @@
 # Google FIx
 
 
-https://voice.google.com
+##Your Google Fi Support Inquiry
 
-backup number (415) 644-8890
+See - earlier today
 
-## [8-0957000031103] Your Google Fi Support Inquiry
+Unable to receive SMS verification message; unable to receive calls from new numbers
+
+Please also refer to several support inquiries:
+
+0-7022000032478
+7-0884000031831take your time
+0-2926000032627
+8-0957000031103
+4-2114000031804
+5-6448000030841
+
+My Samsung S21 Ultra continues to not be able to receive text messages from Lyft, Uber, WhatsApp, GitHub and other sources. Callers who I have not previously phoned receive the message "Unable to complete the call, Please try later".
+
+This issue has been happening for over a year.
+
+I recently purchased a SIM card from T-Mobile.
+
+With the new T-Mobile number, I have received text verification numbers from all the above sources on the same phone.
+
+In other words: All the SMS messages that Google FI is blocking, T-Mobile is sending through.
+
+
+I would like to keep my family plan with Google FI and also have a phone that works well.
+
+Do you have any suggestions?
+
 
 yes
 
@@ -19,13 +44,7 @@ Dial
 * *#*#344636#*#* ~ identify service
 
 Text
-* 32665 facebook > "To stop receiving texts from Facebook, reply stop. ..."
-* 89203 Uber > no reply
-* 22444 google > no reply
-* 256447 google > "Sorry, this service is not available"
-* 55074 Lyft > "Sorry, this service is not available"
-* 46080 Lyft > "Lyft Alerts: Help at support@lyft.com ..."
-
+ok
 ## Devices and apps used for Testing
 
 * Google Pixel 5 with Hangouts, Messages, Telegram etc
