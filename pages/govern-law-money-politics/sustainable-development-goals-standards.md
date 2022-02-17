@@ -1,5 +1,17 @@
 # Sustainable Development Goals & Standards
 
+## Design policy to be testable
+
+Similar to SDGs
+
+https://www.lesswrong.com/posts/bGDk58fPYQK7pRHvS/design-policy-to-be-testable
+
+A description of how they're going to measure the impact of the bill.
+A prediction distribution for the impact of the bill.
+A level at which they'd consider the bill a success, and a level at which they'd consider it a failure.
+A description of how they're going to measure how bad things would be conditional on the bill not passing.
+A prediction distribution for this value.
+
 
 ## Sustainable Development Goals
 

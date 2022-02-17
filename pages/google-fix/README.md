@@ -42,6 +42,7 @@ ID5-6448000030841.
 Dial
 * *#*#34963#*#* ~ repair service
 * *#*#344636#*#* ~ identify service
+* *#*#34284#*#* ~ bug report
 
 Text
 ok
