@@ -1,11 +1,11 @@
 
 # Triads or Trichotomy
 
-* https://en.wikipedia.org/wiki/Triad
-* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
-	* **Start here**:
-	* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
+## Reference
 
+* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
+	* **Start here to see long list**: https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
+* https://en.wikipedia.org/wiki/Triad
 * https://en.wikipedia.org/wiki/Triad_(religion)
 * https://en.wikipedia.org/wiki/Rule_of_three
 * https://en.wikipedia.org/wiki/Rule_of_three_(writing)
@@ -65,7 +65,7 @@ Perception /  Action / Judgment /
 
 ## Ryan Holiday
 
-* perception	action		judgment
+* perception ~ action ~ judgment
 
 
 ## Computers [IPO model]( https://en.wikipedia.org/wiki/IPO_model )
@@ -94,8 +94,8 @@ Computer terms
 
 ## [C S Pierce]( https://en.wikipedia.org/wiki/Charles_Sanders_Peirce )
 
-* Sign			Object			Interpretant
-* represent		ramification	a quality/rule
+* Sign	~ Object ~ Interpretant
+* represent ~ ramification ~ a quality/rule
 
 
 ## [Semiotics]( https://en.wikipedia.org/wiki/Semiotics )
@@ -105,12 +105,12 @@ Computer terms
 
 ## https://www.freecodecamp.org/news/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941/
 
-* Problems		Approach		Assumptions
+* Problems ~ Approach ~ Assumptions
 
 
 ## Pattern Language
 
-* Problems 		syntax|grammar 		solution
+* Problems ~ syntax|grammar ~ solution
 
 
 ## Hegelian Dialectic
@@ -149,7 +149,7 @@ https://en.wikipedia.org/wiki/SWOT_analysis
 
 ## Ferdinandi
 
-Code, get stuck, research, repeat
+Code, get stuck, research (repeat)
 
 * https://gomakethings.com/code-get-stuck-research-repeat
 
