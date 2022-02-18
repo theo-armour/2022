@@ -51,9 +51,9 @@ Random three things
 * https://en.wikipedia.org/wiki/Clarke%27s_three_laws
 * https://en.wikipedia.org/wiki/Laws_of_thermodynamics
 
+***
 
-
-Perception /  Action / Judgment /
+## More examples of triads not yet in the Wikipedia list
 
 ## money ~ fame/power ~ love
 
