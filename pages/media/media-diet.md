@@ -1,21 +1,167 @@
 # Media Diet
 
-* [https://nano.page/page/media_diet](https://nano.page/page/media_diet)
 
-## Everything
-
-* https://alltop.com/
-* https://drudgereport.com/
-* https://upstract.com/
-
-
-
-## Newsletters
+## Newsletter lists ~ curated lists of new sources
 
 Yikes! So many newsletters
 
-* [https://www.bloomberg.com/account/newsletters](https://www.bloomberg.com/account/newsletters?source=hyperdrive_email)
-* [http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/](http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/)
+* [https://bloomberg.com/account/newsletters](https://bloomberg.com/account/newsletters?source=hyperdrive_email)
+* [http://arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/](http://arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/)
+* https://drudgereport.com/ ~ list many sources
+
+## Reference
+
+* https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources
+* https://en.wikipedia.org/wiki/Wikipedia:List_of_free_online_resources
+
+How To: Find Sources
+* https://library.wnc.edu/find_sources
+
+
+## Aggregators
+
+### Everything ~ assembles headlines from many sources into "cards"
+
+* https://alltop.com/
+* https://upstract.com/
+
+### Crowd Source ~ users post links
+
+* https://digg.com/
+* https://reddit.com/
+* https://news.ycombinator.com/
+
+## Aggregators ~ News
+
+* https://aol.com/
+* https://apple.com/apple-news/
+* https://bing.com/
+* https://knewz.com/
+	* conservative - links to multiple articles on same story - like techmeme
+* https://mashable.com/
+* https://technorati.com/
+
+## Aggregator ~ newsletter & email
+
+* https://feedly.com/ ??
+* https://nextdraft.com/
+* https://theskimm.com/
+* https://marginalrevolution.com/
+* https://metafilter.com/
+
+
+## Aggregators ~ Arts & Letters
+
+* http://9rules.com/
+* https://aldaily.com/ ~ Essay, literary
+* https://edge.org/
+* https://genealogiesofmodernity.org/
+* https://laphamsquarterly.org/roundtable/
+* https://lithub.com/
+* https://mcsweeneys.net/
+* https://nautil.us/)
+* https://newcriterion.com/
+* https://openculture.com/
+* https://theconversation.com/us
+* https://theparisreview.org/
+* https://worksinprogress.co/
+* https://zerohedge.com/
+
+
+## Aggregators ~ Tech News
+
+* https://techmeme.com/
+* https://theregister.com/
+* https://www.quantamagazine.org/
+
+
+
+## Publishers ~ generate original content
+
+### News Agencies ~ have their own reporters
+
+* https://apnews.com/
+* https://reuters.com/
+
+### News Agencies Lite ~ text only headlines
+
+* https://github.com/mdibaiee/awesome-lite-websites
+* https://lite.cnn.com/en
+* https://text.npr.org/
+
+## Publishers News
+
+* https://axios.com/
+* https://bbc.com/future
+* https://morningconsult.com/
+* https://aeon.co/
+* https://harpers.org/
+
+## Publishers Art
+
+* https://leonardo.info/
+* https://pudding.cool/
+* https://rhizome.org/
+
+## Publishers Travel or location
+
+* https://timeout.com/](https://timeout.com/
+* https://coe.int/en/web/portal/home
+
+
+## Blogs & Newsletters
+
+* https://goodpeopleshare.substack.com/
+* https://lukesmith.xyz/index
+* https://arnoldkling.com/blog/
+* https://isomorphismes.tumblr.com/archive
+* https://nayafia.substack.com/
+* https://us16.campaign-archive.com/home/?u=28889ca0ae601ef0242481086&id=7feb50aead)
+* https://geometrylinks.blogspot.com/
+* https://geohot.github.io/blog/
+
+## Blog ~ Science
+
+* https://lowtechmagazine.com
+
+## Humor
+
+* https://dilbert.com/
+* https://reductress.com/
+* https://xkcd.com/
+* https://neal.fun/
+
+
+## Smart Individuals
+
+* https://astralcodexten.substack.com/
+* https://brainpickings.org/
+	* https://nytimes.com/2012/12/02/fashion/maria-popova-has-some-big-ideas.html
+* https://futilitycloset.com/about/
+* https://gwern.net/
+* https://heathercoxrichardson.substack.com/
+* https://kottke.org/
+* http://paulgraham.com
+	* http://paulgraham.com/articles.html
+	* Example I like: http://paulgraham.com/philosophy.html
+* https://swiss-miss.com/
+
+
+## Smart Clumps of People
+
+* https://lesswrong.com/
+* https://ted.com/ ??
+
+
+
+
+
+
+
+
+
+
+
 
 ## My Media Diet
 
@@ -34,124 +180,17 @@ Yikes! So many newsletters
 * [https://commonwealthclub.org/](https://commonwealthclub.org/)
 * [https://kqed.org/](https://kqed.org/)
 * https://lonelyplanet.com/usa/san-francisco
-* [https://sfarts.org/](https://www.sfarts.org/)
+* [https://sfarts.org/](https://sfarts.org/)
 * https://sfchronicle.com/
 * https://sfexaminer.com/
 * https://sfist.com/
 * https://sfgate.com/
-* https://www.sfstation.com/
-* [https://www.sfweekly.com/](https://www.sfweekly.com/)
+* https://sfstation.com/
+* [https://sfweekly.com/](https://sfweekly.com/)
 * [https://thebolditalic.com/](https://thebolditalic.com/)
-* [https://www.timeout.com/san-francisco](https://www.timeout.com/san-francisco)
+* [https://timeout.com/san-francisco](https://timeout.com/san-francisco)
 
 
-## Smart People
-
-* [https://brainpickings.org/](https://www.brainpickings.org/)
-	* https://www.nytimes.com/2012/12/02/fashion/maria-popova-has-some-big-ideas.html
-* https://www.gwern.net/
-* [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/)
-* https://astralcodexten.substack.com/
-* [https://www.futilitycloset.com/about/](https://www.futilitycloset.com/about/)
-
-
-## Publishers Art
-
-* https://kottke.org/
-* [https://www.leonardo.info/](https://www.leonardo.info/)
-* [https://www.swiss-miss.com/](https://www.swiss-miss.com/)
-* https://pudding.cool/
-* [https://rhizome.org/](https://rhizome.org/)
-
-Publishers News
-
-* [https://www.axios.com/](https://www.axios.com/)
-* [https://morningconsult.com/](https://morningconsult.com/)
-
-## Agencies
-
-* https://apnews.com/
-
-## Agencies Lite
-
-* http://lite.cnn.com/en
-
-## Aggregators ~ News
-
-* https://www.aol.com/
-* https://www.apple.com/apple-news/
-* [https://www.bing.com/](https://www.bing.com/)
-* [https://www.bbc.com/future](https://www.bbc.com/future)
-* https://knewz.com/ ~ conservative
-*
-* https://technorati.com/
-
-## Aggregator ~ newsletter & email
-
-* https://feedly.com/ ??
-* https://nextdraft.com/
-* https://www.theskimm.com/
-
-
-## Aggregators ~ Arts & Letters
-
-* http://9rules.com/art/
-* https://aeon.co/
-* [https://www.aldaily.com/](https://www.aldaily.com/) ~ Essay, literary
-* [https://www.edge.org/](https://www.edge.org/)
-* https://harpers.org/
-* [https://www.laphamsquarterly.org/roundtable/](https://www.laphamsquarterly.org/roundtable/)
-* https://www.lesswrong.com/
-* https://lithub.com/
-* [https://www.mcsweeneys.net/](https://www.mcsweeneys.net/)
-* [https://nautil.us/](https://nautil.us/)
-* https://newcriterion.com/
-* [https://www.openculture.com/](https://www.openculture.com/)
-* https://theconversation.com/us
-* [https://www.theparisreview.org/](https://www.theparisreview.org/)
-* [https://www.worksinprogress.co/](https://www.worksinprogress.co/)
-* https://www.zerohedge.com/
-
-## Aggregators ~ Tech
-
-* https://www.techmeme.com/
-
-
-## Crowd Source
-
-* https://digg.com/
-* https://www.reddit.com/
-* [https://www.ted.com/](https://www.ted.com/)
-* [https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)
-
-
-## Blogs & Newsletters
-
-* [https://goodpeopleshare.substack.com/](https://goodpeopleshare.substack.com/)
-* [https://lukesmith.xyz/index](https://lukesmith.xyz/index)
-* [http://www.arnoldkling.com/blog/](http://www.arnoldkling.com/blog/)
-* https://isomorphismes.tumblr.com/archive
-* https://marginalrevolution.com/
-* https://www.metafilter.com/
-* [The More To That Newsletter](https://us16.campaign-archive.com/home/?u=28889ca0ae601ef0242481086&id=7feb50aead)
-* [https://geometrylinks.blogspot.com/](https://geometrylinks.blogspot.com/)
-* https://geohot.github.io/blog/
-
-## Blog ~ Science
-
-* https://www.lowtechmagazine.com
-
-## Humor
-
-* https://dilbert.com/
-* https://reductress.com/
-* https://xkcd.com/
-
-
-## Travel or location
-
-* [https://www.timeout.com/](https://www.timeout.com/)
-* https://www.coe.int/en/web/portal/home
 
 ## media access
 
@@ -159,7 +198,7 @@ Publishers News
 
 > The Conversation is a nonprofit, independent news organization dedicated to unlocking the knowledge of experts for the public good. We publish trustworthy and informative articles written by academic experts for the general public and edited by our team of journalists.
 
-* https://www.openculture.com/
+* https://openculture.com/
 * https://daily.jstor.org/
 
 > JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTOR's digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide background historical, scientific, literary, political, and otherwise for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. We're proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. You will find those free JSTOR resources marked with a little icon that looks like this:

@@ -1,8 +1,20 @@
 # Google FIx
 
 
-##Your Google Fi Support Inquiry
+## Your Google Fi Support Inquiry
 
+
+## 2022-02-17
+
+Source (Where is the call coming from?) #: +1 415 202-0342 x232
+Destination (Where is the call going to?)#: +1 415 828 0000
+Date: 2022-02-17
+Timestamp(s) and Timezone: 09:30 PST
+Error message/Results: voice message "Could not complete your call. Please try again."
+
+I also initiated a bug report
+
+## 2022-02-15
 See - earlier today
 
 Unable to receive SMS verification message; unable to receive calls from new numbers

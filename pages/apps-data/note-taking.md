@@ -1,6 +1,14 @@
 # Note Taking
 
+
+
 * https://mynexttablet.com/best-s-pen-apps/
+
+## nano
+
+* https://nano.page/page/media_diet
+	* Could be an interesting place to keep things
+
 
 ## https://keep.google.com/
 	* no svg export
