@@ -76,5 +76,5 @@ http://searchcollection.asianart.org/search/advanced/objects
 
 Object Number
 
-* Acquistion_year-month-day:index:abc
-* if no acqusition date then first appraisal date
+* Acquisition_year-month-day:index:abc
+* if no acquisition date then first appraisal date

@@ -208,13 +208,16 @@ https://resist.org/radical-philanthropy/
 
 https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
 
+* Stand on the shoulders of giants. Base my observations/thinking/recommendations on evidence, prior example, clinical research
+* Be transparent: provide links to the original research
+
 “Poor artists copy. Great artists steal.”
 
 https://quoteinvestigator.com/2013/03/06/artists-steal/
 
 If I am to create a vision statement I might as well stand on the shoulders of the most excellent vision statements already written.
 
-The SDGs are such. And given that they offer a vision for the entire world in 2030 it behooves us to know about them and take them to heart.
+
 
 
 ## Follow Wikipedia
@@ -259,14 +262,6 @@ Looking back at the way things were done in the past may not always help you cre
 * Julia Child
 * Michelin 3 stars
 
-
-
-***
-
-<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
-
-## Checklists
-
 ## Checklists
 
 * https://en.wikipedia.org/wiki/Checklist
@@ -278,3 +273,8 @@ Looking back at the way things were done in the past may not always help you cre
 * https://asrs.arc.nasa.gov/publications/callback/cb_292.htm
 * https://en.wikipedia.org/wiki/Time_management#Task_list_organization
 * https://en.wikipedia.org/wiki/Category:Checklists
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

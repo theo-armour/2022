@@ -1,10 +1,16 @@
 
 # Triads or Trichotomy
 
+* A triad, meaning a "group of three".
+* A trichotomy is a three-way classificatory division.
+
+Dividing a topic into three sub-topics appears to be an industry standard method among philosophers of note.
+
 ## Reference
 
 * https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
-	* **Start here to see long list**: https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
+	* A trichotomy is a three-way classificatory division. Some philosophers pursued trichotomies.
+	* **Start here to see long list of 55 trichotomies**: https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
 * https://en.wikipedia.org/wiki/Triad
 * https://en.wikipedia.org/wiki/Triad_(religion)
 * https://en.wikipedia.org/wiki/Rule_of_three
@@ -17,6 +23,7 @@
 * https://en.wikipedia.org/wiki/Trivium
 * https://en.wikipedia.org/wiki/Isocolon#Tricolon
 * https://en.wikipedia.org/wiki/Trilemma
+	* A trilemma is a difficult choice from three options, each of which is (or appears) unacceptable or unfavourable.
 
 About
 
@@ -38,10 +45,10 @@ Also of possible related interest
 * https://en.wikipedia.org/wiki/Plato%27s_theory_of_soul
 * https://en.wikipedia.org/wiki/Project_management_triangle
 * https://en.wikipedia.org/wiki/Ternary_plot
+* https://en.wikipedia.org/wiki/Three-way_comparison
 * https://en.wikipedia.org/wiki/Threesome
 * https://en.wikipedia.org/wiki/Triadization
 * https://en.wikipedia.org/wiki/VPEC-T
-* https://en.wikipedia.org/wiki/Borromean_rings
 
 Random three things
 

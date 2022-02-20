@@ -58,44 +58,34 @@ Definitions
 * https://www.thechecker.net/stories/blog/6-reasons-checklists-are-effective-business-tools
 
 
-
 ## Checklist Apps
 
 * https://www.thechecker.net
 	* Our Checklist Books can be used as a stand-alone solution or in conjunction with The Checker Software. Each checklist is specific to a particular type of asset, with all the detail necessary for a thorough, compliant inspection or audit.
 	* The Checker Software features a range of tools for conducting and managing inspections and audits in a way that lowers costs and increases benefits. The cloud-based software can be configured to meet your unique needs.
-
-
-## Medical
-
-* https://en.wikipedia.org/wiki/Symptom_Checklist_90
-
-
-## Personal
-
-* https://johnnywebber.com/life-assessment-checklist/
-
-## AEC
-
-* https://www.fitwel.org/
-
-
-## Personal ~ Quantified Life
-
-## Apps
-
 * https://checklist.com/
 * https://www.checkli.com/
 * https://blog.bit.ai/how-to-create-a-checklist/
 * https://www.meistertask.com/blog/the-power-of-checklists/  why?
 
-### Things to include
+## See also
+
+* Lessons Learned
+
+
+***
+
+## Personal ~ Quantified Life
+
+### Things to include in a checklist
 
 * Weight chart with seven day moving average
 * Steps per day
 * Heart minutes per day
 
 ### Diet chart
+
+Did you have some?
 
 * Fish
 * Water
