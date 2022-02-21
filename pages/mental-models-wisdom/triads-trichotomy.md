@@ -6,6 +6,8 @@
 
 Dividing a topic into three sub-topics appears to be an industry standard method among philosophers of note.
 
+* https://en.wikipedia.org/wiki/Industry_standard
+
 ## Reference
 
 * https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
