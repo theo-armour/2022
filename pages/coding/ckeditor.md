@@ -1,5 +1,11 @@
 # CKEditor ~ 4.9K stars
 
+## pretty print output
+
+https://github.com/ckeditor/ckeditor5/issues/8668
+
+## Links
+
 * https://ckeditor.com/
 * https://ckeditor.com/ckeditor-5/
 * https://ckeditor.com/ckeditor-5/online-builder/
