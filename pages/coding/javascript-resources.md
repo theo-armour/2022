@@ -66,3 +66,8 @@ Complexity
 
 * https://stackfull.dev/series/tree-javascript
 * https://stackfull.dev/tree-data-structure-in-javascript
+
+## Tricks
+
+Nice sidebars, sticky demo
+* https://lexoral.com/blog/you-dont-need-js/
