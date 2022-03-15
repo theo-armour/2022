@@ -1,5 +1,7 @@
 # Goals Read Me
 
+* This is about end results, outcomes, the state of things
+
 This is mostly a landing page for snippets that will one day gp to wherever they are supposed to go
 
 The Goals folder contains a number of pages  relating to goals, manifestos, mission, vision etc.

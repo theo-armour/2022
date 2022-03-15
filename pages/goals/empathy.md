@@ -1,4 +1,3 @@
-
 # Empathy
 
 ## A Close Readings of '[What to Say When You Meet the Angel of Death at a Party]( https://www.nytimes.com/2018/01/26/opinion/sunday/cancer-what-to-say.html )'
@@ -20,6 +19,7 @@ Here are some of the highlights of the article:
 * But the impulse to offer encouragement is a perfect one.
 	* There is tremendous power in touch, in gifts and in affirmations when everything you knew about yourself might not be true anymore.
 
+
 ### Comments
 
 The first thing I want to do is acknowledge Kate Bowler, her existence, her possible untimely demise and her sharing of pertinent, useful and kindly observations. Hello Kate.
@@ -27,6 +27,7 @@ The first thing I want to do is acknowledge Kate Bowler, her existence, her poss
 Kate may be about to die. This, however,  does not stop toothaches, sprained ankles and having to do the laundry. That she has set aside the time to write an article good enough not only to be in the New York Times but also to be one of the most popular articles is a good indication of the force and veracity of her thoughts and feelings.
 
 Kate: I will do my best to come to terms with your being and listen to your thoughts.
+
 
 ## 'succumb immediately to a swift death by free association'
 
@@ -41,6 +42,7 @@ The typical thing is that somebody asks if your well and you reply that you are 
 There are 577 comments to the article. Interestingly, the majority of the comments contain the 'free associations'. Many refer to a death or prognosis of death relating to the person writing the comment. In other words Kate is absolutely correct when she says: Most people I talk with succumb immediately to a swift death by free association.
 
 Some of the comments are of the sort that indicate 'I have endured something like what I believe you are enduring. And I just want you to know that I understand how hard and difficult such things can be. Most of the comments seem to lead into one if the three categories described by Kate.
+
 
 ## three categories: minimizers, teachers and solvers.
 

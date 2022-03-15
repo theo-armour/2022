@@ -53,6 +53,7 @@ Salons
 * https://en.wikipedia.org/wiki/English_coffeehouses_in_the_17th_and_18th_centuries
 * https://m.fourseasons.com/magazine/rejuvenate/salons-around-the-world/
 
+
 ## Mission
 
 > A typical Socrates Cafe group meets in a public place, is open to anyone who wishes to attend, and Socratically explores a question which is chosen by vote or which is announced shortly in advance. Typically there are no prerequisites, and no reading or other preparation is required.
@@ -81,9 +82,11 @@ We are genuinely inclusive. We don’t just tolerate but embrace the equal consi
 
 We don’t force artificial consensus, we don’t force thoughtfulness or reasonableness or civility down people’s throats — rather, these often are both an outcome of the kinds of inquiries we promote, and of the ethos that is entwined with them, and such qualities are embedded within the explorations themselves.
 
+
 ## Do's and Dont's
 
 http://socratescafe.com/?page_id=56
+
 
 ## Topics
 
