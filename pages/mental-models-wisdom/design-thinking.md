@@ -47,13 +47,23 @@ Categories
 * https://twitter.com/hashtag/cbdq?
 * https://twitter.com/hashtag/designthinking
 
+
 ## IDEO U
 
 * https://www.ideou.com/blogs/inspiration/what-is-design-thinking
 
+
 ### interaction design foundation
 
+Online UX design courses by experts, with industry-recognized certificates
+
+
+### What is Design Thinking?
+
 * https://www.interaction-design.org/literature/topics/design-thinking
+
+> Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. Involving five phases—Empathize, Define, Ideate, Prototype and Test—it is most useful to tackle problems that are ill-defined or unknown.
+
 * https://www.interaction-design.org/literature/topics/empathize
 
 
