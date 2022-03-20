@@ -1,6 +1,25 @@
 # Chromebook
 
 
+## Tips
+
+###  https://beebom.com/best-chrome-os-tips-tricks/
+
+* Preview Files Quickly
+	* File Manager: Just select a file and press the “Space” key.
+* Helpful Chrome OS Shortcuts
+	* Search for anything: Press the Search button
+	* Trigger Google Assistant: Search + A
+	* Lock your Chromebook: Search + L
+	* Take a Screenshot: Ctrl + Overview button (you will find it just above the 6 key)
+	* Delete: Alt + Backspace
+	* Snap Windows to left/right: Alt + ] and Alt + [
+	* Keyboard Cheatsheet: Ctrl + Alt + ?
+* Enable Recycle Bin
+	* chrome://flags ? trash
+
+### https://www.androidcentral.com/top-chromebook-tips-and-tricks
+
 ## Links
 
 Chromebook keyboard shortcuts
