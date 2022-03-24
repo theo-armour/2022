@@ -5,9 +5,9 @@
 
 Yikes! So many newsletters
 
-* [https://bloomberg.com/account/newsletters](https://bloomberg.com/account/newsletters?source=hyperdrive_email)
-* [http://arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/](http://arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/)
-* https://drudgereport.com/ ~ list many sources
+* https://bloomberg.com/account/newsletters
+* http://arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/
+* https://drudgereport.com/ ~ list many sources at bottom
 
 ## Reference
 
@@ -23,6 +23,7 @@ How To: Find Sources
 ### Everything ~ assembles headlines from many sources into "cards"
 
 * https://alltop.com/
+* https://brutalist.report/
 * https://upstract.com/
 
 ### Crowd Source ~ users post links
@@ -37,7 +38,7 @@ How To: Find Sources
 * https://apple.com/apple-news/
 * https://bing.com/
 * https://knewz.com/
-	* conservative - links to multiple articles on same story - like techmeme
+	* conservative - links to multiple articles on same story - similar to techmeme
 * https://mashable.com/
 * https://technorati.com/
 
@@ -57,9 +58,10 @@ How To: Find Sources
 * https://edge.org/
 * https://genealogiesofmodernity.org/
 * https://laphamsquarterly.org/roundtable/
-* https://lithub.com/
+* https://lithub.com/ ~ ***
+	* https://lithub.com/category/lit-hub-daily/ ~ subscribed
 * https://mcsweeneys.net/
-* https://nautil.us/)
+* https://nautil.us/
 * https://newcriterion.com/
 * https://openculture.com/
 * https://theconversation.com/us
@@ -72,7 +74,7 @@ How To: Find Sources
 
 * https://techmeme.com/
 * https://theregister.com/
-* https://www.quantamagazine.org/
+* https://quantamagazine.org/
 
 
 
@@ -159,19 +161,15 @@ How To: Find Sources
 
 
 
-
-
-
-
 ## My Media Diet
 
-* [https://nytimes.com/](https://nytimes.com/)
+* https://nytimes.com/
 * https://nextdraft.com
 * https://kottke.org/
-* [https://drudgereport.com/](https://drudgereport.com/)
+* https://drudgereport.com/
 * https://text.npr.org/
 * https://medium.com/
-* https://bloomberg.com/
+* https://wsj.com/
 
 ## 12 San Francisco Web Sites
 

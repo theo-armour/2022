@@ -139,6 +139,7 @@ Values
 
 ### Examples
 
+* https://webvision.mozilla.org/
 * https://www.uscsd.k12.pa.us/cms/lib/PA01000033/Centricity/Domain/10/Beliefs,_Vision,_Mission_Goals_(Revised).pdf
 * https://www.aboutamazon.com/about-us/leadership-principles
 * https://www.scouting.org/about/faq/question10/
