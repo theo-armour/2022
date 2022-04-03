@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "843e1072e33a8e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0452aedf8acb0bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled 2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a18155b93df055a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b523488220f4055b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ede6f3cac2cf46b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2130eda10c4c48a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "378cff39c1b4c2c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff08e500a9c65de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e51e4da3632bec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c0452aedf8acb0bc",
+  "lastOpenFiles": [
+    "Untitled 2.md",
+    "bicop/penguin.png",
+    "bicop/equality-vs-equity.png",
+    "bicop/2020-07-31-theo-to-jose.md",
+    "google-fix/2022-03-02.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "jaanga/jaanga-user-experience-r1.md",
+    "theo-at-73.jpg",
+    "applications-programs-new/obsidian.md"
+  ]
+}
