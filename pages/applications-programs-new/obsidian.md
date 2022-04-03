@@ -10,6 +10,10 @@
 
 Dynalist
 * https://dynalist.io/
+## keys
+toggle fold on current line > ctl m
+all fold ctl .
+unfold all: ctl shift .
 
 ## Reference
 * https://en.wikipedia.org/wiki/Comparison_of_note-taking_software

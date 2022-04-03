@@ -7,8 +7,12 @@
         "id": "c0452aedf8acb0bc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "applications-programs-new/obsidian.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -44,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f16e4cc210169ac9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -65,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "applications-programs-new/obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +85,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ab260e4da222e24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "applications-programs-new/obsidian.md"
               }
             }
           }
@@ -84,15 +107,15 @@
   },
   "active": "c0452aedf8acb0bc",
   "lastOpenFiles": [
+    "applications-programs-new/obsidian.md",
+    "applications-programs-new/android.md",
+    "diet-food-possessions/cooking.md",
+    "theo-at-73.jpg",
+    "qrcode_theo-armour.github.io.png",
+    "ta-2022-pages.md",
     "Untitled 2.md",
     "bicop/penguin.png",
     "bicop/equality-vs-equity.png",
-    "bicop/2020-07-31-theo-to-jose.md",
-    "google-fix/2022-03-02.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "jaanga/jaanga-user-experience-r1.md",
-    "theo-at-73.jpg",
-    "applications-programs-new/obsidian.md"
+    "bicop/2020-07-31-theo-to-jose.md"
   ]
 }
