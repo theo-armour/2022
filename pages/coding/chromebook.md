@@ -7,6 +7,8 @@
 
 * Preview Files Quickly
 	* File Manager: Just select a file and press the “Space” key.
+Clipboard history > Search - V
+
 * Helpful Chrome OS Shortcuts
 	* Search for anything: Press the Search button
 	* Trigger Google Assistant: Search + A
@@ -17,11 +19,12 @@
 	* Keyboard Cheatsheet: Ctrl + Alt + ?
 * Enable Recycle Bin
 	* chrome://flags ? trash
+	* chrome://system
 
-### https://www.androidcentral.com/top-chromebook-tips-and-tricks
 
 ## Links
-
+* https://www.computerworld.com/article/3643578/chrome-os-interface-upgrade.html
+*  https://www.androidcentral.com/top-chromebook-tips-and-tricks
 Chromebook keyboard shortcuts
 * https://support.google.com/chromebook/answer/183101
 

@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chromebook flags laun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,6 +97,17 @@
                 "file": "applications-programs-new/obsidian.md"
               }
             }
+          },
+          {
+            "id": "b1aaf8f4bf08f3cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -108,14 +119,14 @@
   "active": "c0452aedf8acb0bc",
   "lastOpenFiles": [
     "applications-programs-new/obsidian.md",
-    "applications-programs-new/android.md",
-    "diet-food-possessions/cooking.md",
-    "theo-at-73.jpg",
-    "qrcode_theo-armour.github.io.png",
-    "ta-2022-pages.md",
-    "Untitled 2.md",
-    "bicop/penguin.png",
-    "bicop/equality-vs-equity.png",
-    "bicop/2020-07-31-theo-to-jose.md"
+    "applications-programs-new/superhuman.md",
+    "life/hearing.md",
+    "coding/chromebook.md",
+    "coding/chrome-console.md",
+    "tech-hardware/hardware.md",
+    "arts-sciences-wikipedia/ai.md",
+    "arts-sciences-wikipedia/aec.md",
+    "arts-sciences-wikipedia/3d-viz.md",
+    "arts-sciences-wikipedia/beauty.md"
   ]
 }

@@ -41,6 +41,8 @@ Jacques Lacan ~ (April 13, 1901 – September 9, 1981) was a French psychoanalys
 
 Claude Lévi-Strauss ~
 
+Simeon Poisdon
+
 Marcel Proust ~
 
 

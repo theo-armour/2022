@@ -1,5 +1,5 @@
 # Obsidian
-
+tags #software
 * https://obsidian.md/
 * https://forum.obsidian.md/
 	* https://forum.obsidian.md/t/how-is-obsidian-more-than-a-wiki/2914/6
@@ -14,6 +14,7 @@ Dynalist
 toggle fold on current line > ctl m
 all fold ctl .
 unfold all: ctl shift .
+hhh
 
 ## Reference
 * https://en.wikipedia.org/wiki/Comparison_of_note-taking_software

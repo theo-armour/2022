@@ -1,6 +1,9 @@
 # hearing
 
 * https://hearingspeech.org
+* https://sfaudiology.com/
+* https://www.ucsfhealth.org/clinics/audiology-clinic
+* https://sfhearingcenter.com/
 
 ## Hearing
 
