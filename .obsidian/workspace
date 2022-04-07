@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "15428823a13555de",
+    "type": "split",
+    "children": [
+      {
+        "id": "df25dd77ae78a70f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/arts-sciences-wikipedia/ai.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5cae82d3bc7381b",
+    "type": "split",
+    "children": [
+      {
+        "id": "542b74095803b21d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee260387186b6bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c62f57d26149a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "988ec1ecf32efd3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3043144b830ec408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062cad92311db20a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/arts-sciences-wikipedia/ai.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df25dd77ae78a70f",
+  "lastOpenFiles": [
+    "pages/arts-sciences-wikipedia/ai.md"
+  ]
+}
