@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +89,7 @@
   },
   "active": "df25dd77ae78a70f",
   "lastOpenFiles": [
-    "pages/arts-sciences-wikipedia/ai.md"
+    "pages/arts-sciences-wikipedia/ai.md",
+    "pages/arts-sciences-wikipedia/aec.md"
   ]
 }
