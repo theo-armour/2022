@@ -23,7 +23,7 @@ MIRI announces new "Death With Dignity" strategy
 ## Smart People Talking
 
 Yudkowsky Contra Christiano On AI Takeoff Speeds
-> https://astralcodexten.substack.com/p/yudkowsky-contra-christiano-on-ai?s=r
+* https://astralcodexten.substack.com/p/yudkowsky-contra-christiano-on-ai?s=r
 
 >In 2008, thousands of blog readers - including yours truly, who had discovered the rationality community just a few months before - watched Robin Hanson debate Eliezer Yudkowsky on the future of AI.
 
@@ -37,3 +37,7 @@ Hacker News > AGI
 Reddit
 * https://www.reddit.com/r/agi/
 
+## More
+
+* https://news.ycombinator.com/item?id=30939282
+	* https://spectrum.ieee.org/andrew-ng-data-centric-ai
