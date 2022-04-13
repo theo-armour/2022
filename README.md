@@ -4,9 +4,7 @@
 
 ## Concept
 
-*   Bits & bobs
-*   123 456 789
-* 
+*   hello world!
 
 ## To Do / Wish List
 
