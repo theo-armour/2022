@@ -25,6 +25,7 @@ tags: #markdown
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 * https://github.com/shaunlebron/github-markdown-hacks
+* https://alvinalexander.com/technology/markdown-comments-syntax-not-in-generated-output/
 
 
 ## Places where you can use Markdown
