@@ -1,5 +1,7 @@
 # Markdown
 
+tags: #markdown
+
 ## Reference
 
 * https://daringfireball.net/projects/markdown/ \<\< where it all started
