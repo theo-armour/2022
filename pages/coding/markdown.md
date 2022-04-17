@@ -4,13 +4,15 @@ tags: #markdown
 
 ## Reference
 
-* https://daringfireball.net/projects/markdown/ \<\< where it all started
+* https://daringfireball.net/projects/markdown/ ~ where it all started
 >Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+
 * http://daringfireball.net/projects/markdown/syntax
 >PHILOSOPHY
 >Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 >
 >Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters — including Setext, atx, Textile, reStructuredText, Grutatext, and EtText — the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
+
 * https://en.wikipedia.org/wiki/Markdown
 >Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
 >
