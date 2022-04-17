@@ -32,7 +32,7 @@ tags: #markdown
 
 ## Places where you can use Markdown
 
-* https://www.reddit.com/wiki/commenting#wiki_for_more_up_to_date_information_go_here.3A_https.3A.2F.2Fwww.reddit.com.2Fwiki.2Fmarkdown
+* https://www.reddit.com/wiki/markdown
 * https://stackoverflow.com/help/formatting
 * https://github.com
 	* https://github.com/topics/markdown
@@ -86,6 +86,14 @@ https://github.com/search?q=markdown&type=topics
 * https://github.com/kesla/jsonmark/blob/master/jsonmark.js
 * https://github.com/ajithr/md-2-json
 	* Uses Marked
+
+***
+
+Other tools to consider
+
+## Obsidian
+
+* https://theo-armour.github.io/2022/#pages/applications-programs-new/obsidian.md
 
 
 ## texme

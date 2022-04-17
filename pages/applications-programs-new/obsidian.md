@@ -1,5 +1,6 @@
 # Obsidian
-tags #software
+tags #software #markdown #editor #notes
+
 * https://obsidian.md/
 * https://forum.obsidian.md/
 	* https://forum.obsidian.md/t/how-is-obsidian-more-than-a-wiki/2914/6
@@ -10,14 +11,18 @@ tags #software
 
 Dynalist
 * https://dynalist.io/
+
+
 ## keys
 toggle fold on current line > ctl m
 all fold ctl .
 unfold all: ctl shift .
-hhh
+
 
 ## Reference
+
 * https://en.wikipedia.org/wiki/Comparison_of_note-taking_software
+
 
 ## About
 * https://trends.google.com/trends/explore?date=today%205-y&q=obsidian.md
