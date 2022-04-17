@@ -1,4 +1,4 @@
-# markdown
+# Markdown
 
 ## Reference
 
@@ -45,6 +45,8 @@
 
 ## Emoji
 
+Emoji in Markdown: TBD
+
 * https://www.webfx.com/tools/emoji-cheat-sheet/
 * https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
@@ -59,14 +61,18 @@
 
 Software Tools
 
+https://github.com/search?q=markdown&type=topics
+
 ## Markdown to HTML JavaScript
 
 * https://github.com/evilstreak/markdown-js
 	* Deprecated
 * https://github.com/markedjs/marked ~ 25K stars ~ regular updates << better than ShowDown??
-	* A markdown parser and compiler. Built for speed.
+	* Wants mode.
+	*   A markdown parser and compiler. Built for speed.
 * https://github.com/markdown-it/markdown-it
 	* Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+	* Wants node
 * https://github.com/showdownjs/showdown
 	* A bidirectional Markdown to HTML to Markdown converter written in Javascript
 
