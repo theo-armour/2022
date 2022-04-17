@@ -1,6 +1,6 @@
 # Markdown
 
-tags: #markdown
+tags: #markdown #notes #editors #code
 
 ## Reference
 
