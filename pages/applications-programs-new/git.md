@@ -1,5 +1,11 @@
 # Git
 
+
+## reference
+
+* https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+
 ## Install
 
 Need to run in terminal on first run
@@ -7,6 +13,19 @@ Need to run in terminal on first run
 git config --global user.email "t.armour@gmail.com"
 git config --global user.name "Theo Armour"
 ```
+
+### typical .config
+
+[core]
+	editor = \"C:\\Users\\tarmo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = theo-armour@users.noreply.github.com
+	name = Theo Armour
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
 
 ## Usage
 

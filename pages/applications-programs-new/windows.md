@@ -46,7 +46,7 @@ homeGroup
 
 ## Startup
 
-C:\Users\theo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+C:\Users\tarmo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 
 ## Speed Keys
