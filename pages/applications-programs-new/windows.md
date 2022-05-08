@@ -12,7 +12,8 @@ use lock hunter...
 
 
 ## Lessons Learned
-Use Ninite.com to install Chrome, Firefox DropBox, Evernote, Google Drive etc
+
+Use https://ninite.com to install Chrome, Firefox DropBox, Evernote, Google Drive etc
 
 Don't forget DropBox takes forever.
 * Sync only a few folders at a time
@@ -113,21 +114,18 @@ Untick the users must enter password & choose which user always logs on.
 
 http://www.sevenforums.com/tutorials/67200-remove-background-images-where-available.html
 
-## windows run Send To menu
-
-just type in run menu or the location bar: shell:sendto
-or paste %APPDATA%\Microsoft\Windows\SendTo into address bar
 
 ## windows xp Set My Documents Folder
 
 Change My Documents: right-click My Documents icon > Properties
 
-##  Regedit
+## Regedit
 
 windows keyboard shortcuts
 http://support.microsoft.com/kb/301583
 
 ## defaults
+
 Windows normal screen dark blue is RGB 58 110 165
 
 

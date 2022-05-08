@@ -37,16 +37,6 @@ https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/can-no-
 
 To start dictating, select a text field and press the Windows logo key  + H to open the dictation toolbar. Then say whatever’s on your mind.  To stop dictating at any time while you're dictating, say “Stop dictation.”
 
-
-### Keyboard shortcuts
-https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts
-
-
-Press Windows logo key  + period (.) to open an emoji panel.
-ake a snip of what's on your screen
-Press Windows logo key  + Shift + S to open the snipping bar, then drag the cursor over the area you want to capture.
-Open File Explorer quickly Press Windows logo key  + E, then open the folder you want in File Explorer.
-
 ### Table of Basic PowerShell Commands
 
 https://www.groovypost.com/howto/find-restore-open-command-prompt-windows-10/
@@ -71,21 +61,6 @@ https://lifehacker.com/how-to-turn-any-part-of-your-windows-desktop-into-a-gif-1
 
 Problem Steps Recorder. Windows key PSR
 
-
-## To Do
-
-* Update AutoHotKey
-
-
-## Lessons Learned
-Use Ninite.com to install Chrome, Firefox DropBox, Evernote, Google Drive etc
-
-Don't forget DropBox takes forever.
-* Sync only a few folders at a time
-* Start with just one or two folders
-
-Create a recovery drive in a USB drive
-* Needs 8GB
 
 
 
