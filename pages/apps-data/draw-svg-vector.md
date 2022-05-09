@@ -47,16 +47,17 @@ Concepts seems to be leading - works wherever I need it
 * Link W10 and Android
 * layers, good lettering
 * Infinite canvas
-* nudging
-* vector erase
+* Nudging
+* Vector erase
 * No paint bucket fill capability - draw with fill only then duplicate, brushes only
 * Great smoothing and vertex tweaking
 
-* https://concepts.app/en/stories/influencing-spaces-residential-design-luis-furushio/?utm_source=medium&utm_medium=link
+* https://concepts.app/en/stories/influencing-spaces-residential-design-luis-furushio
 
 
 
 ## *** Infinite Design ~ https://www.infinitestudio.art/discover.php
+
 * 66k stars, 10M installs
 * Easy user experience
 * $10
@@ -67,7 +68,7 @@ Concepts seems to be leading - works wherever I need it
 * Exporting has issues
 
 
-### Infinite Designer Usage
+### Infinite Design Usage
 
 Nice
 
@@ -80,15 +81,10 @@ Simplify: 0 - 0.4 ~ not much difference ~ slows things down
 Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 
-***
-
-Crazy
-
-***
-
-More ~ vector but more diagram oriented
 
 ## https://boxy-svg.com/ ~ $$
+
+* Win, Apple, Linux PWA
 * touch & pressure chrome & Asus ~ not on huion
 * Many cool features
 * Text on curve
@@ -99,6 +95,7 @@ More ~ vector but more diagram oriented
 
 
 ## Draw.io https://app.diagrams.net/ ~ draw.io
+
 * No touch, has touch issues
 * No good free hand
 * Many vector features
@@ -111,6 +108,11 @@ More ~ vector but more diagram oriented
 * edit polylines
 
 
+## https://excalidraw.com/
+
+* See whiteboard.md
+
+
 ## https://designer.gravit.io ~ $$ ~ Owned by Corel!
 * https://designer.io
 * Looks very featured ~ but complicated
@@ -120,6 +122,7 @@ More ~ vector but more diagram oriented
 * Not exciting
 * Has layers
 * no brushes
+
 
 ## https://www.sketch.com/
 * $100 / year
@@ -174,8 +177,8 @@ More ~ vector but more diagram oriented
 * Could use https://offidocs.com but looks like no touch or pen support
 
 
-
 ## Krita ~ https://krita.org/en ~ see krita.md
+
 
 ## LibreOffice Draw
 * Has tablet support

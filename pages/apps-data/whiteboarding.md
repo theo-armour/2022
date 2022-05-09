@@ -60,12 +60,13 @@ _A few of the sites listed in the portal pages_
 * No SVG export
 
 ### OneNote ~ https://www.onenote.com/hrd
-* Not pressuse sensitive
+
 * Export to PDF
 * needs desktop version to save or export
 
 #### pros
 
+* Pressure sensitive
 * background grids a good
 * Creates and saves fully editable bitmap files
 * Saves to cloud
@@ -74,6 +75,8 @@ _A few of the sites listed in the portal pages_
 
 * Does not export to PNG
 	* Must copy and paste to Paint or other
+
+	
 
 ## https://github.com/cojapacze/sketchpad
 	* GH / 2018 / Many features
