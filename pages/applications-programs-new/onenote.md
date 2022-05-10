@@ -1,5 +1,7 @@
 # oneNote
 
+tags #windows #Microsoft #office #software
+
 Write notes and draw in OneNote for Windows 10
 
 * https://support.microsoft.com/en-us/office/write-notes-and-draw-in-onenote-for-windows-10-82d1189d-eb6d-4b07-9101-b50e13645c28
