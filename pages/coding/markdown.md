@@ -2,6 +2,12 @@
 
 tags: #markdown #notes #editors #code
 
+## New
+
+* https://markdoc.io/
+>Markdoc is a powerful, flexible, Markdown-based authoring framework.
+> From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
+
 ## Reference
 
 * https://daringfireball.net/projects/markdown/ ~ where it all started
