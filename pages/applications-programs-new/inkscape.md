@@ -3,18 +3,21 @@
 * https://inkscape.org/
 * https://inkscape-manuals.readthedocs.io/en/latest/
 
+## About
 
+* Looks like most power of any of the apps
+* Extensive learning curve
 
 ## Menu Issues
 
 Menu drop-downs + tablet drawing disappears appear on the wrong screen workaround
 
-* Always set Inkscape m0nitor to right of main monitor
+* Always set Inkscape monitor to right of main monitor
 * Move Inkscape back and forth between monitor 1 and monitor 2.
 * In windows display settings, choose your top left most monitor. Mark it 'make this my main display'.
 
 ## Printing
-
+222
 US Paper
 width 279.4
 height 215.9
@@ -22,7 +25,7 @@ height 215.9
 bounding box
 x: 2.5mm
 y: 2.5mm
-w: 270mm
+w: vveee
 h: 209mm
 
 ## Incorrect offset
@@ -36,9 +39,7 @@ Workaround:
 * Set all displays to identical resolution * zoom
 * Disable any monitors that cannot adapt to the requires settings
 
-## About
 
-* Looks like most power of any of the apps
 
 ## Zoom
 
