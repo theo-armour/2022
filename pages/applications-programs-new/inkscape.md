@@ -68,11 +68,17 @@ To select the original of a clone, you can press Shift + D
 * document properties > shift-ctrl-D
 * Drag colors from horizontal color palette to Fill and Stroke boxes
 
+## Paths
+
+* Draw multiple paths then join the ends
+	* continuous line makes copy and formatting much easier
+	
 ## Docs
 
 * Keys: https://inkscape.org/doc/keys.html
 * https://inkscape-manuals.readthedocs.io/en/latest/
 * http://tavmjong.free.fr/INKSCAPE/MANUAL/html/index.php
+
 
 ## Opaque background
 
