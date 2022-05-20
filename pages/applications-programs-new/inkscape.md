@@ -76,7 +76,7 @@ Pan: scroll wheel press
 
 * Draw multiple paths then join the ends
 	* continuous line makes copy and formatting much easier
-	
+
 ### Stroke to Path
 
 * Creates a new path from the edges of a path with width
@@ -87,9 +87,76 @@ Pan: scroll wheel press
 
 ## Filters
 
+2022-05-18
+
+dark glass melted rainbow ripple /  cracked glass tinted raindow daerk glass
+dragee melted rainbow eroded metal
+warp rainbow guache ripple metal
+
+flex metal dragee
+### Bevels
+
+With wide path
+* Bloom
+* bright metal
+* Dark Glass
+* Electron Microscopy - layered OK
+* Glowing Metal
+* Matt Bevel - layered OK
+* Melted Jelly - layered OK
+* Melted Jelly Mat - layered OK
+* Stained Glass
+* Translucent
+
+### Blur
+
+* double
+
+### Bumps
+
+* Bubbly Bumps
+* Thick wax
+
+### Color
+
+no effects with extra width
+
+### Distort
+
+all interesting but very strong
+
+* Chalk and sponge
+
+### Materials
+
+* Enamel Jewelry
+* Flex metal
+
+### Morphology
+
+* Cool outside
+
+### Overlays
+No width
+
+* colorize turbulent
+
+
+### Protrusions
+
+* Ink Bleed
+
+
+### Ridges
+
+* dragge - good soft widener
+* mettallized ridge
+
 ### Textures
 
-* Riddled
+* Bark
+* Guache
+* Riddled ~ warped drops
 
 ## Snap
 
