@@ -1,6 +1,11 @@
 # CKEditor ~ 4.9K stars
 
 
+latest: ckeditor5-34.1.0-ysf9zv6tt76x (1).zip
+
+
+https://cke5-online-builder.cke-cs.com/download/ysf9zv6tt76x-jm4c4cgln2q9/ckeditor5.zip
+
 ## pretty print output
 
 https://github.com/ckeditor/ckeditor5/issues/8668
