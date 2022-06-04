@@ -15,6 +15,13 @@ GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor
 * https://github.com/public-apis/public-apis
 * https://dev.to/shreyazz/make-your-own-api-under-30-lines-of-code-4doh
 
+### File System Access API
+
+simplifying access to local files
+The File System Access API allows web apps to read or save changes directly to files and folders on the user's device.
+
+* https://web.dev/file-system-access/
+* https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API
 
 
 ## Documentation
