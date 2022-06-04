@@ -1,5 +1,6 @@
 # CKEditor ~ 4.9K stars
 
+
 ## pretty print output
 
 https://github.com/ckeditor/ckeditor5/issues/8668
@@ -80,33 +81,80 @@ Classic good place to start
 
 ### Builder selections Markdown
 
-* AutoFormat ~ D
-* AutoSave ~ Add
-* BlockQuote ~ Add
-* Bold ~ D
-* CKFinder ~ remove
-* CloudServices ~ remove
-* Code ~ D
-* Find and replace ~ Add ~ but does not appear
+* Alignment ~ R
+* AutoFormat ~ A
+* Auto image ~ R
+* Autolink ~ A
+* AutoSave ~ R
+* Base64 upload adapter ~ R
+* Block quote ~ A
+* Bold ~ A
+* CKFinder ~ R
+* CKFinder upload adapter ~ R
+* CloudServices ~ R
+* Code ~ A
+* Code blocks ~ R
+* Comments ~ R
+* Data filter ~ A
+* Data schema ~ A
+* Easy Image  ~ R
+* Watchdog ~ R ??
+* Export to PDF ~ R
+* Export to Word ~ R
+* Find and replace ~ A ~ but does not appear
+* Font background color ~ R
+* Font Color ~ R
+* Font family ~ R
+* Font size ~ R
+* General HTML Support ~ A
 * Heading ~ D
-* Horizontal line ~ Add
-* HTML comment ~ Add
-* Imager ~ remove
-* Indent ~ remove
+* Highlight ~ R
+* Horizontal line ~ A
+* HTML comment ~ A
+* HTML embed ~ A
+* Image ~ R
+* Block image ~ R
+* Indent ~ R
+* Block image ~ R
+* Image * ~ R
+* Indent ~ A
+* Indent block ~ A
 * Italic ~ D
-* Link ~ remmove
-* List ~ D
-* Markdown ~ Add
-* MediaEmbed ~ remove
-* PastFromOffice ~ remove
-* Remove format ~ Add
-* Source Editing ~ Add
-* Special characters ~ remove
-* Special characters essentials ~ remove
-* Strikethrough ~ Add
+* Link ~ A
+* Link image ~ R
+* List ~ A
+* List properties ~ R
+* Markdown ~ A
+* MathType ~ R
+* Media Embed ~ R
+* Media embed toolbar ~ R
+* Mention ~ R
+* Page break
+* Pagination
+* Past from Office ~ A
+* Presence list ~ R
+* Real-time * ~ R
+* Remove format ~ A
+* Restricted editing mode ~ R
+* Revision History ~ R
+* Simple upload adapter ~ R
+* Source Editing ~ A
+* Special characters ~ R
+* Special characters essentials ~ R
+* Standard editing mode ~ R
+* Strikethrough ~ A
+* Subscript ~ R
+* Superscript  R
 * Table ~ remove
-* TextTransformation ~ remove
-* Wordcount ~ add
+* Table * ~ R
+* Text part language ~ R
+* TextTransformation ~ R
+* Title ~ R
+* To-do list ~ R
+* Track changes ~ R
+* Underline ~ A
+* Word count ~ R
+* WProofreader ~ R
 
 
 ### Avoid
