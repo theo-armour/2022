@@ -8,9 +8,9 @@
 
 Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
 
-*   [https://www.amazon.com/gp/product/0226039056](https://www.amazon.com/gp/product/0226039056)�
-*   [https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind](https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind)�
-*   [https://en.wikipedia.org/wiki/Information_ecology](https://en.wikipedia.org/wiki/Information_ecology)�
+*   [https://www.amazon.com/gp/product/0226039056](https://www.amazon.com/gp/product/0226039056)
+*   [https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind](https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind) 
+*   [https://en.wikipedia.org/wiki/Information_ecology](https://en.wikipedia.org/wiki/Information_ecology)�
 
 Why Gregory Bateson Matters
 
@@ -65,7 +65,7 @@ Why Gregory Bateson Matters
 
 ### Clarkson
 
-Jeremy Clarkson is a larger-than-life British TV celebrity. He writes bombastic newspaper columns, hosts game shows, and for decades has been the star of automobile stunt shows such as Top Gear and Grand Auto. Recently he retired to his 1,000-acre farm in England, which he is trying to farm himself. Naturally, he’s made a reality-tv show about it. Clarkson’s Farm streams on Amazon, and despite being a scripted reality-tv show, I have been bingeing the 8-part first season because it offers a deep and detailed examination of what modern farming is all about. Hint: there are a lot of machines and gear involved. Clarkson’s Farm is entertaining because it is all about showing off how ignorant Clarkson is, how he keeps screwing up, losing money, getting in his own way, having to learn from locals much more experienced, and how complex modern farming life is. The show is good.
+Jeremy Clarkson is a larger-than-life British TV celebrity. He writes bombastic newspaper columns, hosts game shows, and for decades has been the star of automobile stunt shows such as Top Gear and Grand Auto. Recently he retired to his 1,000-acre farm in England, which he is trying to farm himself. Naturally, heâ€™s made a reality-tv show about it. Clarksonâ€™s Farm streams on Amazon, and despite being a scripted reality-tv show, I have been bingeing the 8-part first season because it offers a deep and detailed examination of what modern farming is all about. Hint: there are a lot of machines and gear involved. Clarksonâ€™s Farm is entertaining because it is all about showing off how ignorant Clarkson is, how he keeps screwing up, losing money, getting in his own way, having to learn from locals much more experienced, and how complex modern farming life is. The show is good.
 
 *   https://www.amazon.com/Clarksons-Farm-Season-1/dp/B095RHJ52R
 
