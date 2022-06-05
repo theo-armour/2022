@@ -97,11 +97,11 @@ Classic good place to start
 * CKFinder ~ R
 * CKFinder upload adapter ~ R
 * CloudServices ~ R
-* Code ~ A
+* Code ~ R
 * Code blocks ~ R
 * Comments ~ R
 * Data filter ~ A
-* Data schema ~ A
+* Data schema ~ R
 * Easy Image  ~ R
 * Watchdog ~ R ??
 * Export to PDF ~ R
@@ -113,10 +113,10 @@ Classic good place to start
 * Font size ~ R
 * General HTML Support ~ A
 * Heading ~ D
-* Highlight ~ R
+* Highlight ~ A
 * Horizontal line ~ A
 * HTML comment ~ A
-* HTML embed ~ A
+* HTML embed ~ R
 * Image ~ R
 * Block image ~ R
 * Indent ~ R
@@ -124,7 +124,7 @@ Classic good place to start
 * Image * ~ R
 * Indent ~ A
 * Indent block ~ A
-* Italic ~ D
+* Italic ~ A
 * Link ~ A
 * Link image ~ R
 * List ~ A
@@ -134,8 +134,8 @@ Classic good place to start
 * Media Embed ~ R
 * Media embed toolbar ~ R
 * Mention ~ R
-* Page break
-* Pagination
+* Page break ~ R
+* Pagination ~ R
 * Past from Office ~ A
 * Presence list ~ R
 * Real-time * ~ R
@@ -145,22 +145,23 @@ Classic good place to start
 * Simple upload adapter ~ R
 * Source Editing ~ A
 * Special characters ~ R
-* Special characters essentials ~ R
+* Special characters essentials ~ A
 * Standard editing mode ~ R
 * Strikethrough ~ A
 * Subscript ~ R
-* Superscript  R
-* Table ~ remove
+* Superscript ~ R
+* Table ~ R
 * Table * ~ R
 * Text part language ~ R
 * TextTransformation ~ R
 * Title ~ R
 * To-do list ~ R
 * Track changes ~ R
-* Underline ~ A
+* Underline ~ R
 * Word count ~ R
 * WProofreader ~ R
 
+21 Adds
 
 ### Avoid
 
