@@ -1,7 +1,7 @@
 # CKEditor ~ 4.9K stars
 
 
-latest: ckeditor5-34.1.0-ysf9zv6tt76x (1).zip
+latest: ckeditor5-34.1.0-uwwc7n1tkaz7
 
 
 https://cke5-online-builder.cke-cs.com/download/ysf9zv6tt76x-jm4c4cgln2q9/ckeditor5.zip
@@ -16,6 +16,7 @@ https://github.com/ckeditor/ckeditor5/issues/8668
 * https://ckeditor.com/ckeditor-5/
 * https://ckeditor.com/ckeditor-5/online-builder/
 * https://ckeditor.com/docs/ckeditor5/latest/
+* https://ckeditor.com/docs/ckeditor5/latest/features/highlight.html
 * https://ckeditor.com/blog/
 
 More
@@ -89,7 +90,7 @@ Classic good place to start
 * Alignment ~ R
 * AutoFormat ~ A
 * Auto image ~ R
-* Autolink ~ A
+* Autolink ~ Default
 * AutoSave ~ R
 * Base64 upload adapter ~ R
 * Block quote ~ A
@@ -113,7 +114,7 @@ Classic good place to start
 * Font size ~ R
 * General HTML Support ~ A
 * Heading ~ D
-* Highlight ~ A
+* Highlight ~ A ~ not working yet
 * Horizontal line ~ A
 * HTML comment ~ A
 * HTML embed ~ R
@@ -125,7 +126,7 @@ Classic good place to start
 * Indent ~ A
 * Indent block ~ A
 * Italic ~ A
-* Link ~ A
+* Link ~ Default includes autolink
 * Link image ~ R
 * List ~ A
 * List properties ~ R
