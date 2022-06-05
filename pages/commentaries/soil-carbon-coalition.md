@@ -49,7 +49,7 @@ Why Gregory Bateson Matters
 
 *   https://earthdata.nasa.gov/learn/gis
 *   [https://earthdata.nasa.gov/search?q=evapotranspiration](https://earthdata.nasa.gov/search?q=evapotranspiration)
-*   [https://appliedsciences.nasa.gov/search?keys=evapo](https://appliedsciences.nasa.gov/search?keys=evapo) 
+*   [https://appliedsciences.nasa.gov/search?keys=evapo](https://appliedsciences.nasa.gov/search?keys=evapo)
 
 ## Earthengine
 
