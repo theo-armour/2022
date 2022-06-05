@@ -9,7 +9,7 @@
 Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
 
 *   [https://www.amazon.com/gp/product/0226039056](https://www.amazon.com/gp/product/0226039056)
-*   [https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind](https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind)Â 
+*   [https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind](https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind)
 *   [https://en.wikipedia.org/wiki/Information_ecology](https://en.wikipedia.org/wiki/Information_ecology)Â
 
 Why Gregory Bateson Matters
