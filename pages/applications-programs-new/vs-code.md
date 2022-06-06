@@ -146,7 +146,7 @@ Cmd+Option+1 (Mac)
  * replay macros at typing speed
 * <https://github.com/viatsko/awesome-vscode?>
 * https://marketplace.visualstudio.com/items?itemName=nicoespeon.slides
-
+* https://css-tricks.com/vs-code-extensions-for-html/
 ### Extensions Delete
 
 * https://www.reddit.com/r/vscode/comments/bucmnk/prettier_is_driving_me_crazy/

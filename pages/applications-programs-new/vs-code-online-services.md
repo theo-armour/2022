@@ -2,13 +2,10 @@
 
 ## Remote Repositories
 
-## Code Sandbox
-
 ## Code Anywhere
 
-* How to commit to GH
 
-## Extensions
+
 
 ### Pin-up
 
@@ -23,6 +20,7 @@ https://codeanywhere.com/
 * Reactivated account
 * How to add new GH
 * how to commit
+* How to commit to GH
 
 ## Codesandbox ~ https://codesandbox.io/
 
