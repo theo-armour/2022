@@ -2,28 +2,31 @@
 
 ## My observations
 
-Having skimmed through a number of articles related to "How to be a good patient", I have come up with my own list
+Having skimmed through a number of articles related to "How to be a good patient", I have come up with my own list. My list is based on the categories listed in [_Character Strengths and Virtues: A Handbook and Classification_(https://en.wikipedia.org/wiki/Values_in_Action_Inventory_of_Strengths#Character_Strengths_and_Virtues) a book by Christopher Peterson and Martin Seligman (2004) that presents a measure of humanist ideals of virtue in an empirical, rigorously scientific manner, intended to provide a theoretical framework for practical applications for positive psychology.
 
-Use your Wisdom and Knowledge
+
+### Use your "Strengths of Wisdom and Knowledge"
 
 * Be wise. Document everything. Make a list of your ailments, treatments and outcomes. Remember that you tend to forget things
 * Be curious. Do your research. Ask Google. Talk to patients. Talk to staff at all levels.
 
 
-Use your "Strengths of Courage and Bravery"
+### Use your "Strengths of Courage and Bravery"
 
 * Be honest. Tell the doctor everything
 * Be persistent. Follow the prescribed regimen. Do what the doctor tells you
 * Have vitality: Enthusiasm for treatment. Don't ignore symptoms. Make that appointment! Returns reliably.
 
-Use your "Strengths of Humanity"
+### Use your "Strengths of Humanity"
 
 * Be nice. Patient and polite. Listen, listen, listen. Be sweet to people.
 
-Use your "Strengths of Justice"
+### Use your "Strengths of Justice"
 
 * Play fair: Plan your visit. Establish priorities. Remember there's another patient waiting.
 * Be a good citizen.
+
+
 
 ## Links of Interest
 

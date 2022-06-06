@@ -34,6 +34,16 @@ Character Strengths and Virtues: A Handbook and Classification (CSV hereafter)
 * https://en.wikiversity.org/wiki/Wisdom/Curriculum
 * https://en.wikiversity.org/wiki/Virtues
 * https://en.wikiversity.org/wiki/Virtues/Character_Strengths_and_Virtues
+> Character Strengths and Virtues (CSV) is a book by Christopher Peterson and Martin Seligman (2004) that attempts to present a measure of humanist ideals of virtue in an empirical, rigorously scientific manner, intended to provide a theoretical framework for practical applications for positive psychology.[11] CSV identifies six classes of virtue (i.e. "core virtues") comprising 24 measurable "character strengths". The organization of the six virtues and 24 strengths is as follows:
+>
+>Wisdom and Knowledge: creativity, curiosity, open-mindedness, love of learning, perspective
+>Courage: bravery, persistence, integrity, zest
+>Humanity: love, kindness, social intelligence
+>Justice: teamwork, fairness, leadership
+>Temperance: forgiveness and mercy, humility, prudence, self control
+>Transcendence: appreciation of beauty and excellence, gratitude, hope, humor, spirituality
+
+
 * https://en.wikipedia.org/wiki/Christopher_Peterson_(psychologist)
 * https://en.wikipedia.org/wiki/Character_Strengths_and_Virtues
 * https://www.amazon.com/exec/obidos/ASIN/0195188330/thewrighthouse
