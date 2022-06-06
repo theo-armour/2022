@@ -24,7 +24,7 @@ Good list
 
 ## Peterson
 
-Character Strengths and Virtues: A Handbook and Classification
+Character Strengths and Virtues: A Handbook and Classification (CSV hereafter)
 * https://teachingpsychology.files.wordpress.com/2011/11/character-strengths-and-virtues.pdf
 	* 815 pages!!
 	* https://ajp.psychiatryonline.org/doi/pdf/10.1176/appi.ajp.162.4.820-a
