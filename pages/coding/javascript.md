@@ -20,6 +20,10 @@ https://raw.githack.com/cferdinandi/frontend-horse-js-library/main/index.html
 * _ ~ separator for unreadable numbers
 * ! ~ non-null assertion operator ~ example: person!.name
 
+## Want
+
+* Good auto save example
+
 ## jsHint
 
 /* globals THREE */
