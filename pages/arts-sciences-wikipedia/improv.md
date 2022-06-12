@@ -1,10 +1,17 @@
 # improv
 
-"Improv" is one of my primary mental models
+## Preface
+
+"Improv" is one of my primary mental models (internal representations of external reality) when engaging in discussions about new ideas or propositions. Ditto when dealing with people with dementia who talking about things we cannot see ourselves.
+
+* Keep the dialog going
+* Never put people on the defensive
+* Maintain a level of joy or even mischief
+
 
 ## Tina Fey's Four Rules of Improv
 
-1. you must agree
+1. You must agree
 2. “Yes” isn’t enough, you must “yes, and…”
 3. Make statements.
 4. There are no mistakes!
@@ -23,8 +30,7 @@
 
 > As an actress, I struggle daily with confidence and insecurities. Improvising has helped me get out of my own head and access deeper parts of myself. In life, we are constantly editing ourselves and second-guessing our ideas in an attempt to be perfect. Improvisation dares us to trust our instincts and appreciate others and what they bring to the table. Implement these four basic improvisation rules into your everyday life and I guarantee you’ll see a difference.
 
-> **1\. You must agree.** This doesn’t mean everyone has to get along, but it means you must agree on the given set of circumstances. For instance, if I say, “Wow, it’s great to be on the beach!” and you say, “We aren’t on the beach stupid, we are on the ski slope,” then the improv scene is dead. But if you say, “I can’t wait to get in the
-water, I hope it’s not too cold,” then we have a scene. We have agreed that this stage is now a sandy beach and we can keep moving forward.
+> **1\. You must agree.** This doesn’t mean everyone has to get along, but it means you must agree on the given set of circumstances. For instance, if I say, “Wow, it’s great to be on the beach!” and you say, “We aren’t on the beach stupid, we are on the ski slope,” then the improv scene is dead. But if you say, “I can’t wait to get in the water, I hope it’s not too cold,” then we have a scene. We have agreed that this stage is now a sandy beach and we can keep moving forward.
 
 > I don’t recommend you agree with everyone in your life, but I challenge you to come from a place of “yes” and keep an open mind. Try to understand where others are coming from before discrediting them as “crazy” or “stupid.” “No” should be a last resort, and respect what others create.
 
