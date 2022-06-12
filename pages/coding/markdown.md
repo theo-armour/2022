@@ -2,10 +2,24 @@
 
 tags: #markdown #notes #editors #code
 
+## JavaScript WYSIWYG & Markdown editors
+
+### https://bashooka.com/coding/10-awesome-javascript-wysiwyg-markdown-editors/
+
+### https://bashooka.com/coding/10-awesome-javascript-wysiwyg-markdown-editors/
+* last update 2016
+
+### https://github.com/substance/substance
+* dead
+
+
+
 ## New
 
 * https://markdoc.io/
+
 >Markdoc is a powerful, flexible, Markdown-based authoring framework.
+
 > From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
 
 ## Reference
@@ -80,12 +94,13 @@ https://github.com/search?q=markdown&type=topics
 	* Deprecated
 * https://github.com/markedjs/marked ~ 25K stars ~ regular updates << better than ShowDown??
 	* Wants mode.
-	*   A markdown parser and compiler. Built for speed.
+	* A markdown parser and compiler. Built for speed.
 * https://github.com/markdown-it/markdown-it
 	* Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 	* Wants node
 * https://github.com/showdownjs/showdown
 	* A bidirectional Markdown to HTML to Markdown converter written in Javascript
+
 
 ## MD to JSON JavaScript
 

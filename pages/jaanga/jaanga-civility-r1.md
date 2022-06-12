@@ -1,5 +1,5 @@
-﻿Civility
-===
+﻿# Civility
+
 
 _Being nice to people encourages them to build good things_
 
@@ -44,7 +44,7 @@ Yet they very much missed the mark that you thought your were heading for.
 Now you didn't show just anybody your app. You went to somebody you know and trusted.
 And they still missed the mark/ They still did not get it.
 
-So how do you feel now? The likelihood is that you feel quite tormented. You know what you are doing is useful, valuable and ingenious. 
+So how do you feel now? The likelihood is that you feel quite tormented. You know what you are doing is useful, valuable and ingenious.
 Yet your friend saw none of this. There's a conflict here and it will be hard for you to get over it.
 
 As of this writing, we have no easy answer to this dilemma.
@@ -65,7 +65,7 @@ Are there choices in the algorithms that could be used. If so what are some of t
 
 Where could all this eventually lead to?
 
- 
+
 
 ## Google's Research on What Makes Teams Productive
 
@@ -74,13 +74,13 @@ These findings relate well to the issues related to software developers and thei
 
 A summary of the elements of a good team:
 
-1. Psychological safety: 
+1. Psychological safety:
 	* Can we take risks on this team without feeling insecure or embarrassed?
 	* Team members feel safe to take risks and be vulnerable in front of each other
 	* A shared belief that the team is safe for interpersonal risk taking
 	* Most important of the five dynamics
 	* Individuals on teams with higher psychological safety are less likely to leave Google, they’re more likely to harness the power of diverse ideas from their teammates, they bring in more revenue, and they’re rated as effective twice as often by executives.
-2. Dependability: 
+2. Dependability:
 	* Can we count on each other to do high quality work on time?
 	* Team members get things done on time and meet Google's high bar for excellence
 3. Structure & clarity:
@@ -90,7 +90,7 @@ A summary of the elements of a good team:
 	* Are we working on something that is personally important for each of us?
 	* Work is personally important to team members
 	* Roles, plans, and goals need to personally resonate with each of the members
-5. Impact of work: 
+5. Impact of work:
 	* Do we fundamentally believe that the work we're doing matters?
 	* Team members think that their work matters and creates change
 
