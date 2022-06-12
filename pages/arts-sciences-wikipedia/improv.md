@@ -1,7 +1,6 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/2022/blob/main/pages/arts-sciences-wikipedia/improv.md "Source code on GitHub" ) [TA 2022]( https://theo-armour.github.io/2022/ "Home page" ) / [Improv]( https://theo-armour.github.io/2022/view/#pages/arts-sciences-wikipedia/improv.md)
 
 
-
 ## Preface
 
 "Improv" is one of my primary mental models (internal representations of external reality) when engaging in discussions about new ideas or propositions. Ditto when dealing with people with dementia who talking about things we cannot see ourselves.
