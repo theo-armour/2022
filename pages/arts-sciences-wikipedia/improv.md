@@ -1,5 +1,6 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/2022/blob/main/pages/arts-sciences-wikipedia/improv.md "Source code on GitHub" ) [TA 2022]( https://theo-armour.github.io/2022/ "Home page" ) / [Improv]( https://theo-armour.github.io/2022/view/#pages/arts-sciences-wikipedia/improv.md)
 
+tags #improv #list #liveness
 
 ## Preface
 
@@ -17,6 +18,7 @@
 ## Reference
 
 * https://en.wikipedia.org/wiki/Improvisation
+* https://en.wikipedia.org/wiki/Improvisational_theatre
 * https://en.wikipedia.org/wiki/Viola_Spolin
 
 
@@ -26,6 +28,14 @@
 2. "Yes" isn't enough, you must "yes, and..."
 3. Make statements.
 4. There are no mistakes!
+
+
+### Bossypants | Tina Fey | Talks at Google
+
+* https://www.youtube.com/watch?v=M8Mkufm3ncc
+* https://www.wired.com/2011/04/video-tina-fey-eric-schmidt/
+
+Worth a watch
 
 ### About
 
@@ -56,7 +66,7 @@
 >
 > **4\. There are no mistakes!** Some of the best improvisation scenes come from miscommunications. Audiences love seeing actors fight their way out of a confusing, messy scene. For instance, if an actor is clearly on a baseball field holding a bat and chewing tobacco, and the other actor says, "Stop spitting on my new hardwood floors, and what's that in your hand?" the audience is instantly hooked to see how the "baseball player" will justify his behavior without breaking the scene.
 
-### [Tina Fey's Rules For Improv...And the WorkPlace]( http://www.mycareertopia.com/tina-feys-rules-for-improv-and-the-workplace/ )
+### [Tina Fey's Rules For Improv...And the WorkPlace]( https://balancedworklife.com/tina-feys-rules-for-improv-and-the-workplace/ )
 
 > "Theater Games are a process applicable to any field, discipline, or subject matter which creates a place where full participation, communication, and transformation can take place." - Viola Spolin
 >
@@ -66,10 +76,6 @@
 ### [Build Better Habits With an Improvisational Mindset]( http://lifehacker.com/build-better-habits-with-an-improvisational-mindset-1738351098 )
 
 > Breaking out of your daily routines can be a powerful way to unlock great new ideas, both personally and professionally. Jazz musicians and improv comedians are often masters at this idea of breaking from routine and taking a novel approach.
-
-https://en.wikipedia.org/wiki/Improvisational_theatre
-
-https://en.wikipedia.org/wiki/Improvisation
 
 
 ## Improv in San Francisco
@@ -126,4 +132,4 @@ Secret  Improv  is the winner of  SF Magazine's  Best Comedy Show: "Since 2008, 
 
 ***
 
-<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.divContent.scrollTo(0,0);> ❦ </a></center>
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
