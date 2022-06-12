@@ -9,24 +9,31 @@ tags #improv #list #liveness
 * Keep the dialog going
 * Help people develop their thoughts out loud
 * Putting people on the defensive prevents the dialog from progressing
-* Maintaining levels of joy or even mischief entices people to continue
 * There's no right or wrong or winning or losing
+* Maintaining levels of joy or even mischief entices people to continue
 * Improv is about negotiating, about finding agreement
 * One we agree or at least come to terms on this point, we can move on to the next point
 * To improv is to: Listen. Respect. Create. Contribute. Adapt.
+
+More
+* Self-entertainment
+* Technique for on-the-fly content creation
+
+
 
 ## Reference
 
 * https://en.wikipedia.org/wiki/Improvisation
 * https://en.wikipedia.org/wiki/Improvisational_theatre
 * https://en.wikipedia.org/wiki/Viola_Spolin
+* https://en.wikipedia.org/wiki/Yes,_and...
 
 
 ## Tina Fey's Four Rules of Improv
 
 1. You must agree
 2. "Yes" isn't enough, you must "yes, and..."
-3. Make statements.
+3. Make statements
 4. There are no mistakes!
 
 
@@ -43,6 +50,7 @@ Worth a watch
 * https://www.boost.co.nz/blog/2012/01/rules-of-improv-applied-to-scrum
 * https://balancedworklife.com/tina-feys-rules-for-improv-and-the-workplace/
 * https://en.wikipedia.org/wiki/Yes,_and...
+* https://zapier.com/blog/improv-customer-support/
 
 
 ### [The Tina Fey Method: 4 Ways Improvisation Can Improve Your Life]( http://www.levo.com/articles/lifestyle/how-improvisation-can-improve-your-life )
@@ -111,6 +119,7 @@ Leela Improv Training Center, 901 Mission Street (3rd Floor), SF
 > Our lives are filled with and defined by moments, opportunities to be fully present. At our best, we can meet each moment with confidence and authenticity. And that is what we teach at Moment – how to be mindful, be connected and offer empathy to others. How to be more aware, listen more actively, speak more articulately and have deeper emotional intelligence. How to be great performers on and off-stage, in and out of work and most importantly, how to be great human beings.
 
 http://momentimprov.com/classes/#dropin
+
 Moment Improv Theatre, 533 Sutter Street, 2nd Floor, San Francisco, CA 94102
 
 ### https://secretimprov.com/
@@ -121,7 +130,6 @@ Secret  Improv  is the winner of  SF Magazine's  Best Comedy Show: "Since 2008, 
 
 > Free, all welcome, drop in, improv classes at St. Cyprian Church starting at 7pm to around 9:30 pm.
 2097 Turk Blvd, San Francisco, CA 94115
-
 
 
 ## More
