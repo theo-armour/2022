@@ -126,4 +126,4 @@ Secret  Improv  is the winner of  SF Magazine's  Best Comedy Show: "Since 2008, 
 
 ***
 
-<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.main.scrollTo(0,0);> ❦ </a></center>
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.divContent.scrollTo(0,0);> ❦ </a></center>
