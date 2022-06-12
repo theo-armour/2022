@@ -1,7 +1,6 @@
 # improv
 
 
-
 ## Preface
 
 "Improv" is one of my primary mental models (internal representations of external reality) when engaging in discussions about new ideas or propositions. Ditto when dealing with people with dementia who talking about things we cannot see ourselves.
@@ -14,12 +13,16 @@
 * Improv is about negotiating, about finding agreement
 * One we agree or at least come to terms on this point, we can move on to the next point
 
+## Reference
+
+* https://en.wikipedia.org/wiki/Improvisation
+* https://en.wikipedia.org/wiki/Viola_Spolin
 
 
 ## Tina Fey's Four Rules of Improv
 
 1. You must agree
-2. "Yes" isn’t enough, you must "yes, and…"
+2. "Yes" isn't enough, you must "yes, and…"
 3. Make statements.
 4. There are no mistakes!
 
@@ -35,22 +38,22 @@
 
 > Tina Fey has it all: a hit TV show, a bestselling book, a supportive family, respect as an awards host, and a flourishing career. How does she do it? She credits improvisation. In her book Bossypants, she discusses how the rules she learned at improv school Second City helped her succeed both on stage and off.
 
-> As an actress, I struggle daily with confidence and insecurities. Improvising has helped me get out of my own head and access deeper parts of myself. In life, we are constantly editing ourselves and second-guessing our ideas in an attempt to be perfect. Improvisation dares us to trust our instincts and appreciate others and what they bring to the table. Implement these four basic improvisation rules into your everyday life and I guarantee you’ll see a difference.
+> As an actress, I struggle daily with confidence and insecurities. Improvising has helped me get out of my own head and access deeper parts of myself. In life, we are constantly editing ourselves and second-guessing our ideas in an attempt to be perfect. Improvisation dares us to trust our instincts and appreciate others and what they bring to the table. Implement these four basic improvisation rules into your everyday life and I guarantee you'll see a difference.
 
-> **1\. You must agree.** This doesn’t mean everyone has to get along, but it means you must agree on the given set of circumstances. For instance, if I say, "Wow, it’s great to be on the beach!" and you say, "We aren’t on the beach stupid, we are on the ski slope," then the improv scene is dead. But if you say, "I can’t wait to get in the water, I hope it’s not too cold," then we have a scene. We have agreed that this stage is now a sandy beach and we can keep moving forward.
+> **1\. You must agree.** This doesn't mean everyone has to get along, but it means you must agree on the given set of circumstances. For instance, if I say, "Wow, it's great to be on the beach!" and you say, "We aren't on the beach stupid, we are on the ski slope," then the improv scene is dead. But if you say, "I can't wait to get in the water, I hope it's not too cold," then we have a scene. We have agreed that this stage is now a sandy beach and we can keep moving forward.
 
-> I don’t recommend you agree with everyone in your life, but I challenge you to come from a place of "yes" and keep an open mind. Try to understand where others are coming from before discrediting them as "crazy" or "stupid." "No" should be a last resort, and respect what others create.
+> I don't recommend you agree with everyone in your life, but I challenge you to come from a place of "yes" and keep an open mind. Try to understand where others are coming from before discrediting them as "crazy" or "stupid." "No" should be a last resort, and respect what others create.
 
-> **2\. "Yes" isn’t enough, you must "yes, and…" Add to the discussion.** In the example above, the second person did not just say, "Yes we’re at the beach," she said, "I can’t wait to get in the water, I hope it’s not too cold." This statement adds value to the scene. Now the audience knows it’s cold and that we plan to enjoy the ocean as opposed to looking for gold or taking a yoga class.
+> **2\. "Yes" isn't enough, you must "yes, and…" Add to the discussion.** In the example above, the second person did not just say, "Yes we're at the beach," she said, "I can't wait to get in the water, I hope it's not too cold." This statement adds value to the scene. Now the audience knows it's cold and that we plan to enjoy the ocean as opposed to looking for gold or taking a yoga class.
 
 > To me, this rule challenges you to contribute. Whether you are developing an ad campaign or deciding where to eat dinner, put your neck out there, give your thoughts and have a say. Two minds are always better than one.
 
-> **3\. Make statements.** Have confidence. When you say something, mean it and stand behind it. How convincing would this proposal be in an improv scene: "I love you? I want you to marry me? I think I want to spend the rest of my life with you?" Let’s just say if he said that to me, he would not be putting a ring on it!
-> If you have something to say, don’t be apologetic, don’t be shy, don’t second-guess yourself, be confident.
+> **3\. Make statements.** Have confidence. When you say something, mean it and stand behind it. How convincing would this proposal be in an improv scene: "I love you? I want you to marry me? I think I want to spend the rest of my life with you?" Let's just say if he said that to me, he would not be putting a ring on it!
+> If you have something to say, don't be apologetic, don't be shy, don't second-guess yourself, be confident.
 >
 > Because at the end of the day….
 >
-> **4\. There are no mistakes!** Some of the best improvisation scenes come from miscommunications. Audiences love seeing actors fight their way out of a confusing, messy scene. For instance, if an actor is clearly on a baseball field holding a bat and chewing tobacco, and the other actor says, "Stop spitting on my new hardwood floors, and what’s that in your hand?" the audience is instantly hooked to see how the "baseball player" will justify his behavior without breaking the scene.
+> **4\. There are no mistakes!** Some of the best improvisation scenes come from miscommunications. Audiences love seeing actors fight their way out of a confusing, messy scene. For instance, if an actor is clearly on a baseball field holding a bat and chewing tobacco, and the other actor says, "Stop spitting on my new hardwood floors, and what's that in your hand?" the audience is instantly hooked to see how the "baseball player" will justify his behavior without breaking the scene.
 
 ### [Tina Fey's Rules For Improv...And the WorkPlace]( http://www.mycareertopia.com/tina-feys-rules-for-improv-and-the-workplace/ )
 
@@ -107,7 +110,7 @@ Moment Improv Theatre, 533 Sutter Street, 2nd Floor, San Francisco, CA 94102
 
 > Every Secret Improv performance is a unique, fast paced, interactive, laugh out loud improv comedy experience!
 
-Secret  Improv  is the winner of  SF Magazine's  Best Comedy Show: "Since 2008, a regular troupe of trained improvisers has been putting on this beloved late-night comedy show based largely on on-the-spot audience suggestions...the intimate space feels more like hanging out in your living room with friends. There’s a full bar but no drink requirement, and free Oreos!"
+Secret  Improv  is the winner of  SF Magazine's  Best Comedy Show: "Since 2008, a regular troupe of trained improvisers has been putting on this beloved late-night comedy show based largely on on-the-spot audience suggestions...the intimate space feels more like hanging out in your living room with friends. There's a full bar but no drink requirement, and free Oreos!"
 
 > Free, all welcome, drop in, improv classes at St. Cyprian Church starting at 7pm to around 9:30 pm.
 2097 Turk Blvd, San Francisco, CA 94115
