@@ -1,12 +1,19 @@
 # improv
 
+
+
 ## Preface
 
 "Improv" is one of my primary mental models (internal representations of external reality) when engaging in discussions about new ideas or propositions. Ditto when dealing with people with dementia who talking about things we cannot see ourselves.
 
 * Keep the dialog going
-* Never put people on the defensive
-* Maintain a level of joy or even mischief
+* Help people develop their thoughts out loud
+* Putting people on the defensive prevents the dialog from progressing
+* Maintaining levels of joy or even mischief entices people to continue
+* There's no right or wrong or winning or losing
+* Improv is about negotiating, about finding agreement
+* One we agree or at least come to terms on this point, we can move on to the next point
+
 
 
 ## Tina Fey's Four Rules of Improv
