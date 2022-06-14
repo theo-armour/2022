@@ -113,6 +113,14 @@ Building Up Your Pillars
 
 ## https://cheyney.edu/wp-content/uploads/2019/08/11pillarsWellnessChrista3.pdf
 
+## Six Dimensions
+
+## https://nationalwellness.org/resources/six-dimensions-of-wellness/
+
+## Seven Dimensions
+
+## https://www.grcc.edu/faculty-staff/human-resources/professional-development/employee-wellness/seven-dimensions-wellness
+
 ## Nine Dimensions
 
 ## https://swc.osu.edu/nine-dimensions-of-wellness

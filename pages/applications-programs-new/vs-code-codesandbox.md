@@ -6,7 +6,7 @@
 * https://code.visualstudio.com/blogs/2021/10/20/vscode-dev
 * https://www.youtube.com/watch?v=sy3TUb_iVJM
 
-### Aboutkkk
+### About
 
 * https://www.infoq.com/news/2021/11/vscode-dev-launched/
 * https://news.ycombinator.com/item?id=28932206
