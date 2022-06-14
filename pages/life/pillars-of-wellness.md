@@ -1,5 +1,13 @@
 # Pillars of Wellness
 
+## Wikipedia
+
+* https://en.wikipedia.org/wiki/Wellness_(alternative_medicine)
+* https://en.wikipedia.org/wiki/Wellness_in_school
+* https://deepblue.lib.umich.edu/bitstream/handle/2027.42/43062/10902_2004_Article_1278.pdf;jsessionid=80BBD7647D81F42AA2E52397850CE19F?sequence=1
+
+## Seven Pillars
+
 ## https://mywellness.ucsf.edu/#/
 
 ### Emotional
@@ -25,8 +33,11 @@ Career is how to engage in work that is meaningful to your values, goals, and li
 Spiritual is how to find meaning and purpose in life and explore what is larger than oneself.
 
 
-## https://cheyney.edu/wp-content/uploads/2019/08/11pillarsWellnessChrista3.pdf
 
+
+## Eight Pillars
+
+## https://law.scu.edu/studentservices/8-pillars-of-wellness/
 
 ## https://auraglow.com/blog/how-to-use-the-8-pillars-of-wellness/
 
@@ -96,7 +107,15 @@ Try: Cutting back on your time in the car by opting for a bike ride or a walk if
 Building Up Your Pillars
 
 
-## https://law.scu.edu/studentservices/8-pillars-of-wellness/
-
-
 ## https://askthescientists.com/pillars-of-wellness/
+
+## Eleven Pillars
+
+## https://cheyney.edu/wp-content/uploads/2019/08/11pillarsWellnessChrista3.pdf
+
+## Nine Dimensions
+
+## https://swc.osu.edu/nine-dimensions-of-wellness
+
+## https://www.rollins.edu/wellness-center/nine-dimensions-of-wellness/
+
