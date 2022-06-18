@@ -124,14 +124,11 @@ You’re the only person that can answer these questions to get to the root of w
 So ask yourself: If I had so much money I could never spend it all, what would I want to do every day? Your answer should give you an inkling of what kind of career will make it a pleasure to go to work every day.
 
 
-
 ### 3. ROMANCE OR RELATIONSHIP GOALS
 
 Your relationship with your significant other can grow warily stale over the years, especially after having kids. It’s always in your best interest (as long as there’s no abuse or infidelity going on) to nurture the relationship. This person has vowed to spend the rest of their life with you, and you with them. Why wouldn’t you want it to be epic??!
 
 Not only that—but this person should be your rock, your support. If you expect them to be your rock and nurture like you need, you also have to nurture as well. It’s a two-way street, marriage.
-
-
 
 ### 4. FAMILY + FRIENDS GOALS
 
@@ -149,8 +146,6 @@ Let them know how much you care about them. Do this by writing them into your go
 And the second part of this goal should including parenting. As a parent for 19 years now, I can tell you that some of our biggest arguments have come in regards to parenting. In this crazy-busy tech-driven world we live in, sometimes we forget to stop and be present with those little babies we wanted in this world.
 
 We’re responsible for teaching them nearly everything, and how to be a great parent is one of those responsibilities. Take time with them. Praise them. Give them boundaries. Make connections. You don’t have a long time to do this, so take advantage while the time is here!
-
-
 
 
 ### 5. FINANCIAL TYPES OF GOALS EVERYONE SHOULD HAVE

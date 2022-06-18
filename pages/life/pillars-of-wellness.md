@@ -1,25 +1,36 @@
-# Pillars of Wellness
+# Dimensions of Wellness
 
 ## Introduction
 
 Most of us want to be healthy. But what is "healthy"? And how to stay healthy?
 
-If you (or your parents) are in the eighties or nineties, obviously you (or they) have not been that unhealthy. Most likely, however, any elderly person has a bunch of issues. The issues camn be medical, financial, cognitive or any nimber of other issues.
+If you (or your parents) are in the eighties or nineties, obviously you (or they) have not been that unhealthy. Most likely, however, any elderly person has a bunch of issues. The issues can be medical, financial, cognitive or any number of other issues.
 
-Most of us want to live at least another five years or so. For most of us, just living as we have been living in the recent past is suficient to let live for the next five.
+Most of us want to live at least another five years or so. For most of us, just living as we have been living in the recent past is sufficient to let live for the next five.
 
-Some of us, however, have pre-existing conditions or riskly behavior patterns or are just plain curious about what the future as an elderly person may bring.
+Some of us, however, have pre-existing conditions or risky behavior patterns or are just plain curious about what the future as an elderly person may bring.
 
-If you are one of these types then this paper is for you. Or at leat it may be someyime in the futuer because it is an ongoing work in progress.
+If you are one of these types then this paper is for you. Or at least it may be sometime in the future because it is an ongoing work in progress.
 
 So let's go back to the beginning: What is health?
 
 > Health, according to the World Health Organization, is "a state of complete physical, mental and social well-being and not merely the absence of disease and infirmity"
 
-This then demands the question? What is well-being? It turns out that well-being is an omnibus term with many meanings. Fortuenately there is a related term that is more physical than existential; more individual and societal. The term is "wellness".
+This then demands the question? What is well-being? It turns out that well-being is an omnibus term with many meanings. Fortunately there is a related term that is more physical than existential; more individual and societal. The term is "wellness".
 
 Even better, there is a large corpus of writing on "wellness dimensions" and "pillars of wellness".
 
+## Vision
+
+Given a primary set of criteria, you as a competant individual may ascertain your overall state of health to a caregiver
+
+Given a primary set of criteria, you as a moderately cognitively-impaired individual may use the criteria to help you to remember to describe your overall state of health to a care-giver.
+
+Given a caregiver may use these criteria to investigate the geb]neral state of health of a severely-cognitively impaired person
+
+## Mission
+
+To provide metrics and targets for the full range of known health criteria.
 
 
 ## Wikipedia
@@ -37,6 +48,26 @@ Health
 
 Well-being
 * https://en.wikipedia.org/wiki/Well-being
+
+
+## https://nationalwellness.org/resources/six-dimensions-of-wellness/
+
+Looks like being the source of the concept in 1976
+
+occupational, physical, social, intellectual, spiritual
+
+* https://www.hettler.com//sixdimen.htm
+* https://www.hettler.com/
+* https://healthyhappylife.com/defining-wellness-hettlers-six/
+* https://nationalwellness.org/resources/six-dimensions-of-wellness
+* https://cdn.ymaws.com/members.nationalwellness.org/resource/resmgr/pdfs/sixdimensionsfactsheet.pdf
+
+more
+
+* https://www.researchgate.net/publication/323084807_The_Scope_and_Challenges_of_the_Wellness_Activities_of_the_Older_Adults
+* https://vcchc.com/healthy-aging-the-dimensions-of-wellness-for-seniors/
+* https://www.researchgate.net/publication/323084807_The_Scope_and_Challenges_of_the_Wellness_Activities_of_the_Older_Adults
+
 
 ## Seven Pillars
 
@@ -79,8 +110,6 @@ Physical, Nutritional, Emotional, Social, Spiritual, Intellectual, Financial, En
 
 #### What Are the 8 Pillars of Wellness?
 The idea of incorporating eight pillars into your routine might sound daunting as you begin your wellness journey. But chances are, you’re already using at least a few of these pillars already. We’ll break down each pillar and give you actionable steps to develop them in your life.
-
-
 
 #### 1. Physical
 Physical wellness includes much more than just exercise. Regular physical activity is certainly a component of this pillar, but there are several other aspects that make up holistic physical wellness, including healthy hygiene and sleep habits.
@@ -157,9 +186,7 @@ Mental and Emotional, Physical, Spiritual, Social, Intellectual, Career / Occupa
 
 ## Six Dimensions
 
-### https://nationalwellness.org/resources/six-dimensions-of-wellness/
-
-occupational, physical, social, intellectual, spiritual
+## https://vpretirement.com/the-six-dimensions-of-wellness/
 
 ## Seven Dimensions
 
@@ -185,7 +212,38 @@ Emotional, Environmental, Financial, Intellectual, Occupational, Physical, Socia
 
 physical, emotional, creative, environmental, financial, occupational, intellectual, social, spiritual.
 
-## https://swc.osu.edu/nine-dimensions-of-wellness
+### https://swc.osu.edu/nine-dimensions-of-wellness
 
-## https://www.rollins.edu/wellness-center/nine-dimensions-of-wellness/
+### https://www.rollins.edu/wellness-center/nine-dimensions-of-wellness/
 
+
+## All terms
+
+* Creative 1
+* Emotional 5
+* Environmental 5
+* Financial 3
+* Intellectual 6
+* Occupational 5
+* Physical 7
+* Nutritional 2
+* Social/Relational 6
+* Spiritual 6
+
+Needs re-counting
+
+## Items
+
+### Term: Emotional
+
+* https://mywellness.ucsf.edu/#/resources/emotional#resources Emotional Wellness is how to manage stress, be resilient, and understand and regulate emotions.
+* https://law.scu.edu/studentservices/8-pillars-of-wellness/#Emotional Being aware of your feelings, coping effectively with the stress of law school, developing resiliency, and practicing self-care strategies to achieve a sense of mental balance is a focus of the Santa Clara Law Community.
+* https://wellness.huhs.harvard.edu/emotional Emotional wellbeing involves the recognition and acceptance of all of our thoughts and feelings, whether positive or negative.  This awareness and acceptance of our emotions is necessary in cultivating balance and resiliency and supports us in developing and nurturing relationships and friendships.
+* https://umatter.princeton.edu/action-matters/caring-yourself/wellness-wheel-assessment/emotional-wellness Emotional wellness is understanding your own feelings and expressing emotions in a constructive way. It is also the ability to manage stress and cope with life's challenges.
+
+### Term: Physical
+
+* https://mywellness.ucsf.edu/#/resources/physical#resources Physical Wellness is how to maintain and improve the functioning of your body through healthy eating, exercise, and sleep.
+* https://law.scu.edu/studentservices/8-pillars-of-wellness/#Physical Regular physical activity, a healthy diet, and sufficient sleep are necessary to help combat the stress of law school. We promote self-care despite the time pressures of schoolwork and extra-curricular activities. Taking care of our physical health has a direct impact on our resiliency and overall general well-being.
+* https://wellness.huhs.harvard.edu/physical Physical wellbeing is an essential component of overall wellbeing that directly affects long term health. Important aspects of physical health include exercise, nutrition, sleep, sexual health, and making healthy decisions around substance use. Fostering your physical wellbeing and tuning in to your body's needs not only promotes your physical health, but can benefit your emotional, intellectual and relational wellbeing too.
+* https://umatter.princeton.edu/action-matters/caring-yourself/wellness-wheel-assessment/physical-wellness Physical wellness comes from making choices to avoid harmful habits and practice actions that support your physical body, health and safety. It includes choices about physical activity, healthy eating, sleeping, safer sex, getting medical care, and use of alcohol, other drugs and tobacco.
