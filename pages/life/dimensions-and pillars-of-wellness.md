@@ -1,4 +1,4 @@
-# Dimensions of Wellness
+# Dimensions and pillars of Wellness
 
 ## Introduction
 
@@ -34,6 +34,8 @@ To provide metrics and targets for the full range of known health criteria.
 
 
 ## Wikipedia
+
+
 
 Pillars of Wellness
 * https://en.wikipedia.org/wiki/Wellness_(alternative_medicine)
@@ -216,6 +218,11 @@ physical, emotional, creative, environmental, financial, occupational, intellect
 
 ### https://www.rollins.edu/wellness-center/nine-dimensions-of-wellness/
 
+## Ten Dimensions
+
+### https://bewell.stanford.edu/domains-well-being/
+
+Social connectedness,Lifestyle behaviors,Stress and resilience,Emotional health,Physical health,Meaning and purpose,Sense of self,Finances,Spirituality or religiosity,Exploration and creativity
 
 ## All terms
 
