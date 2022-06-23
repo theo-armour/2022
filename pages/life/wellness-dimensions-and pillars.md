@@ -35,8 +35,6 @@ To provide metrics and targets for the full range of known health criteria.
 
 ## Wikipedia
 
-
-
 Pillars of Wellness
 * https://en.wikipedia.org/wiki/Wellness_(alternative_medicine)
 * https://en.wikipedia.org/wiki/Wellness_in_school
@@ -160,8 +158,6 @@ Try: Practicing meditation. You can do this by sitting or lying in a comfortable
 Intellectual wellness is built by opening yourself up to experiences that inform and challenge your thinking. Developing a healthy thirst for knowledge long after formal education has ended is a great way to form new skills and interests throughout your life. This can be as simple as having deep, intellectual conversations with friends and family or setting aside time each day to play brain puzzles like crosswords or Sudoku.
 
 Try: Joining a book club. Being a part of a reading group will help hold you accountable and inspire stimulating conversations about insights and learnings from the book.
-
-
 
 #### 7. Financial *
 Financial wellness is the pillar devoted to living within your means and planning for your future appropriately. It can be tough to start developing this pillar, but you’ll be glad you did. Being financially well trickles over into several other pillars, such as physical and emotional wellness, as money troubles can take a toll on a person’s mind and body.
