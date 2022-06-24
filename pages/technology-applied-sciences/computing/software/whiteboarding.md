@@ -17,7 +17,6 @@
 
 _A few of the sites listed in the portal pages_
 
-
 * https://www.yourworldoftext.com/home/
 	* Text only
 * https://www.groupboard.com/products/
@@ -76,7 +75,7 @@ _A few of the sites listed in the portal pages_
 * Does not export to PNG
 	* Must copy and paste to Paint or other
 
-	
+
 
 ## https://github.com/cojapacze/sketchpad
 	* GH / 2018 / Many features

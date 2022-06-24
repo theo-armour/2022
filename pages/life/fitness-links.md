@@ -1,5 +1,15 @@
 # Fitness
 
+
+## Reference
+
+* https://en.wikipedia.org/wiki/Physical_fitness
+* https://en.wikipedia.org/wiki/Outline_of_exercise
+* https://en.wikipedia.org/wiki/Outline_of_health
+
+
+## Devices
+
 * https://finvsfin.com/whoop-vs-oura/
 * https://finvsfin.com/amazon-halo-vs-whoop-vs-fitbit/
 * https://camsecore.com/powermoves/whoop-vs-oura/

@@ -18,6 +18,7 @@ Write notes and draw in OneNote for Windows 10
 
 
 ## Ruler ~ Draw straight lines or measure with the ruler in OneNote
+
 You can manipulate the ruler by using your fingers.
 Draw a line Select the page where you want to use the ruler.
 Tap the Ruler on the Draw tab to make it appear on your note.

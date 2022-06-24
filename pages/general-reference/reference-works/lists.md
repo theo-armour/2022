@@ -1,3 +1,9 @@
+# Lists
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
+* https://en.wikipedia.org/wiki/Category:Lists
+
+
 # Lists ~ Awesome
 
 * https://project-awesome.org/

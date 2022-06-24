@@ -48,3 +48,8 @@ Mission and vision
 ### Buying food
 
 * Never buy much more than you will eat in a day or two
+
+## James Capon && Oliver Capon
+
+* https://www.fatisourfriend.com/
+* https://twitter.com/fatisourfriend
