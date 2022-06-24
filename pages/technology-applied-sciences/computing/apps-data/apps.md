@@ -1,6 +1,6 @@
 # apps
 
-# Leap
+## Leap
 
 http://js.leapmotion.com/
 

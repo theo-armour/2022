@@ -140,10 +140,10 @@ Cmd+Option+1 (Mac)
 ## Extensions
 
 * https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
- * Wraps your selection in HTML tags. Can wrap inline selections and selections that span multiple lines (works with both single selections and multiple selections at once).
- * To use, select one or many chunks of code and press "Alt + W" ("Option + W" for Mac).
-* https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-hacker-typer
- * replay macros at typing speed
+	* Wraps your selection in HTML tags. Can wrap inline selections and selections that span multiple lines (works with both single selections and multiple selections at once).
+	* To use, select one or many chunks of code and press "Alt + W" ("Option + W" for Mac).
+	* https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-hacker-typer
+	* replay macros at typing speed
 * <https://github.com/viatsko/awesome-vscode?>
 * https://marketplace.visualstudio.com/items?itemName=nicoespeon.slides
 * https://css-tricks.com/vs-code-extensions-for-html/
