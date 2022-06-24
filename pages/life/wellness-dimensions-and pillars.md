@@ -146,7 +146,6 @@ Healthy friendships and relationships create a strong support system to reach ou
 Try: Scheduling monthly check-in calls with friends you don’t get to see that often. This will help hold you accountable and remind you of the importance of checking in with friends regardless of what’s happening in your life — good or bad.
 
 
-
 #### 5. Spiritual *
 The spiritual pillar of wellness is unique to each person and their spirituality. Spirituality is defined as the traditions and values by which people live. This helps to give people a sense of purpose and meaning to life, which, in turn, helps guide actions.
 

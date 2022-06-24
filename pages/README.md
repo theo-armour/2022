@@ -1,9 +1,6 @@
-
-
-## [Pages Read Me](https://theo-armour.github.io/2022/#pages/README.md)
+# [Pages Read Me](https://theo-armour.github.io/2022/#pages/README.md)
 
 ## Concept
-
 
 
 ## To Do / Wish List
@@ -21,11 +18,11 @@
 
 ### 2021-01-03
 
-*   Add links
+* Add links
 
 ### 2021-12-31
 
-*   First commit
+* First commit
 
 ***
 

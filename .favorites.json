@@ -1,0 +1,36 @@
+[
+    {
+        "type": "Group",
+        "name": "2022",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "HAtuDUg5yZ96lP0x"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-2022\\pages\\life\\wellness-dimensions-and pillars.md",
+        "parent_id": "HAtuDUg5yZ96lP0x",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-2022\\pages\\life\\wellness-dimensions-and pillars.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "J6Y7Vzr2Cu0kU8oS"
+    },
+    {
+        "type": "Group",
+        "name": "qData",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Kcp4eQ6GxXO3Bo0J"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-to-do.md",
+        "parent_id": "Kcp4eQ6GxXO3Bo0J",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-to-do.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "36p2VXJ1TISWsGCy"
+    }
+]
