@@ -1,5 +1,6 @@
-# bookmarks
+# bookmarking appa
 
+* https://news.ycombinator.com/item?id=31848210
 * https://lifehacker.com/the-ultimate-guide-to-organizing-your-messy-chrome-book-1826770044
 * https://pinboard.in/tour/
 * https://diigo.com/

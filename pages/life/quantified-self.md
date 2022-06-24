@@ -29,3 +29,14 @@ Wearable fitness trackers and smartwatches are connecting health care to daily l
 
 ## https://writings.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/
 
+
+## Journaling
+
+* https://herman.bearblog.dev/years-of-journaling/
+* https://news.ycombinator.com/item?id=31832362
+
+Observations on 6 years of journaling
+22 Jun, 2022
+
+Journaling is, without a doubt, the most important thing I do for myself. It is the act of taking the internal mess of thoughts, emotions, and experiences, and structuring and codifying them. It makes the intangible, tangible. Understandable.
+

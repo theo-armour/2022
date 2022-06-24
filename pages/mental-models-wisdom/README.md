@@ -2,7 +2,22 @@
 
 * This is about processes
 
+## Small Actions Make Great Leaders
+by Hitendra Wadhwa
 
+* https://hbr.org/2022/06/small-actions-make-great-leaders
+
+to achieve this intention, they seek to activate one or more of five energies in themselves and others:
+
+Purpose: A commitment to pursue a noble, uplifting cause.
+Wisdom: A calm receptivity to the truth — with all its nuances — in every situation.
+Growth: A continual striving to approach one’s full potential.
+Love: A fostering of warmth, understanding and connection.
+Self-realization: A stirring of the human spirit that lies at one’s core.
+
+fun criticisms
+
+https://news.ycombinator.com/item?id=31847160
 ## Tools
 
 Tools for better thinking ~ Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
