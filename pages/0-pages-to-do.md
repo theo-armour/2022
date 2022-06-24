@@ -21,8 +21,16 @@
 
 ## General reference
 
+### Reference Works
+
+#### Lists
+
+* https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
+* https://en.wikipedia.org/wiki/Category:Lists
+
 ### Research Tools and Topics
 
+* Checklists
 * Writing
 
 ## Culture and the arts
@@ -54,3 +62,4 @@
 
 ### Computing
 
+* Software
