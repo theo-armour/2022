@@ -12,9 +12,17 @@
 	* It wil be easier to find examples of usage since every article has categories.
 * Will be updated as new categories emerge
 
+## https://en.wikipedia.org/wiki/Wikipedia:Contents
+
+> Wikipedia is a compendium of the world's knowledge. If you know what you are looking for, type it into Wikipedia's search box. If, however, you need a bird's eye view of what Wikipedia has to offer, see its main contents pages below, which in turn list more specific pages.
+
 ## https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories
 
 > Categories (along with other features like cross-references, lists, and infoboxes) help you to find information, even if you don't know what exists or what it's called. The following list of categories of Wikipedia's coverage parallels our other lists by topic.
+
+## https://en.wikipedia.org/wiki/Category:Main_topic_articles
+
+> This category contains the 40 articles that correspond to one of Wikipedia's major topic classifications. The major topic classifications are used throughout Wikipedia to organize the presentation of links to articles in Wikipedia.
 
 ## https://en.wikipedia.org/wiki/Category:Main_topic_classifications
 
