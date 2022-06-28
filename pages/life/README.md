@@ -1,5 +1,15 @@
 # Life
 
+## Sophia ~ Inflammation
+
+* Text too small
+* allergies even depression - all sorts of odd things - caused by inflamation
+* Nutrition action
+
+Elizabeth
+* https://www.cspinet.org/
+* https://store.nutritionaction.com/
+
 ## Coaches
 
 * https://en.wikipedia.org/wiki/Coaching
