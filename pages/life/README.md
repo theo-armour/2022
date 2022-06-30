@@ -1,5 +1,23 @@
 # Life
 
+
+## David Peretz
+
+2nd ammendment - "under a well-organized militia" ignored
+
+rogue court - impatient - angry
+
+worried about american democracy - signs of advanced decay
+
+
+
+
+
+Aging
+
+* https://www.hagarsfoundation.org/david-peritz
+> Finally, David has an emerging research interest in the philosophy of aging, specifically the question of how we maintain vitality and the respect of ourselves as well as others across the entirety of life, especially in light of the current lifespan revolution.
+
 ## Sophia ~ Inflammation
 
 * Text too small
