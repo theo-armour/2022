@@ -2,6 +2,14 @@
 
 tags #happiness
 
+## AI
+
+* https://scitechdaily.com/harvard-developed-ai-identifies-the-shortest-path-to-human-happiness/
+* https://blogs.harvard.edu/toshietakahashi/a-future-with-ai/
+
+
+## Six factor model
+
 * https://deepblue.lib.umich.edu/bitstream/handle/2027.42/43062/10902_2004_Article_1278.pdf
 
 Different orientations to happiness and their association with life satisfaction were investigated with 845 adults responding to Internet surveys. We measured life satisfaction and the endorsement of three different ways to be happy: through pleasure, through engagement, and through meaning. Each of these three orientations individually predicted life satisfaction. People simultaneously low on all three orientations reported especially low life satisfaction. These findings point the way toward a distinction between the full life and the empty life
