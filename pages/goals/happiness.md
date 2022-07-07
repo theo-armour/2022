@@ -4,8 +4,19 @@ tags #happiness
 
 ## AI
 
+
+Harvard Developed AI Identifies the Shortest Path to Human Happiness
+
 * https://scitechdaily.com/harvard-developed-ai-identifies-the-shortest-path-to-human-happiness/
 * https://blogs.harvard.edu/toshietakahashi/a-future-with-ai/
+
+>Artificial Intelligence is being adopted rapidly and eagerly everywhere, but not all its uses are equally welcome. It is high time that we become more intentional about what AI will be used for (and what not). But who gets to decide? We think that young people should have a say in what this future looks like!
+
+> The goal of this project is to contribute towards a vision of a future where human wellbeing and happiness take center stage. Therefore, we seek to understand the perceptions, risks, hopes and opportunities youth sees regarding AI. Some of these may be universally shared while others more culturally specific, but all are essential if we hope to arrive at a degree of common understanding and promote solidarity and collaboration globally.
+
+not
+* https://www.health.harvard.edu/mind-and-mood/health-and-happiness-go-hand-in-hand
+
 
 
 ## Six factor model
