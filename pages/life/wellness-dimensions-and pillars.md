@@ -109,6 +109,7 @@ Physical, Social, Emotional, Occupational, Financial, Spiritual, Intellectual, E
 Physical, Nutritional, Emotional, Social, Spiritual, Intellectual, Financial, Environmental
 
 #### What Are the 8 Pillars of Wellness?
+
 The idea of incorporating eight pillars into your routine might sound daunting as you begin your wellness journey. But chances are, you’re already using at least a few of these pillars already. We’ll break down each pillar and give you actionable steps to develop them in your life.
 
 #### 1. Physical
@@ -183,13 +184,13 @@ Mental and Emotional, Physical, Spiritual, Social, Intellectual, Career / Occupa
 
 ## Six Dimensions
 
-## https://vpretirement.com/the-six-dimensions-of-wellness/
+### https://vpretirement.com/the-six-dimensions-of-wellness/
 
 ## Seven Dimensions
 
 ### https://umatter.princeton.edu/action-matters/caring-yourself/wellness-wheel-assessment
 
-> wellness: emotional, environmental, intellectual, occupational, physical, social spiritual.
+> emotional, environmental, intellectual, occupational, physical, social spiritual.
 
 ### https://www.grcc.edu/faculty-staff/human-resources/professional-development/employee-wellness/seven-dimensions-wellness
 
@@ -209,15 +210,36 @@ Emotional, Environmental, Financial, Intellectual, Occupational, Physical, Socia
 
 physical, emotional, creative, environmental, financial, occupational, intellectual, social, spiritual.
 
+### https://www.cdc.gov/hrqol/wellbeing.htm
+
+Physical well-being.
+Economic well-being.
+Social well-being.
+Development and activity.
+Emotional well-being.
+Psychological well-being.
+Life satisfaction.
+Domain specific satisfaction.
+Engaging activities and work.
+
 ### https://swc.osu.edu/nine-dimensions-of-wellness
 
 ### https://www.rollins.edu/wellness-center/nine-dimensions-of-wellness/
+
 
 ## Ten Dimensions
 
 ### https://bewell.stanford.edu/domains-well-being/
 
 Social connectedness,Lifestyle behaviors,Stress and resilience,Emotional health,Physical health,Meaning and purpose,Sense of self,Finances,Spirituality or religiosity,Exploration and creativity
+
+* https://med.stanford.edu/wellforlife/methods/wellforlifescale.html
+* https://journals.sagepub.com/doi/pdf/10.1177/0890117117725842
+* https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.1558
+* https://med.stanford.edu/wellforlife.html
+* https://scopeblog.stanford.edu/2017/06/19/what-does-it-mean-to-be-well/
+* https://stanmed.stanford.edu/2016summer/well-now.html
+
 
 ## All terms
 
