@@ -2,6 +2,13 @@
 
 * This is about processes
 
+## Abduction
+
+* https://news.ycombinator.com/item?id=32161967
+* https://direct.mit.edu/books/oa-monograph/5329/The-Art-of-Abduction
+* https://en.wikipedia.org/wiki/Abductive_reasoning
+
+
 ## Small Actions Make Great Leaders
 by Hitendra Wadhwa
 
@@ -18,6 +25,8 @@ Self-realization: A stirring of the human spirit that lies at one’s core.
 fun criticisms
 
 https://news.ycombinator.com/item?id=31847160
+
+
 ## Tools
 
 Tools for better thinking ~ Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.

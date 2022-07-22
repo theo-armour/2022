@@ -1,16 +1,44 @@
 # Life
 
+## Death
+
+### Breathing
+
+* https://www.crossroadshospice.com/hospice-resources/end-of-life-signs/breathing-patterns/
+* https://hospicefoundation.org/Hospice-Care/Signs-of-Approaching-Death
+* https://erj.ersjournals.com/content/24/1/71
+* https://www.hammond.com.au/about/blog/what-to-expect-when-someone-is-nearing-death
+
+
+2022-07-21 ~
+
+A morning visit: Dominique's head was not turned to the side as it was last night. She faced directly out from the pillows and seemed more calm.
+
+A calm sleep is very dependent on a good amount of oxygen reaching. Her breath is quite clear. There are no raspiness or gurgling noises. She is, however, breathing with her mouth open. Breathing through the mouth eases the intake of oxygen.
+
+Last night, when I held her hand and gave a squeeze, there was no response. I have been reading about the end of life. It seems that people who are outwardly and physically unresponsive may still be aware and able to hear - hearing is one of the last senses to lapse before death.
+
+So looking at Dominique, I feel she is still here with us yet fading quietly and gently
+
+
+***
+
+Dominiqua Gaspar died at 5:25 pm.
+
+After dinner, I read the message from Edina. I went down and sat next to Dominique's bed. Mostly I looked at her face - just slightly gaunt and gray. I put my hand on her knee. Even through the blanket, her knee was still warm. A few times I sang the "Tender Shepherd" lullaby to her. Mostly I looked at her face and my mind's eye flashed on images of her from the past few months.
+
+I talked with Roxanna, Dominique's caregiver. She said that Dominique slipped away calmly. Edina and Flora were both there.
+
+Goodbye Dominique. You have left me a legacy replete with the twists and turns of friendly new connections in my life. Thank you.
+
 
 ## David Peretz
 
-2nd ammendment - "under a well-organized militia" ignored
+2nd amendment - "under a well-organized militia" ignored
 
 rogue court - impatient - angry
 
 worried about american democracy - signs of advanced decay
-
-
-
 
 
 Aging
@@ -40,7 +68,7 @@ Elizabeth
 SF
 * https://loveyourlife.co/
 
-## Friends Socializin
+## Friends Socializing
 
 * https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html
 
