@@ -2,7 +2,9 @@
 
 tags #inkscape #sw #draw #svg
 
+## Documents
 
+* https://en.wikipedia.org/wiki/Inkscape
 * https://inkscape.org/
 * https://inkscape-manuals.readthedocs.io/en/latest/
 	* https://gitlab.com/inkscape/inkscape-docs/manuals/blob/master/Inkscape-Beginners-Guide/source/index.rst
@@ -19,7 +21,18 @@ More
 * Looks like most power of any of the apps
 * Extensive learning curve
 
+## Setup
+
+Light theme: Preferences > Interface > Theming > uncheck use dark theme
+
+Vertical pan > select Ctrl
+Canvas zoom > unselect Ctrl
+zoom by scroll wheel: Preferences > Interface > Keyboard > tab Modifiers > Canvas
+
+
 ## File Menu > Document Properties
+
+Tip: Resize to Content
 
 ### background Opaque
 
@@ -27,11 +40,7 @@ More
 
 > Go to Document properties → Page and click on "Background color" (bottom of popup). Adjust "alpha" there. Setting the background color to #ffffffff sets the background to white and opaque. Setting it to #000000ff creates an opaque black background.
 
-
 ### Front Page
-
-Tip: Resize to Content
-
 
 US Paper
 width 279.4
@@ -70,12 +79,10 @@ Pan: scroll wheel press
 * 6 || Ctrl-E  zoom to page width
 * Ctrl-4: center page in view (without changing zoom level)
 
-
-
 ## Path Menu
 
 * Draw multiple paths then join the ends
-	* continuous line makes copy and formatting much easier
+  * continuous line makes copy and formatting much easier
 
 ### Stroke to Path
 
@@ -137,6 +144,7 @@ all interesting but very strong
 * Cool outside
 
 ### Overlays
+
 No width
 
 * colorize turbulent
