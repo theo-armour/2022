@@ -6,6 +6,7 @@ Catalogs are listed in alphabetical order
 * https://www.american-scientific.com/ ~ STEM stuff
 * https://www.arborsci.com/~ STEM stuff
 * https://www.boutiquesdemusees.fr/en/ ~ Art from the Louvre and other French museums
+* https://www.bokerusa.com/dw-1-01bo573 ~ nice knives, pens and more
 * https://www.bucketboss.com/ ~ organizers
 * https://www.ccrane.com/ ~ radios
 * http://www.shakershops.com/ ~ Simple Shaker furniture and accessories
