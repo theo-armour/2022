@@ -8,7 +8,7 @@ In June I put together this write up about Frauke Galia for the [_Heritage Happe
 
 >Aromatherapy with Frauke Gallia
 Monday July 18 at 3:00 in Friendship Hall
-Hi! I'm Frauke and I want to teach you how to harness your sense of smell to be well. I’m a Certified Level II Aromatherapist, smell coach, and teacher who’s spent her career in Perfumery, and I want to help you feel more vitality, joy and calm. I want to teach you how to use (or regain) your sense of smell, with support of essential oils and nature, to improve and maintain your smell health. I'm often referred to as “the smell lady” because of my deep passion for connecting people with their sense of smell. I believe that smelling is a privilege and that society undervalues this beautiful and critical sense. My philosophy encourages a mindful connection with smelling for both health and well-being.
+_Hi! I'm Frauke and I want to teach you how to harness your sense of smell to be well. I’m a Certified Level II Aromatherapist, smell coach, and teacher who’s spent her career in Perfumery, and I want to help you feel more vitality, joy and calm. I want to teach you how to use (or regain) your sense of smell, with support of essential oils and nature, to improve and maintain your smell health. I'm often referred to as “the smell lady” because of my deep passion for connecting people with their sense of smell. I believe that smelling is a privilege and that society undervalues this beautiful and critical sense. My philosophy encourages a mindful connection with smelling for both health and well-being._
 >Join Frauke in Friendship Hall for a workshop in learning the benefits of using essential oils!
 >https://www.falkaromatherapy.com
 
@@ -16,14 +16,15 @@ The event was well attended and we participants were very pleased with what we h
 
 Until this event I had not given much thought about the sense of smell. But being inspired by Frauke's seminar, I have spent an engaging few hours rummaging around the Internet seeing what I could smell.
 
-The text and links below highlight pages I have looked at.
+The text and links below highlight pages I have looked at. It is typical of the general overview I tend to put together when approaching an unfamiliar topic. I generally start by ["standing on the shoulders of giants"]( https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants ) - using the understanding gained by major thinkers who have gone before in order to make intellectual progress.
 
-I like the idea of adding a story to https://www.scenttattoo.com/ - and wil do so before too long, fingers crossed. I also expect that there might be some overlap with my evereverland project and heavenly smells
+I like the idea of adding a story to https://www.scenttattoo.com/ - and will do so before too long, fingers crossed. I also expect that there might be some overlap with my evereverland project and heavenly smells
 
 Theo
 
 2022-08-06
 
+***
 
 ## Wikipedia: Articles
 

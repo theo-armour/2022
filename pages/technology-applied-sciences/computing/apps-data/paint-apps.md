@@ -1,15 +1,16 @@
 # Paint apps
 
 ## https://www.autodraw.com/
+
 * Draws for you and fair set of tools!
-* Real-time collaboration
+* Real-time collaboration with other artisys
 * Save as PNG
 
 ## Google Canvas ~ https://canvas.apps.chrome/
-* touch but not pressure
+* Touch but not pressure
 * Bitmap only, save as png
 * Can export png to Google Drive
-* Then open with irfanview
+
 
 
 ## Canvas ~ Nvidia ~ https://www.nvidia.com/en-gb/studio/canvas/
