@@ -14,7 +14,7 @@ Hi! I'm Frauke and I want to teach you how to harness your sense of smell to be 
 
 The event was well attended and we participants were very pleased with what we had learned, experienced and smelled.
 
-Until this event I had not given mush thought about the sense of smell. But being inspired by Frauke's seminar, I have spent an engaging few hours rummaging around the Internet seeing what I could smell.
+Until this event I had not given much thought about the sense of smell. But being inspired by Frauke's seminar, I have spent an engaging few hours rummaging around the Internet seeing what I could smell.
 
 The text and links below highlight pages I have looked at.
 
@@ -115,13 +115,28 @@ This summary contains the following key information:
 >* Aromatherapy products are not subject to approval by the U.S. Food and Drug Administration unless there is a claim for treatment of specific diseases.
 
 
-## General Articles
+## General Articles Published on the Web
+
+
+### The Centuries-Long Quest For The Scent Of God
+
+* https://www.noemamag.com/the-centuries-long-quest-for-the-scent-of-god/
+
+>The precise odor of the divine has eluded humans for millennia, but that hasn’t stopped us from seeking it in the oddest places.
+>***
+>Indeed, some scholars believe that the English language suffered from the “cultural repression and denigration of smell” during the Enlightenment, as improvements in hygiene and objections to “superstition” transformed the lived environment into one less sensorially confrontational. Though the theory is controversial, Asifa Majid, an Oxford cognitive scientist, found that today, the English language is relatively weak when it comes to words for smells. “There are few terms for odors, odor talk is infrequent, and naming odors is difficult,” she wrote. Smells have never been so ineffable.
+>
+>But for Cockayne, it’s not all bad. There is an opportunity today to rethink and broaden our experience of the smell of God, he said. “Could the smell of freshly brewed coffee count as a religious experience?” he wondered. “If we are happy to think that experiencing a beautiful sunset or a piece of sacred music can be an experience of the divine, then there is no reason to exclude olfactory experiences from having such significance too.”
+>
+>A waft of rich coffee. A whiff of incense. A sweet stench from a saintly corpse. The search for the odor of sanctity, the smell of God, goes ever on.
+
+
 
 ### Nature Outlook > 22 June 2022 > Smell
 
 * https://www.nature.com/collections/hcjfdcbgaj
 
-Collection of ten articles
+Collection of ten nicely smelly articles
 
 > Our sense of smell has a reputation for being underdeveloped — but this is ill-founded. The events of the past two years, in which millions of people lost their sense of smell to COVID-19, have put the spotlight on research emerging from the world of olfaction.
 
@@ -161,6 +176,7 @@ Well, French ants do well
 * https://aromahut.com/
 * https://artandolfaction.com/
 * https://firmenich.com/
+
 
 
 ## People
