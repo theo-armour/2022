@@ -1,12 +1,37 @@
 # Sense of Smell
 
+_Text in gray is text from the source article_
+
+## Preface
+
+In June I put together this write up about Frauke Galia for the [_Heritage Happenings_]( https://heritage-happenings.github.io/ )
+
+>Aromatherapy with Frauke Gallia
+Monday July 18 at 3:00 in Friendship Hall
+Hi! I'm Frauke and I want to teach you how to harness your sense of smell to be well. I’m a Certified Level II Aromatherapist, smell coach, and teacher who’s spent her career in Perfumery, and I want to help you feel more vitality, joy and calm. I want to teach you how to use (or regain) your sense of smell, with support of essential oils and nature, to improve and maintain your smell health. I'm often referred to as “the smell lady” because of my deep passion for connecting people with their sense of smell. I believe that smelling is a privilege and that society undervalues this beautiful and critical sense. My philosophy encourages a mindful connection with smelling for both health and well-being.
+>Join Frauke in Friendship Hall for a workshop in learning the benefits of using essential oils!
+>https://www.falkaromatherapy.com
+
+The event was well attended and we participants were very pleased with what we had learned, experienced and smelled.
+
+Until this event I had not given mush thought about the sense of smell. But being inspired by Frauke's seminar, I have spent an engaging few hours rummaging around the Internet seeing what I could smell.
+
+The text and links below highlight pages I have looked at.
+
+I like the idea of adding a story to https://www.scenttattoo.com/ - and wil do so before too long, fingers crossed. I also expect that there might be some overlap with my evereverland project and heavenly smells
+
+Theo
+
+2022-08-06
+
+
 ## Wikipedia: Articles
 
 ### https://en.wikipedia.org/wiki/Sense_of_smell
 
 >The sense of smell, or olfaction, is the special sense through which smells (or odors) are perceived.[1] The sense of smell has many functions, including detecting desirable foods, hazards, and pheromones, and plays a role in taste.
 >
->In humans, it occurs when an odor binds to a receptor within the nasal cavity, transmitting a signal through the olfactory system.[2] Glomeruli aggregate signals from these receptors and transmit them to the olfactory bulb, where the sensory input will start to interact with parts of the brain responsible for smell identification, memory, and emotion.[3]
+>In humans, it occurs when an odor binds to a receptor within the nasal cavity, transmitting a signal through the olfactory system. Glomeruli aggregate signals from these receptors and transmit them to the olfactory bulb, where the sensory input will start to interact with parts of the brain responsible for smell identification, memory, and emotion.
 >
 >There are many different causes for alteration, lack, or disturbance to a normal sense of smell, and can include damage to the nose or smell receptors, or central problems affecting the brain. Some causes include upper respiratory infections, traumatic brain injury, and neurodegenerative disease.
 
@@ -15,7 +40,7 @@
 
 > Olfactory art is an art form that uses scents as a medium. Olfactory art includes perfume as well as other applications of scent.
 >
->The art form has been a recognized genre since at least 1980.[1] Marcel Duchamp was one of the first artists who pioneered with using scents in art.
+>The art form has been a recognized genre since at least 1980. Marcel Duchamp was one of the first artists who pioneered with using scents in art.
 
 
 ### https://en.wikipedia.org/wiki/Aromatherapy
@@ -28,6 +53,7 @@
 ### https://en.wikipedia.org/wiki/Aromachology
 
 >Aromachology is the study of the influence of odors on human behavior and to examine the relationship between feelings and emotions. Those who practice aromachology are aromachologists. Aromachologists analyze emotions such as relaxation, exhilaration, sensuality, happiness and well-being brought about by odors stimulating the olfactory pathways in the brain and, in particular, the limbic system. Different wearers are thought to have unique physiological and psychological responses to scents, especially those not manufactured synthetically but based on real scents.
+
 
 ### https://en.wikipedia.org/wiki/Scentography
 
@@ -87,6 +113,7 @@ This summary contains the following key information:
 >* Human clinical trials have investigated aromatherapy primarily in the treatment of stress and anxiety in patients with critical illnesses or in other hospitalized patients. Several clinical trials involving patients with cancer have been published.
 >* Aromatherapy has a relatively low toxicity profile when administered by inhalation or diluted topical application.
 >* Aromatherapy products are not subject to approval by the U.S. Food and Drug Administration unless there is a claim for treatment of specific diseases.
+
 
 ## General Articles
 
