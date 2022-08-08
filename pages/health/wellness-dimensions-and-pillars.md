@@ -1,6 +1,13 @@
-# Dimensions and Pillars of Wellness
+
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2022/blob/main/pages/health/wellness-dimensions-and-pillars.md "Source code on GitHub" ) Dimensions and Pillars of Wellness
 
 tags #Health
+
+## Preface
+
+2022-08-08 ~ We all want to be "healthy", yet we all seem to have our own unique visions of what "being healthy" really means. Me being me, figuring out my health is long, drawn out, rather exhaustive investigation.
+
+In the following text, you will find my investigations into other people's definitions. Ultimately the process leads to a definition of my personal definition - which also ends being a checklist that I can use to monitor and measure the rise and fall of my own wellness.
 
 
 ## Introduction
@@ -275,3 +282,7 @@ Needs re-counting
 * https://law.scu.edu/studentservices/8-pillars-of-wellness/#Physical Regular physical activity, a healthy diet, and sufficient sleep are necessary to help combat the stress of law school. We promote self-care despite the time pressures of schoolwork and extra-curricular activities. Taking care of our physical health has a direct impact on our resiliency and overall general well-being.
 * https://wellness.huhs.harvard.edu/physical Physical wellbeing is an essential component of overall wellbeing that directly affects long term health. Important aspects of physical health include exercise, nutrition, sleep, sexual health, and making healthy decisions around substance use. Fostering your physical wellbeing and tuning in to your body's needs not only promotes your physical health, but can benefit your emotional, intellectual and relational wellbeing too.
 * https://umatter.princeton.edu/action-matters/caring-yourself/wellness-wheel-assessment/physical-wellness Physical wellness comes from making choices to avoid harmful habits and practice actions that support your physical body, health and safety. It includes choices about physical activity, healthy eating, sleeping, safer sex, getting medical care, and use of alcohol, other drugs and tobacco.
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
