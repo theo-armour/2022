@@ -1,5 +1,5 @@
 
-# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2022/blob/main/pages/health/wellness-dimensions-and-pillars.md "Source code on GitHub" ) [Dimensions and Pillars of Wellness]( )
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2022/blob/main/pages/health/wellness-dimensions-and-pillars.md "Source code on GitHub" ) [Dimensions and Pillars of Wellness]( https://theo-armour.github.io/2022/readme.html#pages/health/wellness-dimensions-and-pillars.md )
 
 tags #Health
 
