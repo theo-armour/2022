@@ -29,7 +29,7 @@ Considerations
 
 ## Introduction
 
-Most of us want to be healthy. But what is "healthy"? And how to stay healthy?
+Most of us want to be healthy. But what is "healthy"? And how do we stay healthy?
 
 If you (or your parents) are in the eighties or nineties, obviously you (or they) have not been that unhealthy. Most likely, however, any elderly person has a bunch of issues. The issues can be medical, financial, cognitive or any number of other issues.
 
