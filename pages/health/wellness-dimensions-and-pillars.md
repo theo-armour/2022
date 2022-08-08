@@ -1,5 +1,5 @@
 
-# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2022/blob/main/pages/health/wellness-dimensions-and-pillars.md "Source code on GitHub" ) Dimensions and Pillars of Wellness
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2022/blob/main/pages/health/wellness-dimensions-and-pillars.md "Source code on GitHub" ) [Dimensions and Pillars of Wellness]( )
 
 tags #Health
 
@@ -8,6 +8,23 @@ tags #Health
 2022-08-08 ~ We all want to be "healthy", yet we all seem to have our own unique visions of what "being healthy" really means. Me being me, figuring out my health is long, drawn out, rather exhaustive investigation.
 
 In the following text, you will find my investigations into other people's definitions. Ultimately the process leads to a definition of my personal definition - which also ends being a checklist that I can use to monitor and measure the rise and fall of my own wellness.
+
+Currently, the effort is about:
+
+* Gathering definitions of the dimensions of wellness from a large variety of authoritative sources.
+* Building up a master list of all the the dimension titles that have been found
+* Creating our own set of dimensions based on what we've found
+* Building a list of keywords or tags that may be associated with a particular dimension
+
+Example
+
+The physical dimension might include the following keywords: exercise, nutrition, sleep, sexual health, and making healthy decisions.
+
+Considerations
+
+* Our list is oriented toward the elderly
+* A prime use for the effort is to assist in care-giver and patient dialogs
+
 
 
 ## Introduction
@@ -99,8 +116,7 @@ Social is how to communicate, develop meaningful relationships, and maintain a s
 Financial is how to effectively manage your long term and day-to-day finances and economic life.
 
 #### Environmental
-Environmental
-is how to actively participate in a thriving community, culture, and environment.
+Environmental is how to actively participate in a thriving community, culture, and environment.
 
 #### Career
 Career is how to engage in work that is meaningful to your values, goals, and lifestyle.
@@ -140,8 +156,6 @@ Everyone’s dietary needs are a little different depending on their age, sex, a
 Eating and nutrition are closely linked with your mouth and the health of your teeth. There are certain foods that aren’t great for your teeth health and can even stain them. Foods that are acidic (like cranberry juice and tomato sauce), dark or bright-colored vegetables (like pomegranates and beets), drinks filled with tannins (like wine and coffee), and foods high in sugar all have the ability to stain your teeth. Regulating your intake of these foods and drinks will help to keep your mouth healthy as you begin to build this pillar.
 
 Try: Replacing refined grains with their whole counterparts to make sure you get enough fiber. Making sure your diet has enough fiber can help with weight loss and maintenance and can also lower your cholesterol.
-
-nutrition bowl
 
 #### 3. Emotional *
 The emotional wellness pillar covers your feelings, as well as how easily you can understand and navigate your emotions and also communicate them with others. We’re all likely to experience hardships and the emotions that come with them, but our ability to take a step back and evaluate how these emotions impact our behaviors is an important part of overall wellness.
@@ -201,7 +215,7 @@ Mental and Emotional, Physical, Spiritual, Social, Intellectual, Career / Occupa
 
 ### https://umatter.princeton.edu/action-matters/caring-yourself/wellness-wheel-assessment
 
-> emotional, environmental, intellectual, occupational, physical, social spiritual.
+> emotional, environmental, intellectual, occupational, physical, social, spiritual.
 
 ### https://www.grcc.edu/faculty-staff/human-resources/professional-development/employee-wellness/seven-dimensions-wellness
 
