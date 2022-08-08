@@ -1,4 +1,7 @@
-# Dimensions and pillars of Wellness
+# Dimensions and Pillars of Wellness
+
+tags #Health
+
 
 ## Introduction
 
@@ -48,6 +51,7 @@ Health
 
 Well-being
 * https://en.wikipedia.org/wiki/Well-being
+  * https://en.wikipedia.org/wiki/Well-being#Models_and_components_of_well-being
 
 
 ## https://nationalwellness.org/resources/six-dimensions-of-wellness/

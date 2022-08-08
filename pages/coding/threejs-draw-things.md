@@ -2,8 +2,6 @@
 <script
 		src="https://pushme-pullyou.github.io/tootoo-2021/sandbox/libraries/ccapture/r-2021-11-16/ccw-ccapture-webm.js"></script>
 
-
-
 # text
 
 ## Stats
