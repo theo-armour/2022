@@ -53,7 +53,7 @@ Given a primary set of criteria, you as a competant individual may ascertain you
 
 Given a primary set of criteria, you as a moderately cognitively-impaired individual may use the criteria to help you to remember to describe your overall state of health to a care-giver.
 
-Given a caregiver may use these criteria to investigate the geb]neral state of health of a severely-cognitively impaired person
+Given a caregiver may use these criteria to investigate the general state of health of a severely-cognitively impaired person
 
 ## Mission
 
