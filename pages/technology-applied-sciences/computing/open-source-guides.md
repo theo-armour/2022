@@ -1,6 +1,3 @@
-
-
-
 # 2017-03-22
 
 Standing on the shoulders of giants
@@ -35,11 +32,7 @@ Here are a few sample suggestions:
 
 
 
-
-
-
-
-# 2017-03-13
+## 2017-03-13
 
 Is OSG an effort to create an online more or less static document - similar to ... guide but deeper and more comprehensive or is this an effort create create an ongoing online open source community
 
@@ -51,7 +44,7 @@ Medium tag: Open source Guides
 
 Twitter
 
-# 2017-03-11
+## 2017-03-11
 
 Getting Paid for Open Source Work
 Be paid to create open source

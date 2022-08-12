@@ -2,7 +2,16 @@
 
 https://www.sunnysidesoft.com/virtualtablet/
 
-# Monitors
+## Sharing
+
+* Duet Display
+
+
+
+## Monitors
+
+https://store.facebook.com/portal/?utm_content=55948
+
 
 ## 17"
 

@@ -204,7 +204,12 @@ https://resist.org/radical-philanthropy/
 
 ## Radical Transparency
 
+* https://en.wikipedia.org/wiki/Radical_transparency
+
+
 ## “Standing on the shoulders of giants”
+
+see evereverland journal
 
 https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
 
@@ -218,10 +223,16 @@ https://quoteinvestigator.com/2013/03/06/artists-steal/
 If I am to create a vision statement I might as well stand on the shoulders of the most excellent vision statements already written.
 
 
+## Your candles shine as bright as my candle
+
+Thinking about the process of enlightenment, reminds me of another useful quote.
+
+“He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.” —Thomas Jeferson https://en.wikiquote.org/wiki/Thomas_Jefferson
 
 
 ## Follow Wikipedia
 
+* https://en.wikipedia.org/wiki/Wikipedia:Ten_simple_rules_for_editing_Wikipedia
 * https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
 
 A fundamental aspect of this project is to follow the Wikipedia Core Content Policies
