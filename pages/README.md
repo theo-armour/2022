@@ -5,6 +5,10 @@
 
 ## To Do / Wish List
 
+* Move to its own repository
+* Transform my categories to Wikipedia categories
+
+
 ## Issues
 
 ## Links of Interest
