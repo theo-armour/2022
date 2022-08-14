@@ -1,4 +1,4 @@
-# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2021/blob/main/pages/doing-knowing-being/inspirations-sources.md "Source code on GitHub" ) [TA 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Inspirations & Sources]( https://theo-armour.github.io/2021/pages/doing-knowing-being/inspirations-sources.html )
+# [![](https://theo-armour.github.io/2022/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2022/blob/main/pages/doing-knowing-being/inspirations-sources.md "Source code on GitHub" ) [TA 2022]( https://theo-armour.github.io/2022/ "Home page" ) / [Inspirations & Sources]( https://theo-armour.github.io/2022/pages/doing-knowing-being/inspirations-sources.html )
 
 
 Responding to questions is easier when you have good templates to build upon.
@@ -10,13 +10,14 @@ Below are texts & sources that I look to for inspiration as I tackle projects.
 
 ## Basic Idea
 
+
 https://www.salon.com/2021/06/15/why-our-wandering-brains-are-wired-to-love-art-and-nature/
 
 But here is the takeaway: we are not biologically programmed to like or this or that object, but rather inclined to enjoy the process of play, improvisation, trial, and error in all things. In other words, recent research into mind wandering and fractals suggests that the process of creativity and unconscious play involved in making and experiencing art is a crucial source of aesthetic beauty and our love of nature.
 
 ## Aphorisms
 
-Will ba adding my favs
+Will be adding my favs
 
 * Those who do not learn from history are doomed to repeat it
 * Those who do not record their history are doomed to forget they are repeating it.
