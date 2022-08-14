@@ -6,6 +6,8 @@ tags #rhetoric #epistemology #knowledge #virtue
 
 ## Preface
 
+See post in EEL > Journal > Slogans that Sizzle
+
 I like aphorisms. Aphorisms are pithy observation that contains a general truth, such as, "if it ain't broke, don't fix it". An aphorisms is a short and simple way of expressing or referring to something longer or more complex.
 
 Aphorisms are useful in naming or representing mental models. They are like verbal icons - aural instead of visual
