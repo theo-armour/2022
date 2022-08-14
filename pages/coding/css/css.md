@@ -9,12 +9,12 @@
 
 
 * CSS are split into three sections
-	* Selectors
-	* Classes
-	* IDs
+  * Selectors
+  * Classes
+  * IDs
 * Within each of these sections the CSS items are listed in alphabetical order
 * CSS parameters are listed in alphabetical order
-	* Example: #bars { color: crimson; cursor: pointer; font-size: 24pt; text-decoration: none; }
+  * Example: #bars { color: crimson; cursor: pointer; font-size: 24pt; text-decoration: none; }
 
 
 ## Definitions

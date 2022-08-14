@@ -1,4 +1,4 @@
-﻿
+﻿# html css
 
 <link href="mystyle.css" rel="stylesheet" >
 
@@ -18,15 +18,13 @@ http://www.w3schools.com/howto/howto_js_animate.asp
 https://www.w3schools.com/colors/colors_names.asp
 
 
-
-
 ### CHARACTERS
 
 * ascii character name:
-	* https://www.freeformatter.com/html-entities.html#math-symbols
-	* https://www.w3schools.com/charsets/ref_html_8859.asp
-	* https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references >> all!
-	* https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
+  * https://www.freeformatter.com/html-entities.html#math-symbols
+  * https://www.w3schools.com/charsets/ref_html_8859.asp
+  * https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references >> all!
+  * https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
 * http://unicode.org/emoji/charts/full-emoji-list.html
 * http://www.unicode.org/charts/
 * https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols
@@ -72,7 +70,7 @@ Hands: black: L &#x261A; R &#x261B; / White L &#x261C; U &#x261D; R &#x261E; D &
 http://fontawesome.io/icons/
 
 * code-cookbook/0-cookbook-general/string%20manipulation/characters-interesting.html
-- see bottom for rotating characters by degrees.
+* see bottom for rotating characters by degrees.
 
 
 ## Emoji
@@ -86,7 +84,7 @@ Complete list of github markdown emoji markup
 
 Unicode
 * https://api.github.com/emojis
-	* https://platform.github.community/t/add-ability-to-query-raw-text-with-unicode-emojis/4603
+  * https://platform.github.community/t/add-ability-to-query-raw-text-with-unicode-emojis/4603
 * https://yutannihilation.github.io/list_of_github_emojis/github_emojis.html
 
 Compare
