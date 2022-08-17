@@ -46,3 +46,9 @@ GET MORE ACCURATE DATA
 * https://www.macrumors.com/2021/03/27/apple-watch-assess-frailty-study/
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5451924/#:~:text=The%20six%2Dminute%20walk%20test,other%20walk%20tests%20%5B1%5D.
 * https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1566946
+
+## Weights
+
+Lowering a dumbbell 6 times a day offers significant gains in strength (newatlas.com)
+
+* https://news.ycombinator.com/item?id=32491275

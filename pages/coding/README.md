@@ -74,3 +74,7 @@ Difficult math is about recognizing patterns (get21stnight.com)
 
 * https://www.webcomponents.org/
 * https://shoelace.style/
+
+## Security
+
+* https://defensivecomputingchecklist.com/
