@@ -1,6 +1,6 @@
 # Video Game Streaming Services
 
-## About
+## About,
 
 * https://en.wikipedia.org/wiki/Video_game_live_streaming
 * https://streamersplaybook.com/twitch-vs-youtube/
