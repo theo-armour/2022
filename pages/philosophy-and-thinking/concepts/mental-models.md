@@ -25,22 +25,23 @@
 
 * https://www.buildingasecondbrain.com/ ~ $$$
 * https://www.modeltheory.org
-	* Mental models are how the mind represents real, remembered, hypothetical, or imaginary situations.
-	* Extensive streaming bibliography
-	* https://www.modeltheory.org/data/ ~ GitHub links
+  * Mental models are how the mind represents real, remembered, hypothetical, or imaginary situations.
+  * Extensive streaming bibliography
+  * https://www.modeltheory.org/data/ ~ GitHub links
 * https://www.mentalmodelsbox.com/
 * https://www.farnamstreetblog.com/mental-models/
 * https://fs.blog/mental-models/
 * https://www.clearerthinking.org/
 
 
-
 ## Articles
 
+* https://jeanhsu.substack.com/p/being-doing-balance-over-work-life
+  * https://news.ycombinator.com/item?id=32525245 >> peeps not understanding
 * https://www.visualcapitalist.com/12-ways-smarter-mental-models/
-	* https://medium.com/swlh/100-mental-models-to-make-you-a-worldly-wise-person-19b9ca9d034c
-	* https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html
-	* https://www.visualcapitalist.com/wp-content/uploads/2018/01/mental-models-infographic.jpg
+  * https://medium.com/swlh/100-mental-models-to-make-you-a-worldly-wise-person-19b9ca9d034c
+  * https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html
+  * https://www.visualcapitalist.com/wp-content/uploads/2018/01/mental-models-infographic.jpg
 * https://medium.com/the-mission/13-mental-models-every-founder-should-know-c4d44afdcdd#.xijed4pme
 * https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh
 * https://methods.18f.gov/decide/mental-modeling/
@@ -68,7 +69,6 @@ Articles
 	https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
 * https://docs.google.com/spreadsheets/d/1wng4d-Pl4rvKcxQCsxNX0bUdY-8iPQuBAXTQQYg9H14/edit?inf_contact_key=b5fc47ece7551365f8014a67612d1f7a16358d5485884e2f31e6019a0d26c8b0#gid=0
 * https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05
-
 
 
 ## George Pólya (1887 - 1985)

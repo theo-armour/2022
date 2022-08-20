@@ -1,4 +1,4 @@
-## Coding Read Me
+# Coding Read Me
 
 What goes here?
 
@@ -78,3 +78,5 @@ Difficult math is about recognizing patterns (get21stnight.com)
 ## Security
 
 * https://defensivecomputingchecklist.com/
+* https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
+  * https://news.ycombinator.com/item?id=32525995
