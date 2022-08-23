@@ -3,24 +3,38 @@
 https://www.nytimes.com/games/wordle/index.html
 
 
-
-
 ## Reference
 
 * https://en.wikipedia.org/wiki/Etaoin_shrdlu
 * https://www.dictionary.com/e/wordle/
 
 
-## Articles
+## Journal
+
+
+## 2022-08-22
+
+* orate
+* sulci
+* nymph
+
+
+### Articles
+
+* https://www.real-statistics.com/wordle-strategy/best-first-two-guesses-wordle/ >> second guess stating with "slate"
+* https://www.real-statistics.com/wordle-strategy/
+* https://word.tips/wordle/
+* https://puzzling.stackexchange.com/questions/114316/whats-the-optimal-strategy-for-wordle/114332#114332
+
+### most common letters
+
+https://www.dictionary.com/e/wordle/
+
+### 2022-04-10
 
 * https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit
 * https://news.ycombinator.com/item?id=29928263#29930961
 * https://slate.com/technology/2022/01/wordle-how-to-win-strategy-crossword-experts.html
-
-
-## Journal
-
-### 2022-04-10
 
 ETAOINSHRDLUCMFWY
 
