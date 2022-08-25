@@ -8,6 +8,14 @@ Artificial general intelligence
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
 > Artificial general intelligence (AGI) is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can
 
+## AI Art
+
+* https://imagen.research.google/
+* https://news.ycombinator.com/item?id=32589185
+* https://news.ycombinator.com/item?id=32586439
+* https://openart.ai/
+
+
 ## Fiction
 
 It Looks Like You’re Trying To Take Over The World
