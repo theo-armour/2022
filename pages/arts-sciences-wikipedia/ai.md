@@ -1,6 +1,12 @@
 # ai
 here we are
 
+## Stable Diffusion
+
+* https://stability.ai/
+* https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important
+* https://news.ycombinator.com/item?id=32631673
+* 
 ## reference
 
 Artificial general intelligence

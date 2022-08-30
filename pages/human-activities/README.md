@@ -5,6 +5,12 @@
 * https://web3isgoinggreat.com/
 * https://www.platformer.news/p/why-you-cant-rebuild-wikipedia-with
 
+## Copyright
+
+* https://campuspress.yale.edu/copyrightconversations/fairuseblog2021/
+* https://news.ycombinator.com/item?id=32619346
+
+
 
 ## Accounts
 
