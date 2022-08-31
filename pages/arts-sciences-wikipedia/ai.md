@@ -3,10 +3,17 @@ here we are
 
 ## Stable Diffusion
 
+* https://www.craiyon.com/
+* https://news.ycombinator.com/item?id=32658408
+* https://news.ycombinator.com/item?id=32634074
+* https://news.ycombinator.com/item?id=32651556
+* https://andys.page/posts/how-to-draw/
+* https://replicate.com/andreasjansson/stable-diffusion-animation
+* https://simonwillison.net/2022/Aug/29/stable-diffusion/
 * https://stability.ai/
 * https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important
 * https://news.ycombinator.com/item?id=32631673
-* 
+*
 ## reference
 
 Artificial general intelligence
@@ -14,8 +21,14 @@ Artificial general intelligence
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
 > Artificial general intelligence (AGI) is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can
 
+
+## craiyon / dall-e mini
+
+* https://news.ycombinator.com/item?id=31699841
+
 ## AI Art
 
+* https://openai.com/dall-e-2/
 * https://imagen.research.google/
 * https://news.ycombinator.com/item?id=32589185
 * https://news.ycombinator.com/item?id=32586439
