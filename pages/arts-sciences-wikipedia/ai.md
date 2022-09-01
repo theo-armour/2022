@@ -21,12 +21,17 @@ Artificial general intelligence
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence
 > Artificial general intelligence (AGI) is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can
 
+## midjourney
+
+* https://www.midjourney.com/app/
+* https://midjourney.gitbook.io/docs/
+
 
 ## craiyon / dall-e mini
 
 * https://news.ycombinator.com/item?id=31699841
 
-## AI Art
+## Opem AI
 
 * https://openai.com/dall-e-2/
 * https://imagen.research.google/
