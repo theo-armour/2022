@@ -1,6 +1,10 @@
 # colors
 
-Has the world become less colourful?
+tags #color #beauty
+
+## Less colorful
+
+Has the world become less colorful?
 * https://twitter.com/culturaltutor/status/1551976051860963333
 
 

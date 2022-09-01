@@ -1,4 +1,7 @@
 # ai
+
+tags #ai #sw
+
 here we are
 
 ## Stable Diffusion
@@ -31,7 +34,7 @@ Artificial general intelligence
 
 * https://news.ycombinator.com/item?id=31699841
 
-## Opem AI
+## Open AI
 
 * https://openai.com/dall-e-2/
 * https://imagen.research.google/
