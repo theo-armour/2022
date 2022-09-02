@@ -1,5 +1,9 @@
 # Data Sync
 
+Ask HN: Identify duplicate files in my data hoard?
+* https://news.ycombinator.com/item?id=32686357
+
+
 ## Lists
 
 * https://www.techradar.com/best/best-file-syncing-solution

@@ -6,6 +6,7 @@ here we are
 
 ## Stable Diffusion
 
+* https://metaphysic.ai/stable-diffusion-is-video-coming-soon/
 * https://www.craiyon.com/
 * https://news.ycombinator.com/item?id=32658408
 * https://news.ycombinator.com/item?id=32634074
