@@ -1,5 +1,7 @@
 # Wordle
 
+tags #puzzle
+
 tips #game #www #entertainment
 
 * Played wordle - won first time 6, 2nd 5
@@ -14,6 +16,13 @@ tips #game #www #entertainment
 
 ## Links of interest
 
+2022-09-01
+* https://news.ycombinator.com/item?id=30050231
+* https://beautifulthorns.wixsite.com/home/post/i-have-so-many-wordle-thoughts
+  * slate << if no yellows/greens: crony build
+* https://withoutbullshit.com/blog/wordle-revised-mathematical-analysis-of-the-first-guess
+
+before
 * https://www.tomsguide.com/news/best-wordle-start-words
   * EAROTLISNC
   * stare ~ phony ~ but hound looks good too
