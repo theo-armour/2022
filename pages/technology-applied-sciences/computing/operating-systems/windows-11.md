@@ -1,6 +1,6 @@
 # Windows 11
 
-## Istallation
+## Installation
 
 ### Minimum Apps
 
@@ -33,6 +33,7 @@ Don't forget DropBox takes forever.
 Create a recovery drive in a USB drive
 * Needs 8GB
 
+win start > cmd (admin ) > sfc /snannow
 
 
 ## Keyboard shortcuts in Windows
@@ -55,7 +56,6 @@ Win + M = minimize windows
 Win + R = Run dialog
 Win + Shift + S = open the snipping bar
 Win + period (.) = open emoji panel
-
 
 
 ## Start Menu Icons
