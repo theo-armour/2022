@@ -1,5 +1,12 @@
 # David Peritz
 
+## About
+
+* https://www.sarahlawrence.edu/faculty/peritz-david.html
+* https://www.linkedin.com/in/david-peritz-2b342b5/
+* https://www.fromminstitute.org/node/319
+* https://olli.berkeley.edu/david-peritz
+
 
 ## Occupy Media
 
