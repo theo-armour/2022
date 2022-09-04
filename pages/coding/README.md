@@ -10,6 +10,7 @@ GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor
 
 ## APIs
 
+* https://github.com/gchq/CyberChef
 * https://public-apis.io/
 * https://dev.to/hyggedev/great-beginner-friendly-api-s-to-start-practicing-frontend-development-52kl
 * https://github.com/public-apis/public-apis
