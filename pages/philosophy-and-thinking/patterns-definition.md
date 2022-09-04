@@ -6,7 +6,7 @@ Patterns
 
 
 
-##  Definition
+## Definition
 
 Christopher Alexander ~ A Pattern Language
 

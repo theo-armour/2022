@@ -1,5 +1,16 @@
 # A Pattern Language
 
+tags #apl #patterns
+
+## Links of Interest
+
+The Timeless Way of Programming
+
+* http://tomasp.net/blog/2022/timeless-way/
+* The Timeless Way of Programming
+
+## Defintion
+
 > "A pattern is a careful description of a perennial solution to a recurring problem within a building context, describing one of the configurations that brings life to a building. Each pattern describes a problem that occurs over and over again in our environment, and then describes the core solution to that problem, in such a way that you can use the solution a million times over, without ever doing it the same way twice."
 
 ## Definitions
@@ -22,10 +33,8 @@ There are two essential purposes behind this format. First, to present each patt
 
 A Pattern Language - Towns, Buildings, Construction - Christopher Alexander - Google Books
 
-
-http://books.google.com/books?id=hwAHmktpk5IC&pg=PA10
-
-http://books.google.com/books?id=hwAHmktpk5IC&lpg=PP1&pg=PR12#v=onepage&q&f=false
+* http://books.google.com/books?id=hwAHmktpk5IC&pg=PA10
+* http://books.google.com/books?id=hwAHmktpk5IC&lpg=PP1&pg=PR12#v=onepage&q&f=false
 
 ## Comments
 
