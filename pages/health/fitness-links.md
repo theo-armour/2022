@@ -1,5 +1,6 @@
 # Fitness
 
+tags #fitness #health
 
 ## Reference
 
@@ -7,6 +8,13 @@
 * https://en.wikipedia.org/wiki/Outline_of_exercise
 * https://en.wikipedia.org/wiki/Outline_of_health
 
+
+
+## Alinker
+
+* https://www.thealinker.com/
+* https://www.ableamsterdam.com/blog/mobility-aids-in-the-spotlight-a-review-of-the-alinker
+* https://thegadgetflow.com/blog/this-game-changing-walk-assist-bike-keeps-users-active-despite-mobility-challenges/
 
 ## Devices
 
@@ -38,6 +46,13 @@ GET MORE ACCURATE DATA
 
 5 LEDs and 4 photodiodes capture your data more often than most wearables, providing best-in-class accuracy validated in lab studies and with third-party testing.
 
+### 2022-09-05
+
+* Appears to have wider deeper support than Oura
+* Wear anywhere on body
+* More stats and viewable on the web
+* You can join a team
+
 
 ## 6 Minute Walking Test
 
@@ -46,6 +61,7 @@ GET MORE ACCURATE DATA
 * https://www.macrumors.com/2021/03/27/apple-watch-assess-frailty-study/
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5451924/#:~:text=The%20six%2Dminute%20walk%20test,other%20walk%20tests%20%5B1%5D.
 * https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1566946
+
 
 ## Weights
 
