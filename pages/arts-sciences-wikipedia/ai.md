@@ -4,6 +4,11 @@ tags #ai #sw
 
 here we are
 
+## articles
+
+With Stable Diffusion, you may never believe what you see online again
+* https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
+
 ## Stable Diffusion
 
 * https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html
@@ -20,6 +25,11 @@ here we are
 * https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important
 * https://news.ycombinator.com/item?id=32631673
 *
+
+### hugging face
+
+* https://huggingface.co/spaces/stabilityai/stable-diffusion
+
 ## reference
 
 Artificial general intelligence
