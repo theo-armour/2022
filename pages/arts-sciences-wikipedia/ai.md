@@ -6,6 +6,8 @@ here we are
 
 ## Stable Diffusion
 
+* https://constant.meiring.nz/playing/2022/08/04/playing-with-stable-diffusion.html
+  * https://news.ycombinator.com/item?id=32710365
 * https://metaphysic.ai/stable-diffusion-is-video-coming-soon/
 * https://www.craiyon.com/
 * https://news.ycombinator.com/item?id=32658408

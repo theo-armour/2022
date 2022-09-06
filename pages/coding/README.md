@@ -79,6 +79,11 @@ A set of free webtools for your daily usage
 * https://www.scientificamerican.com/article/miami-building-collapse-could-profoundly-change-engineering/
 * https://news.ycombinator.com/item?id=27695523
 
+## hosting
+
+* https://notes.volution.ro/v1/2022/09/notes/b08118d8/
+* https://news.ycombinator.com/item?id=32730020
+
 ## Libraries
 
 CubeWeaver ~ $$$ + free ~ a collaborative multidimensional web-based spreadsheet designed

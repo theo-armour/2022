@@ -6,24 +6,24 @@ lat 37.8031325,-122.4309479
 
 * https://www.npmtrends.com/cesium-vs-leaflet-vs-mapbox-gl-vs-three-js
 * https://github.com/Leaflet/Leaflet/ leaflet.js
-	* Github 29,800 stars ~ issues 432 open 4018 closed
-	* StackOverflow 11,125 questions
+  * Github 29,800 stars ~ issues 432 open 4018 closed
+  * StackOverflow 11,125 questions
 OpenStreetMap
-	* StackOverflow 3,646 questions
-	* https://gis.stackexchange.com/questions/tagged/openstreetmap
+  * StackOverflow 3,646 questions
+  * https://gis.stackexchange.com/questions/tagged/openstreetmap
 Mapbox
-	* StackOverflow 5,070 questions
+  * StackOverflow 5,070 questions
 Cesium
-	* StackOverflow 685 questions
+  * StackOverflow 685 questions
 * https://github.com/tangrams/tangram ~ current
 three.js
-	* StackOverflow 17,018 questions
+  * StackOverflow 17,018 questions
 esri
-	* StackOverflow 932 questions
+  * StackOverflow 932 questions
 * Observable
-	* StackOverflow 8,030 questions
+  * StackOverflow 8,030 questions
 * OpenLayers
-	* StackOverflow 4,241 questions
+  * StackOverflow 4,241 questions
 * https://www.osgeo.org/ osGeo
 
 Compare
@@ -35,29 +35,33 @@ Compare
 
 ## Libraries
 
+* https://droughtmonitor.unl.edu/DmData/DataDownload.aspx
+  * https://news.ycombinator.com/item?id=32714644
+* https://blog.znote.io/2022/znote-climate-post/
+  * https://news.ycombinator.com/item?id=32722281
 * https://3dmr.eu/
 * https://cesium.com/
 * https://deck.gl/
-	* https://github.com/visgl/deck.gl/blob/master/docs/get-started/using-standalone.md
+  * https://github.com/visgl/deck.gl/blob/master/docs/get-started/using-standalone.md
 * https://www.esri.com/en-us/home
 * https://www.f4map.com/
 * https://kepler.gl/
 * https://l7.antv.vision/en
 * https://github.com/Leaflet/Leaflet
 * https://www.mapbox.com/
-	* https://www.mapbox.com/blog/
+  * https://www.mapbox.com/blog/
 * https://mappa.js.org/
-	* https://mappa.js.org/docs/examples-three-js.html
+  * https://mappa.js.org/docs/examples-three-js.html
 * https://maptalks.org/
-	* 3,100 GH stars
+  * 3,100 GH stars
 * https://www.openglobus.org/
 * https://osmbuildings.org/
 * https://www.osgeo.org/
 * https://openlayers.org/
-	* https://giscience.github.io/GIScene.js/
-		* update 2016 A 3D WebGIS framework. Based on Three.js. Easy to learn and customize.
+  * https://giscience.github.io/GIScene.js/
+    * update 2016 A 3D WebGIS framework. Based on Three.js. Easy to learn and customize.
 * https://github.com/potree/potree/
-	* https://github.com/pnext/three-loader
+  * https://github.com/pnext/three-loader
 * https://github.com/tangrams/tangram
 * https://terria.io/applications
 * https://www.thunderforest.com/
@@ -135,16 +139,16 @@ OSM Tools
 ### Leaflet + Three.js
 
 * http://geommills.github.io/esrileaflet3JS/
-	* 2015 ~ 2d & 3d ~ no 3d Terrain ~ esri / leaflet
-	* Creates a large JPG uses as texture
+  * 2015 ~ 2d & 3d ~ no 3d Terrain ~ esri / leaflet
+  * Creates a large JPG uses as texture
 * https://mappa.js.org/
-	* Three.js as a layer over Leaflet
-	* https://jsfiddle.net/hg474d6r/7/
+  * Three.js as a layer over Leaflet
+  * https://jsfiddle.net/hg474d6r/7/
 * https://mocainfo.thm.de/building-3d/
-	* Adds a Three.js layer of 3D buildings over Leaflet map
-	* http://bl.ocks.org/Sumbera/c6fed35c377a46ff74c3
+  * Adds a Three.js layer of 3D buildings over Leaflet map
+  * http://bl.ocks.org/Sumbera/c6fed35c377a46ff74c3
 * https://github.com/UDST/vizicities
-	* 2016 ~ lots of features ~ complex ui
+  * 2016 ~ lots of features ~ complex ui
 
 
 ### Leaflet + Three.js + 3D Globe
@@ -185,13 +189,13 @@ Stackoverflow
 
 * https://carto.com/developers/mapbox/guides/getting-started/
 * https://maptalks.org/
-	* Uses mapbox
-	* https://maptalks.org/maptalks.three/demo/index.html
+  * Uses mapbox
+  * https://maptalks.org/maptalks.three/demo/index.html
 * https://github.com/peterqliu/threebox
-	* 2019
-	* https://codepen.io/MannyMeadows/pen/qoZWEM
+  * 2019
+  * https://codepen.io/MannyMeadows/pen/qoZWEM
 * https://github.com/w3reality/three-geo
-	* Mapbox + three.js
+  * Mapbox + three.js
 
 ## Articles
 
@@ -256,27 +260,27 @@ Stackoverflow
 ## MATH
 
 
-	var pi = Math.PI, pi05 = pi * 0.5, pi2 = pi + pi;
-	var d2r = pi / 180, r2d = 180 / pi;  // degrees / radians
+ var pi = Math.PI, pi05 = pi * 0.5, pi2 = pi + pi;
+ var d2r = pi / 180, r2d = 180 / pi;  // degrees / radians
 
-	var sin = Math.sin;
-	var cos = Math.cos;
+ var sin = Math.sin;
+ var cos = Math.cos;
 
-	var v = new THREE.Vector3;
-	var v = function ( x, y, z ){ return new THREE.Vector3( x, y, z ); };
+ var v = new THREE.Vector3;
+ var v = function ( x, y, z ){ return new THREE.Vector3( x, y, z ); };
 
 
-	var cos = function ( a ){ return Math.cos( a ); }
-	var sin = function ( a ){ return Math.sin( a ); }
+ var cos = function ( a ){ return Math.cos( a ); }
+ var sin = function ( a ){ return Math.sin( a ); }
 
-	function cos( a ){ return Math.cos( a ); }
-	function sin( a ){ return Math.sin( a ); }
+ function cos( a ){ return Math.cos( a ); }
+ function sin( a ){ return Math.sin( a ); }
 
-	function pow( a, b ){ return Math.pow( a, b ); }
-	function ran(){ return Math.random(); }
+ function pow( a, b ){ return Math.pow( a, b ); }
+ function ran(){ return Math.random(); }
 
-	v( x, y, z ) => new THREE.Vector3( x, y, z );
-	v2( x, y ) => new THREE.Vector2( x, y );
+ v( x, y, z ) => new THREE.Vector3( x, y, z );
+ v2( x, y ) => new THREE.Vector2( x, y );
 
 
 ## MapBox
@@ -288,7 +292,7 @@ https://api.mapbox.com/v4/mapbox.terrain-rgb/0/0/0.pngraw?access_token=pk.eyJ1Ij
 https://api.mapbox.com/v4/mapbox.terrain-rgb/7/20/49.pngraw?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
 
 
-height = -10000 + ((R * 256 * 256 + G * 256 + B) * 0.1)
+height = -10000 + ((R *256* 256 + G *256 + B)* 0.1)
 
 key from https://www.mapbox.com/mapbox-gl-js/example/map-tiles/
 
@@ -306,21 +310,21 @@ http://tile.openstreetmap.org/7/20/49.png
 
 ## JSON
 {
-	"vicinity": "xxx",
-	"latitude": 0,
-	"longitude": 0,
-	"zoom": 12,
-	"tilesX": 3,
-	"tilesY": 3,
-	"samplesX": 510,
-	"samplesY": 510,
-	"ULtileX": xxx,
-	"ULtileY": xxx,
-	"plainOpacity" : 0.5,
-	"verticalScale" : 0.00001,
-	"fogNear" : 0.5,
-	"fogFar" : 1,
-	"elevations": [
+ "vicinity": "xxx",
+ "latitude": 0,
+ "longitude": 0,
+ "zoom": 12,
+ "tilesX": 3,
+ "tilesY": 3,
+ "samplesX": 510,
+ "samplesY": 510,
+ "ULtileX": xxx,
+ "ULtileY": xxx,
+ "plainOpacity" : 0.5,
+ "verticalScale" : 0.00001,
+ "fogNear" : 0.5,
+ "fogFar" : 1,
+ "elevations": [
 
 ]
 }
@@ -333,29 +337,29 @@ http://tile.openstreetmap.org/7/20/49.png
 
 
 // San Francisco
-	var latitude = 37.796;
-	var longitude = -122.398;
+ var latitude = 37.796;
+ var longitude = -122.398;
 
 // Paris
-	var latitude = 48.8566;
-	var longitude = 2.3522;
+ var latitude = 48.8566;
+ var longitude = 2.3522;
 /*
 
 // Igualada Spain
-	var latitude = 41.5861554761;
-	var longitude = 1.6519343471;
+ var latitude = 41.5861554761;
+ var longitude = 1.6519343471;
 
 // VNLK
-	var latitude = 27.71110193545;
-	var longitude = 86.71228385040001;
+ var latitude = 27.71110193545;
+ var longitude = 86.71228385040001;
 
 // YGIL Gilgandra
-	var latitude = -31.7276314069;
-	var longitude = 148.63915118805;
+ var latitude = -31.7276314069;
+ var longitude = 148.63915118805;
 
 // PHOG hawaii
-	var latitude = 20.8968;
-	var longitude = -156.4329;
+ var latitude = 20.8968;
+ var longitude = -156.4329;
 
 */
 
@@ -363,42 +367,42 @@ more nice lat lon
 
 ## FORM
 
-			'<p>Latitude : <input id=inpLatitude size=12 placeholder=' + latitude + ' onchange=goIt(); ></p>' +
-			'<p>Longitude: <input id=inpLongitude size=12 placeholder=' + longitude + ' onchange=goIt(); ></p>' +
+   '<p>Latitude : <input id=inpLatitude size=12 placeholder=' + latitude + ' onchange=goIt(); ></p>' +
+   '<p>Longitude: <input id=inpLongitude size=12 placeholder=' + longitude + ' onchange=goIt(); ></p>' +
 
 
 ## TMS
 
 * Source http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#ECMAScript_.28JavaScript.2FActionScript.2C_etc..29
 
-	function lon2tile( lon, zoom ) {
+ function lon2tile( lon, zoom ) {
 
-		return Math.floor( ( lon + 180 ) / 360 * Math.pow( 2, zoom ) );
+  return Math.floor( ( lon + 180 ) / 360 * Math.pow( 2, zoom ) );
 
-	}
+ }
 
-	function lat2tile( lat, zoom ) {
+ function lat2tile( lat, zoom ) {
 
-		const pi = Math.PI;
+  const pi = Math.PI;
 
-		return Math.floor( ( 1 - Math.log( Math.tan( lat * pi / 180 ) + 1 / Math.cos( lat * pi / 180 ) ) / pi ) / 2 * Math.pow( 2, zoom ) );
+  return Math.floor( ( 1 - Math.log( Math.tan( lat * pi / 180 ) + 1 / Math.cos( lat * pi / 180 ) ) / pi ) / 2 * Math.pow( 2, zoom ) );
 
-	}
+ }
 
 
-	function tile2lon( x, zoom ) {
+ function tile2lon( x, zoom ) {
 
-		return ( x / Math.pow( 2, zoom ) * 360 - 180 );
+  return ( x / Math.pow( 2, zoom ) * 360 - 180 );
 
-	}
+ }
 
-	function tile2lat( y, zoom ) {
+ function tile2lat( y, zoom ) {
 
-		var pi = Math.PI
-		var n = pi - 2 * pi * y / Math.pow( 2, zoom );
-		return 180 / pi * Math.atan( 0.5 * ( Math.exp( n ) - Math.exp( -n ) ));
+  var pi = Math.PI
+  var n = pi - 2 * pi * y / Math.pow( 2, zoom );
+  return 180 / pi * Math.atan( 0.5 * ( Math.exp( n ) - Math.exp( -n ) ));
 
-	}
+ }
 
 http://wiki.openstreetmap.org/wiki/Zoom_levels
 
@@ -406,31 +410,31 @@ http://wiki.openstreetmap.org/wiki/Zoom_levels
 
 http://wiki.openstreetmap.org/wiki/Mercator
 
-function y2lat( a ) { return 180 / Math.PI * ( 2 * Math.atan( Math.exp( a * Math.PI / 180 ) ) - Math.PI / 2 ); }
+function y2lat( a ) { return 180 / Math.PI *( 2* Math.atan( Math.exp( a * Math.PI / 180 ) ) - Math.PI / 2 ); }
 
-function lat2y( a ) { return 180 / Math.PI * Math.log( Math.tan( Math.PI / 4 + a * ( Math.PI / 180 ) / 2 ) ); }
+function lat2y( a ) { return 180 / Math.PI *Math.log( Math.tan( Math.PI / 4 + a* ( Math.PI / 180 ) / 2 ) ); }
 
 
 ## XYZ
 
 // source http://en.wikipedia.org/wiki/Spherical_coordinate_system
 
-	function convertPosition( lat, lon, radius ) {
+ function convertPosition( lat, lon, radius ) {
 
-		const d2r = pi / 180
-		var rc = radius * Math.cos( lat * d2r );
-		return new THREE.Vector3( rc * Math.cos( lon * d2r ), radius * Math.sin( lat * d2r ), rc * Math.sin( lon * d2r) );
-	}
+  const d2r = pi / 180
+  var rc = radius * Math.cos( lat * d2r );
+  return new THREE.Vector3( rc * Math.cos( lon * d2r ), radius * Math.sin( lat * d2r ), rc * Math.sin( lon * d2r) );
+ }
 
-	function latLonToXYZ( radius, latitude, longitude ) {
+ function latLonToXYZ( radius, latitude, longitude ) {
 
-		x = radius * Math.sin( latitude ) * Math.cos( longitude )
-		y = radius * Math.sin( latitude ) * Math.sin( longitude )
-		z = radius * Math.cos( latitude )
+  x = radius * Math.sin( latitude ) * Math.cos( longitude )
+  y = radius * Math.sin( latitude ) * Math.sin( longitude )
+  z = radius * Math.cos( latitude )
 
-		return new THREE.Vector3( x, y, z );
+  return new THREE.Vector3( x, y, z );
 
-	}
+ }
 
 
 ## Google Maps

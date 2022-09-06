@@ -2,6 +2,15 @@
 
 tags #color #beauty
 
+## color
+
+* https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/
+  * https://news.ycombinator.com/item?id=32709947
+
+* https://filmcolors.org/
+  *https://filmcolors.org/
+
+  
 ## Less colorful
 
 Has the world become less colorful?
