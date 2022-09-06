@@ -39,13 +39,12 @@ An RFI is primarily used to gather information to help make a decision on what s
 
 ## Values
 
-
 * https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values
 * https://en.wikipedia.org/wiki/Nolan_Chart
 * https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
 
 
-### Witepaper
+### Wite paper
 
 A white paper is a report or guide that informs readers concisely about a complex issue and presents the issuing body's philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.
 

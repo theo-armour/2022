@@ -1,5 +1,7 @@
 # wordle
 
+tags #puzzle #game #www #entertainment
+
 https://www.nytimes.com/games/wordle/index.html
 
 
@@ -9,32 +11,59 @@ https://www.nytimes.com/games/wordle/index.html
 * https://www.dictionary.com/e/wordle/
 
 
-## Journal
-
-
-## 2022-08-22
-
-* orate
-* sulci
-* nymph
-
-
 ### Articles
 
-* https://www.real-statistics.com/wordle-strategy/best-first-two-guesses-wordle/ >> second guess stating with "slate"
-* https://www.real-statistics.com/wordle-strategy/
-* https://word.tips/wordle/
-* https://puzzling.stackexchange.com/questions/114316/whats-the-optimal-strategy-for-wordle/114332#114332
 
 ### most common letters
 
 https://www.dictionary.com/e/wordle/
+
+### Utilities
+
+* https://word.tips/unscramble/
+  * Free Dictionary: 158,390 words with 5 letters.
+* https://word.tips/wordle/
+
+Unlimited practice games
+* https://wordplay.com/new
+
+
+## Journal
+
+* https://real-statistics.com/wordle-strategy/best-first-two-guesses-wordle/
+* https://nytimes.com/interactive/2022/upshot/wordle-bot.html
+
+### 2022-09-01
+* https://news.ycombinator.com/item?id=30050231
+* https://beautifulthorns.wixsite.com/home/post/i-have-so-many-wordle-thoughts
+  * slate << if no yellows/greens: crony build
+* https://withoutbullshit.com/blog/wordle-revised-mathematical-analysis-of-the-first-guess
+
+### 2022-08-22
+
+* orate
+* sulci
+* nymph
 
 ### 2022-04-10
 
 * https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit
 * https://news.ycombinator.com/item?id=29928263#29930961
 * https://slate.com/technology/2022/01/wordle-how-to-win-strategy-crossword-experts.html
+
+
+### before
+
+* https://www.tomsguide.com/news/best-wordle-start-words
+  * EAROTLISNC
+  * stare ~ phony ~ but hound looks good too
+* https://www.axios.com/2022/02/01/wordle-vowels-most-common-letters
+  * https://www.axios.com/2022/02/01/wordle-vowels-most-common-letters ~ but only 221 games
+* https://www.real-statistics.com/wordle-strategy/wordle-letter-frequency-and-patterns/
+* https://www.real-statistics.com/wordle-strategy/best-first-two-guesses-wordle/ >> second guess stating with "slate"
+* https://www.real-statistics.com/wordle-strategy/
+* https://puzzling.stackexchange.com/questions/114316/whats-the-optimal-strategy-for-wordle/114332#114332
+
 
 ETAOINSHRDLUCMFWY
 
@@ -43,8 +72,6 @@ stare - oinhlducmfwy
 hound - ilcmf
 
 filmy -
-
-
 
 Wordle Letter Percentage
 s	45.8
@@ -90,5 +117,17 @@ stare - ionlcudpmhgbfyw
 hound - ilcpmgbfy
 
 filmy - cpgb
+
+## From notes.md
+
+* Played wordle - won first time 6, 2nd 5
+* most common in print: etaionshrdlucmfwygp
+* most common modern: etaionshrdlumy
+* stare ~ hound ~ filmy
+* stare ~ unlid
+* tears
+* stone ~ hairy ~ udlce fluid
+* stain ~ rider ~ lumpy
+* tones ~ aio rhino
 
 
