@@ -18,6 +18,7 @@ tags #kvm #sw
 Works just fine!
 
 * https://www.inputdirector.com/
+* https://inputdirector.com/faq.html
 * Copy & paste between machines
 
 ### Synergy
