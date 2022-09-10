@@ -8,6 +8,7 @@ here we are
 
 With Stable Diffusion, you may never believe what you see online again
 * https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/
+* https://prompthero.com/
 
 ## Stable Diffusion
 

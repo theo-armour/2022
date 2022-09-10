@@ -10,6 +10,7 @@
 
 
 ## Small Actions Make Great Leaders
+
 by Hitendra Wadhwa
 
 * https://hbr.org/2022/06/small-actions-make-great-leaders
@@ -31,6 +32,9 @@ https://news.ycombinator.com/item?id=31847160
 
 Tools for better thinking ~ Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 * https://untools.co/
+
+* https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349
+  * https://news.ycombinator.com/item?id=32749633
 
 ## Munger
 

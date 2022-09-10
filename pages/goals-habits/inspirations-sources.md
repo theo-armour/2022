@@ -208,6 +208,7 @@ Effective altruism is a philosophy and social movement that advocates using evid
 * https://www.effectivealtruism.org/
 * https://en.wikipedia.org/wiki/Category:Effective_altruism
 
+
 ### William MacAskill
 
 * https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism
