@@ -5,8 +5,12 @@
 	* https://astralcodexten.substack.com/
 * https://perell.com/notebook/
 
+### https://en.wikipedia.org/wiki/Asemic_writing
 
-## Expressive Fonyts
+>Asemic writing is a wordless open semantic form of writing. The word asemic means "having no specific semantic content", or "without the smallest unit of meaning". With the non-specificity of asemic writing there comes a vacuum of meaning, which is left for the reader to fill in and interpret. All of this is similar to the way one would deduce meaning from an abstract work of art.
+
+
+## Expressive Fonts
 
 * http://tom7.org/lowercase/
 
@@ -33,3 +37,7 @@ The Washington Post has built a multi-publisher, shared-subscription system in i
 Shared on line document
 
 * https://onedrive.live.com/edit.aspx?cid=4348e1419f457eb2&page=view&resid=4348E1419F457EB2!547748&parId=4348E1419F457EB2!16494&app=Word
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

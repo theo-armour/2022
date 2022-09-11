@@ -35,11 +35,15 @@ chrome://internals/
 * https://www.lifewire.com/best-free-pdf-editors-4147622
 * https://www.lifewire.com/edit-pdf-on-chromebook-4783263
 
+### Online PDF apps
 
-### Online apps
-
-* https://pdfbob.com/editor/
+Free online
+* https://online.sodapdf.com/
+	* Used 2022-09-10 ~ looks good
+* https://www.pdfescape.com/
+* https://smallpdf.com/pdf-tools ~ 1 per day
 * https://smallpdf.com/ ~ 2 documents per day
+* https://pdfbob.com/editor/
 
 
 ## PDFs on ChromeSettings > Show advanced settings > Privacy > Content Settings > PDF Documents > Un-check checkbox
