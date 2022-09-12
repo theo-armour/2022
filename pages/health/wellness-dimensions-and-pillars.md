@@ -27,7 +27,7 @@ Luckily I found a gold mine:
 
 A direct link to the paper is available here:
 
-https://drive.google.com/drive/folders/1VNRWdfmhGlmv1iin7HFUC4gs_n_pfl3w
+https://drive.google.com/file/d/1kdJEkOFX6ANgZ-EXcm4cfjUpVs6vCfdb/view?usp=sharing
 
 The paper reports on specific activities undertaken by respondents as well statistics on the occurrence of activities.
 
