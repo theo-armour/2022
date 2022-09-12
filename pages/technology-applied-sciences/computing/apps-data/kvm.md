@@ -10,8 +10,16 @@ tags #kvm #sw
 * https://www.raymond.cc/blog/how-to-share-keyboard-and-mouse-on-multiple-computers/
 * https://asoftclick.com/best-virtual-kvm-software/
 * https://www.sharemouse.com/kvm-software-vs-hardware-kvm/ << bartels
+* http://www.acrosscenter.com/
 
 ## Apps
+
+## Across
+
+ http://www.acrosscenter.com/
+* Win, Max, Lnx, And
+* WiFi + Bluetooth
+* File sharing and more
 
 ### Input Director
 
@@ -20,6 +28,7 @@ Works just fine!
 * https://www.inputdirector.com/
 * https://inputdirector.com/faq.html
 * Copy & paste between machines
+
 
 ### Synergy
 

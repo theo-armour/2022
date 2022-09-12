@@ -5,7 +5,38 @@ tags #Health
 
 ## Preface
 
-2022-08-08 ~ We all want to be "healthy", yet we all seem to have our own unique visions of what "being healthy" really means. Me being me, figuring out my health is long, drawn out, rather exhaustive investigation.
+### 2022-09-11
+
+Many of the links listed below are, essentially, marketing documents. They are used to highlight health features offered by an organization. There are few if any footnotes or references in any of the documents relating to how the document was prepared and what sources were used.
+
+A few sites offer links to resources that might be helpful in achieving wellness in a particular category: A nice example: https://mywellness.ucsf.edu/#/resources/emotional
+
+None of the sites provide and targets or goals or offer any metrics or ways of measuring degrees of wellness.
+
+Much of this is to be expected. I am using Google to track "wellness". If I had easy access to JSTOR, my search results might be quite different.
+
+Luckily I found a gold mine:
+
+[The Scope and Challenges of the Wellness Activities of the Older Adults]( https://www.researchgate.net/publication/323084807_The_Scope_and_Challenges_of_the_Wellness_Activities_of_the_Older_Adults/citations )
+
+>This study had a dual purpose:
+>1) to determine the range of wellness activities of the senior citizens (third agers) based on six dimensions of wellness, and
+>2) to ascertain the problems and challenges which third agers face in holding wellness activities. The senior citizens’ leader of each municipality of Bukidnon served as respondents. A survey questionnaire was designed to gather both quantitative and qualitative data. Included in the instrument were also pertinent open-ended questions. The analysis made use of the model of Hettler (cited in MacMahan and Fleur, 2012) that reflects the six dimensions of wellness, as well as Hawk’s (1994) model showing a one-to-one correspondence between Maslow’s hierarchy of needs, with the dimensions of wellness.
+>
+>Results showed that the spiritual and physical wellness activities were most often conducted, while intellectual and emotional activities were scarce. Leadership was repeatedly cited as one of the reasons to explain the shortage of activities. The study’s results implied the absence of balanced wellness and concluded that the presumably elderly’s spiritual wellness does not necessarily mean they have achieved ‘self-actualization.’ To address the various wellness dimensions to develop holistically healthy third agers, a university-led wellness program may be designed, developed and implemented.
+
+A direct link to the paper is available here:
+
+https://drive.google.com/drive/folders/1VNRWdfmhGlmv1iin7HFUC4gs_n_pfl3w
+
+The paper reports on specific activities undertaken by respondents as well statistics on the occurrence of activities.
+
+My next step will be to take Dr Torres list of Activities and use it as a model for creating a list of activities that might be relevant to residents in a US retirement community.
+
+
+
+
+### 2022-08-08 ~ We all want to be "healthy", yet we all seem to have our own unique visions of what "being healthy" really means. Me being me, figuring out my health is long, drawn out, rather exhaustive investigation.
 
 In the following text, you will find my investigations into other people's definitions. Ultimately the process leads to a definition of my personal definition - which also ends being a checklist that I can use to monitor and measure the rise and fall of my own wellness.
 
@@ -24,7 +55,6 @@ Considerations
 
 * Our list is oriented toward the elderly
 * A prime use for the effort is to assist in care-giver and patient dialogs
-
 
 
 ## Introduction
@@ -47,6 +77,7 @@ This then demands the question? What is well-being? It turns out that well-being
 
 Even better, there is a large corpus of writing on "wellness dimensions" and "pillars of wellness".
 
+
 ## Vision
 
 Given a primary set of criteria, you as a competant individual may ascertain your overall state of health to a caregiver
@@ -54,6 +85,7 @@ Given a primary set of criteria, you as a competant individual may ascertain you
 Given a primary set of criteria, you as a moderately cognitively-impaired individual may use the criteria to help you to remember to describe your overall state of health to a care-giver.
 
 Given a caregiver may use these criteria to investigate the general state of health of a severely-cognitively impaired person
+
 
 ## Mission
 
@@ -285,7 +317,7 @@ Needs re-counting
 
 ### Term: Emotional
 
-* https://mywellness.ucsf.edu/#/resources/emotional#resources Emotional Wellness is how to manage stress, be resilient, and understand and regulate emotions.
+*  https://mywellness.ucsf.edu/#/resources/emotional#resources Emotional Wellness is how to manage stress, be resilient, and understand and regulate emotions.
 * https://law.scu.edu/studentservices/8-pillars-of-wellness/#Emotional Being aware of your feelings, coping effectively with the stress of law school, developing resiliency, and practicing self-care strategies to achieve a sense of mental balance is a focus of the Santa Clara Law Community.
 * https://wellness.huhs.harvard.edu/emotional Emotional wellbeing involves the recognition and acceptance of all of our thoughts and feelings, whether positive or negative.  This awareness and acceptance of our emotions is necessary in cultivating balance and resiliency and supports us in developing and nurturing relationships and friendships.
 * https://umatter.princeton.edu/action-matters/caring-yourself/wellness-wheel-assessment/emotional-wellness Emotional wellness is understanding your own feelings and expressing emotions in a constructive way. It is also the ability to manage stress and cope with life's challenges.
