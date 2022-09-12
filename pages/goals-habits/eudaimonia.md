@@ -1,5 +1,10 @@
 # Eudaimonia
 
+
+* https://humbledollar.com/2022/09/choosing-happiness/
+  * https://news.ycombinator.com/item?id=32804468
+
+
 * https://en.wikipedia.org/wiki/Eudaimonia
 
 > Eudaimonia is a Greek word commonly translated as 'happiness' or 'welfare'; however, more accurate translations have been proposed to be 'human flourishing, prosperity' and 'blessedness'

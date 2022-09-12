@@ -33,3 +33,12 @@ Different orientations to happiness and their association with life satisfaction
 * Positive Relations with Others: High scores reflect the respondent's engagement in meaningful relationships with others that include reciprocal empathy, intimacy, and affection. An example statement for this criterion is "People would describe me as a giving person, willing to share my time with others".[1]
 * Purpose in Life: High scores reflect the respondent's strong goal orientation and conviction that life holds meaning. An example statement for this criterion is "Some people wander aimlessly through life, but I am not one of them".[1]
 * Self-Acceptance: High scores reflect the respondent's positive attitude about his or her self. An example statement for this criterion is "I like most aspects of my personality"[1]
+
+## Links of Interest
+
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+
