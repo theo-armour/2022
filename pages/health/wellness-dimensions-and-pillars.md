@@ -114,7 +114,7 @@ Well-being
 
 Looks like being the source of the concept in 1976
 
-occupational, physical, social, intellectual, spiritual
+occupational, physical, emotional, social, intellectual, spiritual
 
 * https://www.hettler.com//sixdimen.htm
 * https://www.hettler.com/
