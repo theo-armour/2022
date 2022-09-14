@@ -1,5 +1,6 @@
 # Ageism
 
+tags #aging
 
 ## 2019-11-10 ~ Questions from Geri for article
 
@@ -21,9 +22,6 @@ The 25 to 50s
 * consider elderly serve no purpose in society
 * Do not get third age fourth age
 * Envisage themselves as third-agers only
-
-
-
 
 
 ### Have you personally felt the sting of ageism inside or outside of a work environment? Please explain.

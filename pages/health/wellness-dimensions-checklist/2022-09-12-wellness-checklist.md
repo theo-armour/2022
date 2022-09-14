@@ -1,5 +1,7 @@
 # 2022-09-12 Wellness Checklist
 
+tags #wellness #health #checklist
+
 ## Occupational
 
 * Participating in volunteer programs

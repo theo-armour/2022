@@ -4,7 +4,6 @@ tags #happiness
 
 ## AI
 
-
 Harvard Developed AI Identifies the Shortest Path to Human Happiness
 
 * https://scitechdaily.com/harvard-developed-ai-identifies-the-shortest-path-to-human-happiness/

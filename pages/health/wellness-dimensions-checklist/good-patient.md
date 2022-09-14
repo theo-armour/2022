@@ -1,5 +1,7 @@
 # How to be good patient
 
+tags #health
+
 ## My observations
 
 Having skimmed through a number of articles related to "How to be a good patient", I have come up with my own list. My list is based on the categories listed in [_Character Strengths and Virtues: A Handbook and Classification_(https://en.wikipedia.org/wiki/Values_in_Action_Inventory_of_Strengths#Character_Strengths_and_Virtues) a book by Christopher Peterson and Martin Seligman (2004) that presents a measure of humanist ideals of virtue in an empirical, rigorously scientific manner, intended to provide a theoretical framework for practical applications for positive psychology.
@@ -25,7 +27,6 @@ Having skimmed through a number of articles related to "How to be a good patient
 
 * Play fair: Plan your visit. Establish priorities. Remember there's another patient waiting.
 * Be a good citizen.
-
 
 
 ## Links of Interest
@@ -68,10 +69,10 @@ How to Be a Good Patient: Stop Being Polite. Start Speaking Up.
 * Speak Up and Voice Your Concerns
 * Listen and Ask Questions
 * How to Be Proactive With Your Medical Care
-	* Talk to Other Patients
-	* Do Your Own Research
-	* Get a Second Opinion
-	* Be a Good Patient by Advocating For Your Health
+  * Talk to Other Patients
+  * Do Your Own Research
+  * Get a Second Opinion
+  * Be a Good Patient by Advocating For Your Health
 
 ### https://oklahomapaindoc.com/articles/6-tips-to-be-a-good-patient
 
@@ -110,7 +111,7 @@ Anentire book on the topic. Looks like it could be informative
 
 Less useful
 
-###  https://www.speaksooner.org/
+### https://www.speaksooner.org/
 
 > The Center for Communication in Medicine’s SpeakSooner® initiative prepares patients facing serious illness, and their family caregivers, for honest and timely conversations with healthcare providers, leading to decisions about care that honor a person’s values, priorities and goals.
 
@@ -130,7 +131,6 @@ Nice general advice
 ### https://keystone.health/geriatric-diseases
 
 List of diseases
-
 
 
 ## 4Ms

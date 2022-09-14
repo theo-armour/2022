@@ -1,5 +1,8 @@
 # Wellness Links
 
+tags #wellness #health #checklist
+
+## Categories
 
 * Self care
 * Medicine

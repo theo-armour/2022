@@ -1,5 +1,7 @@
 # Wellness Checklist
 
+tags #wellness #health #checklist
+
 _What is a reasonable checklist for a wellness interaction?_
 
 
