@@ -1,8 +1,17 @@
 # Books
 
+## Binding & Printing
+
 * https://codexfoundation.org
 * https://sfcb.org/
 
+
+librarything
+
+
+## Browsing
+
+* https://www.nytimes.com/2022/06/07/books/new-book-apps-tertulia.html
 
 
 ***
