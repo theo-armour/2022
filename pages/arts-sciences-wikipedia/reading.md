@@ -7,6 +7,7 @@ gen z never learned to read cursive
 How will they interpret the past?
 
 * https://www.theatlantic.com/magazine/archive/2022/10/gen-z-handwriting-teaching-cursive-history/671246/
+  * https://news.ycombinator.com/item?id=32884213
 >In the future, cursive will have to be taught to scholars the way Elizabethan secretary hand or paleography is today.
 >For many young people, “handwriting,” once essentially synonymous with cursive, has come to mean the painstaking printing they turn to when necessity dictates.
 >Students will miss the excitement and inspiration that I have seen them experience as they interact with the physical embodiment of thoughts and ideas voiced by a person long since silenced by death. Handwriting can make the past seem almost alive in the present.

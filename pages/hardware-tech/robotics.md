@@ -1,6 +1,19 @@
 # robotics
 
 
+## Underwater ROV
+
+* https://www.youcanrobot.com/
+* https://github.com/OpenROV
+* https://www.chasing.com/
+* https://en.wikipedia.org/wiki/OpenROV
+* https://www.sofarocean.com/
+* https://forum.openrov.com/
+
+
+
+## adafruit
+
 * https://www.adafruit.com/
 
 
