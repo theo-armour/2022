@@ -15,6 +15,13 @@
 
 ## Links of Interest
 
+Return to an oral culture
+* https://www.theatlantic.com/technology/archive/2011/05/oral-culture-literate-culture-twitter-culture/239697/
+
+Safety === security
+* https://rootsofprogress.org/towards-a-philosophy-of-safety
+* https://rootsofprogress.org/
+
 Making an Enemy of Luxury
 Imagining utopia—and condemning excess—during the Enlightenment.
 * https://www.laphamsquarterly.org/roundtable/making-enemy-luxury
