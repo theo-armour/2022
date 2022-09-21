@@ -240,11 +240,6 @@ http://codepen.io/shshaw/full/gEiDt
 * rem is relative to the html (root) font-size.
 
 
-## Fonts links of interest
-
-* https://news.ycombinator.com/item?id=26011945
-
-
 ## Font-family
 
 Google Fonts: https://fonts.google.com/
@@ -383,8 +378,4 @@ function loadCss() {
 
 	setRandomGradientBackground();
 
-
-## Fonts
-
-* https://christiantietze.de/posts/2021/01/hyperlegible-font/
 

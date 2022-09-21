@@ -36,7 +36,6 @@ Deborah Appleman on How Educators Can Teach Troubling but Worthwhile Texts
 * https://lithub.com/teaching-literature-in-the-new-culture-wars-some-alternative-approaches
 
 
-### Critical Lens
 
 * https://en.wikipedia.org/wiki/Critical_lens
 >A critical lens is a way of looking at a particular work of literature by focusing on style choices, plot devices, and character interactions and how they show a certain theme (the lens in question). It is a common literary analysis technique.

@@ -1,7 +1,7 @@
-# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/ "Source code on GitHub" ) [TT 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Reading]( https://theo-armour.github.io/2021/#pages/arts-sciences-wikipedia/reading.md)
+# Reading Read Me
 
 
-## Reading Curssive
+## Reading Cursive
 
 gen z never learned to read cursive
 How will they interpret the past?
@@ -12,6 +12,12 @@ How will they interpret the past?
 >For many young people, “handwriting,” once essentially synonymous with cursive, has come to mean the painstaking printing they turn to when necessity dictates.
 >Students will miss the excitement and inspiration that I have seen them experience as they interact with the physical embodiment of thoughts and ideas voiced by a person long since silenced by death. Handwriting can make the past seem almost alive in the present.
 >All of us, not just students and scholars, will be affected by cursive’s loss. The inability to read handwriting deprives society of direct access to its own past. We will become reliant on a small group of trained translators and experts to report what history—including the documents and papers of our own families—was about. The spread of literacy in the early modern West was driven by people’s desire to read God’s word for themselves, to be empowered by an experience of unmediated connection. The abandonment of cursive represents a curious reverse parallel: We are losing a connection, and thereby disempowering ourselves.
+
+## Reading Cursive writing > is a thing!
+
+* https://www.google.com/search?q=reading+cursive+writing
+* https://writing.stackexchange.com/questions/2852/is-there-any-point-in-learning-to-write-in-cursive
+* https://www.nea.org/advocating-for-change/new-from-nea/great-cursive-writing-debate
 
 
 ## Anton Chekov
