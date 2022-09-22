@@ -32,7 +32,7 @@ I talked with Roxanna, Dominique's caregiver. She said that Dominique slipped aw
 Goodbye Dominique. You have left me a legacy replete with the twists and turns of friendly new connections in my life. Thank you.
 
 
-## David Peretz
+## David Peritz
 
 2nd amendment - "under a well-organized militia" ignored
 
