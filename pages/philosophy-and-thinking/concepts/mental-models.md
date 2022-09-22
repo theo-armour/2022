@@ -23,6 +23,8 @@
 
 ## Sites
 
+* https://conceptually.org/concepts
+  * friends with effective altruism
 * https://www.buildingasecondbrain.com/ ~ $$$
 * https://www.modeltheory.org
   * Mental models are how the mind represents real, remembered, hypothetical, or imaginary situations.
