@@ -4,15 +4,21 @@ https://en.wikipedia.org/wiki/What_We_Owe_the_Future
 
 ## Will MacAskill
 
-[](https://www.williammacaskill.com/)
+* https://en.wikipedia.org/wiki/William_MacAskill
+* https://www.williammacaskill.com/)\
 
 [Doing Good Better: Effective Altruism and a Radical New Way to Make a Difference]( https://www.amazon.co.uk/Doing-Good-Better-Effective-Difference/dp/1783350512 )
 
 
 https://forum.effectivealtruism.org/
 
-[My emotional reaction to the current funding situation](https://forum.effectivealtruism.org/posts/6xX96ZqFtH5n7mchW/my-emotional-reaction-to-the-current-funding-situation)
+My emotional reaction to the current funding situation
+## https://forum.effectivealtruism.org/posts/6xX96ZqFtH5n7mchW/my-emotional-reaction-to-the-current-funding-situation
 
+
+Doing Good Better
+
+https://www.amazon.com/Doing-Good-Better-Effective-Difference-ebook/dp/B00OYXWL4W
 
 ***
 
