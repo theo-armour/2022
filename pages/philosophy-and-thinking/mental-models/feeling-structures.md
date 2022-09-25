@@ -1,5 +1,6 @@
 # Feeling Structures
 
+From David Peritz??
 
 ## "Feeling Structures"
 
@@ -26,8 +27,6 @@ Uncovering Power Dynamics: Feeling Rules in European Policy-making
 
 Feelings as the Proximate Cause of Behavior
 * https://sites.duke.edu/mcshearesearch/files/2014/03/Feelings-as-proximate-cause-McShea.pdf
-
-
 
 
 ## Pierre Bourdieu
