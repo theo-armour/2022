@@ -34,7 +34,6 @@
 * https://www.amazon.com/dp/B08GK7V5ZG/ref=sspa_dk_detail_3
 
 
-
 ## Micro:bit
 
 * https://microbit.org/
@@ -63,6 +62,10 @@
 Tobbie II
 
 * https://www.elenco.com/wp-content/uploads/2019/02/TTC-894_Manual_LR.pdf
+
+MetaCat: Smart Robot Cat, Interactive Companion Pets, Robotic Pet - Realistic & Lifelike
+* https://www.amazon.com/MetaCat-Interactive-Companion-Realistic-Lifelike/dp/B0B2D2KSDD
+
 
 ## MakeCode
 

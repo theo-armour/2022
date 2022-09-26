@@ -1,4 +1,4 @@
-# VS Code
+# vscode
 
 ## https://vscode.dev/
 
@@ -9,6 +9,7 @@
 
 ### About
 
+* 2022-09-25 ~ https://ghuntley.com/fracture/
 * https://www.infoq.com/news/2021/11/vscode-dev-launched/
 * https://towardsdatascience.com/meet-vs-code-in-the-browser-vscode-dev-vs-code-for-the-web-cf8740211967
 * https://www.reddit.com/r/vscode/search/?q=vscode.dev&restrict_sr=1&sr_nsfw=
