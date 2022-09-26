@@ -21,8 +21,9 @@ Mrdoob.com
 ### https://www.pixijs.com/
 
 ### https://doodad.dev/
-	* Pattern Generator
-	* Dither
+
+* Pattern Generator
+* Dither
 
 ### https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/
 

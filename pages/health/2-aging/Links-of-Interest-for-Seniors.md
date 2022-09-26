@@ -76,7 +76,7 @@ The ten rules state:
 ### Age Related Diseases
 
 * https://en.wikipedia.org/wiki/Aging-associated_diseases
-	* https://en.wikipedia.org/wiki/Category:Aging-associated_diseases
+  * https://en.wikipedia.org/wiki/Category:Aging-associated_diseases
 * https://www.agingresearch.org/health-topic/
 * https://www.ncoa.org/blog/10-common-chronic-diseases-prevention-tips/
 > Age, family genetics, and gender make it nearly impossible for older adults to avoid becoming a chronic disease statistic. Eighty percent of adults 65 and older have at least one condition, while 68% have two or more. You probably have a parent or grandparent who is managing a condition right now, or perhaps you are managing one yourself.
@@ -111,6 +111,7 @@ The ten rules state:
 * https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/
 * https://www.weforum.org/agenda/2021/03/what-is-the-biggest-benefit-technology-ageing-longevity-global-future-council-tech-for-good/
 
+
 ### Obituaries
 
 * https://www.nytimes.com/2021/02/02/magazine/how-to-write-an-obituary.html
@@ -118,6 +119,7 @@ The ten rules state:
 ### Retiring
 
 * https://www.nytimes.com/column/retiring
+
 
 ### Geriatric Care Management ~ Articles
 
@@ -142,14 +144,15 @@ Heart-warming story
 
 * https://health.usnews.com/best-assisted-living/articles/when-to-hire-a-geriatric-care-manager
 
+
 ### How to be 90
 
 https://www.google.com/search?q=how+to+be+90&oq=how+to+be+90
 
 * https://humanparts.medium.com/what-its-like-to-be-90-something-368780082573
-	* I'm not afraid of death. I'm afraid of dying.
+  * I'm not afraid of death. I'm afraid of dying.
 * https://www.mind.uci.edu/research-studies/90plus-study/
-	* https://www.livehappy.com/how-be-happy-90?nopaging=1
+  * https://www.livehappy.com/how-be-happy-90?nopaging=1
 
 ### Elder Care: factors for choosing an independent living community
 
@@ -168,7 +171,7 @@ Very interesting views on death
 * https://en.wikipedia.org/wiki/Alice_James
 >Alice James (August 7, 1848 – March 6, 1892) was an American diarist, sister of novelist Henry James and philosopher and psychologist William James. Her relationship with William was unusually close, and she seems to have been badly affected by his marriage. James suffered lifelong health problems, that were generally dismissed as hysteria, in the style of the day. She is best known for her published diaries.
 * https://www.brainpickings.org/2017/08/07/diary-of-alice-james-death/ <<< Wow!
-	* https://news.ycombinator.com/item?id=25224830
+  * https://news.ycombinator.com/item?id=25224830
 
 ## Government Agencies
 
@@ -177,14 +180,14 @@ Very interesting views on death
 * https://acl.gov/
 * https://acl.gov/programs/aging-and-disability-networks
 * https://acl.gov/about-acl/administration-aging
-	* https://en.wikipedia.org/wiki/Administration_on_Aging
-	* https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/
+  * https://en.wikipedia.org/wiki/Administration_on_Aging
+  * https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/
 * https://medicare.gov
 * https://www.nia.nih.gov/
-	* https://www.nia.nih.gov/Go4Life >
-	* https://www.nia.nih.gov/health/exercise-physical-activity
-	* https://www.nlm.nih.gov/
-		* https://www.medlineplus.gov/ ~ US National Library of Medicine
+  * https://www.nia.nih.gov/Go4Life >
+  * https://www.nia.nih.gov/health/exercise-physical-activity
+  * https://www.nlm.nih.gov/
+    * https://www.medlineplus.gov/ ~ US National Library of Medicine
 
 
 ### California agencies
@@ -192,7 +195,7 @@ Very interesting views on death
 * https://aging.ca.gov/
 * https://www.dhcs.ca.gov/
 * https://seniors.insurance.ca.gov/
-	* https://seniors.insurance.ca.gov/rights/ << looks interesting
+  * https://seniors.insurance.ca.gov/rights/ << looks interesting
 * https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1253.&lawCode=HSC
 * https://www.fiduciary.ca.gov/
 
@@ -286,7 +289,7 @@ More
 >10) We're available 24/7, so you don't have to be.
 
 * https://eldercareanswers.com/
-	* https://eldercareanswers.com/aging-life-care-plans/
+  * https://eldercareanswers.com/aging-life-care-plans/
 * https://www.ayonliving.com/
 * https://homecareassistance.com/
 * http://www.hgapersonalcareconsultants.com/
@@ -298,8 +301,8 @@ More
 ### Firms in the Bay Area ~  Society of Certified Senior Advisors (SCSA)
 
 * Sarah Stephens ~ https://www.sarasmap.com/
-	* https://www.linkedin.com/in/saracallanderstephens/
-	* Friend of Ann Seymour
+  * https://www.linkedin.com/in/saracallanderstephens/
+  * Friend of Ann Seymour
 
 ### Others
 
@@ -310,10 +313,10 @@ More
 ## Home Help Service Providers
 
 * Home Instead ~ Senior care ~ https://www.homeinstead.com/
-	* Will accompany you to doctor or procedure or do pick up
-	* 1 Daniel Burnham Court Suite 307C, San Francisco 94109
-	* 415 411 6490
-	* Example: Ron, Brent & Eunice with Mary Charlotte
+  * Will accompany you to doctor or procedure or do pick up
+  * 1 Daniel Burnham Court Suite 307C, San Francisco 94109
+  * 415 411 6490
+  * Example: Ron, Brent & Eunice with Mary Charlotte
 
 ## Elder Wellness Services
 
