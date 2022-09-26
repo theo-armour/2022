@@ -1,4 +1,4 @@
-# [![]( https://theo-armour.github.io/lib/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2021/tree/main/bookmarks/catalogs.md "Source code on GitHub") [Catalogs]( https://theo-armour.github.io/2021/bookmarks/catalogs.html )
+# Catalogs
 
 
 Catalogs are listed in alphabetical order
@@ -28,9 +28,11 @@ Catalogs are listed in alphabetical order
 * https://www.levenger.com/ ~ desk work
 * https://www.liebherr.com/liebherrshop/de/deu/modelle.html ~ scale models of construction equipment
 * https://lilmoco.com/ ~ Lilliput Motor Company
-	* Tin toys, steam engines, Shuco & MicroRacers, model trains
-	* Bring joy to the boy in you
+  * Tin toys, steam engines, Shuco & MicroRacers, model trains
+  * Bring joy to the boy in you
 * https://www.llbean.com ~ outdoors
+* https://www.mcmaster.com/
+  * https://news.ycombinator.com/item?id=32976978
 * https://www.magellans.com/ ~ travel
 * https://mensgear.net/
 * https://www.muji.us/ ~ household & clothes ~ “no-brand quality goods.”
@@ -39,7 +41,7 @@ Catalogs are listed in alphabetical order
 * https://www.rei.com/ ~ outdoors
 * https://www.rh.com/ ~ Restoration Hardware ~ household
 * https://www.scientificsonline.com/
-	* Formerly Edmund Scientific
+  * Formerly Edmund Scientific
 * https://www.sciplus.com/ ~ American Science & Surplus was established in about 1937
 * https://www.sharperimage.com/ ~ gadgets
 * https://www.stacksocial.com/ ~ gadgets
@@ -50,7 +52,7 @@ Catalogs are listed in alphabetical order
 * https://www.westmarine.com/ ~ boating
 * https://www.westmusic.com/ ~ music
 * https://whizbangprojects.com/
-	* Vintage digital project plans
+  * Vintage digital project plans
 
 ## More
 

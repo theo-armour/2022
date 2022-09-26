@@ -1,5 +1,7 @@
 # robotics
 
+tags #hw #robot
+
 
 ## Underwater ROV
 

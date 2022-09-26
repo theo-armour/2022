@@ -24,6 +24,8 @@
 
 ## Books on Writing
 
+https://www.economist.com/the-economist-reads/2022/09/09/what-to-read-to-become-a-better-writer
+
 ### 100 Ways to Improve Your Writing (Updated): Proven Professional Techniques for Writing with Style and Power
 
 * https://www.amazon.com/Ways-Improve-Your-Writing-Updated-ebook/dp/B07H1V584S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
