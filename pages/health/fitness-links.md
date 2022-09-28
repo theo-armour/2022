@@ -35,7 +35,7 @@ BUMOVE Elastic Armband for Fitbit Charge 5/4/3/2, Inspire 3/2, Inspire/Inspire H
 * https://www.fitbit.com/global/us/products/smartwatches/sense2
   * $300
   * API looks accessible by me
-  * Not Googlr Fit compatible!!
+  * Not Google Fit compatible!!
 * https://www.fitbit.com/global/us/products/trackers/charge5
 
 ## Garmin
@@ -44,23 +44,31 @@ No Google Fit sync
 
 ## Oura
 
+Google Fit: yes
+
 * https://ouraring.com
 * https://twitter.com/ouraring
 * https://gizmodo.com/the-famous-oura-smart-ring-is-getting-even-smarter-1847931146
 
 ## Polar
 
+Google Fit: yes
+
 * https://www.polar.com/us-en/
 * Finnish
 
 ## Samsung Galaxy Watch 4
 
+Google Fit: yes
+
 * https://www.samsung.com/us/watches/galaxy-watch4/buy/?modelCode=SM-R860NZSAXAA
+
 
 ## Whoop
 
+* Google Fit: No integration
+
 * https://www.whoop.com/
-* No Google Fit Integration
 
 DISCOVER THE ALL-NEW 4.0
 As a member, get the latest, most advanced WHOOP hardware for free — every time another generation is released.
@@ -75,8 +83,8 @@ GET MORE ACCURATE DATA
 ## 2022-09-25
 
 https://trends.google.com/trends/explore?geo=US&q=%2Fg%2F11f015h0xl,%2Fg%2F11jrs8n__7
+* Oura wipes whoop in trends
 
-* Oura wipes whoop
 
 ## 2022-09-05
 

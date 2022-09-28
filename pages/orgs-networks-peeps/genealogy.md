@@ -1,5 +1,8 @@
-# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/blob/main/pages/orgs-networks-peeps/genealogy.md "Source code on GitHub" ) [TT 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Genealogy]( https://theo-armour.github.io/2021/pages/#orgs-networks-peeps/genealogy.md)
+# genealogy
 
+## gedcom
+
+* https://en.wikipedia.org/wiki/GEDCOM
 
 
 ## Reference
@@ -85,6 +88,9 @@ About
 * https://www.apgen.org/cpages/how-to-hire-a-professional-genealogist
 * https://www.geni.com/projects/Expert-Genealogists-on-Geni/1319
 
+People
+
+* https://unravelingthepast.com/rates-fees ~ https://scotttribble.com/ ~ $30/hour
 
 
 ## Providers

@@ -5,6 +5,8 @@
 
 * De-trending: textual/analytical
 * trending ?? touch/smell synthetical?
+* ?? https://news.ycombinator.com/item?id=32987642
+
 
 ## Oral tradition
 

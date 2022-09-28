@@ -6,6 +6,14 @@
 * https://www.boredpanda.com/modernist-architecture-pics/?utm_source=com.google.android
 
 
+## Palm Springs / Michael Howard
+
+* https://en.wikipedia.org/wiki/Kaufmann_Desert_House
+* https://www.iconichouses.org/icons-at-risk/maslon-house
+  * https://psmodcom.org/neutra-maslon-house/
+  * https://www.nytimes.com/2002/04/21/magazine/style-a-destruction-site.html
+  
+
 ## Paris
 
 Oscar Niemeyer’s French Communist Party Headquarters Brings a Sensual Brazilian Lilt to Paris
