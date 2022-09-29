@@ -1,5 +1,20 @@
 # David Peritz
 
+## 2022-08-26
+
+2nd amendment - "under a well-organized militia" ignored
+
+rogue court - impatient - angry
+
+worried about american democracy - signs of advanced decay
+
+Aging
+
+* https://www.hagarsfoundation.org/david-peritz
+> Finally, David has an emerging research interest in the philosophy of aging, specifically the question of how we maintain vitality and the respect of ourselves as well as others across the entirety of life, especially in light of the current lifespan revolution.
+
+## 2022-08-26 response
+
 At your talk at Heritage on the Marina on August 26, you presented a host of issues that may serve to confound life, liberty and the pursuit of Happiness.
 
 When asked what could be done to alter the course of events, you suggested "regulate media"

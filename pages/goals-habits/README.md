@@ -10,6 +10,12 @@ An early page: https://theo-armour.github.io/2022/#pages/goals/goals.md
 
 A more recent page: https://theo-armour.github.io/2022/#pages/goals/virtues.md
 
+## Lists
+
+* https://medium.com/mind-cafe/you-dont-need-a-bucketlist-you-need-a-fuggit-list-985984ac54d7
+
+> You Don’t Need a Bucket list. You Need a Fuggit List. Stop caring about these things to free up time, money, and energy.
+
 
 ## microfame
 

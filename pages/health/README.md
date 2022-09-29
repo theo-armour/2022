@@ -1,4 +1,14 @@
-# Life
+# Health
+
+## Government
+
+### White House Conference on Hunger, Nutrition, and Health
+
+>Ending Hunger, Improving Nutrition and Physical Activity, and Reducing Diet-Related Diseases and Disparities
+
+* https://health.gov/our-work/nutrition-physical-activity/white-house-conference-hunger-nutrition-and-health
+* https://health.gov/sites/default/files/2019-10/PAG_ExecutiveSummary.pdf
+
 
 ## Death
 
@@ -32,19 +42,7 @@ I talked with Roxanna, Dominique's caregiver. She said that Dominique slipped aw
 Goodbye Dominique. You have left me a legacy replete with the twists and turns of friendly new connections in my life. Thank you.
 
 
-## David Peritz
 
-2nd amendment - "under a well-organized militia" ignored
-
-rogue court - impatient - angry
-
-worried about american democracy - signs of advanced decay
-
-
-Aging
-
-* https://www.hagarsfoundation.org/david-peritz
-> Finally, David has an emerging research interest in the philosophy of aging, specifically the question of how we maintain vitality and the respect of ourselves as well as others across the entirety of life, especially in light of the current lifespan revolution.
 
 ## Sophia ~ Inflammation
 
@@ -53,6 +51,7 @@ Aging
 * Nutrition action
 
 Elizabeth
+
 * https://www.cspinet.org/
 * https://store.nutritionaction.com/
 
@@ -65,18 +64,12 @@ Elizabeth
 * https://schlaf.medium.com/an-entrepreneurs-guide-to-finding-a-coach-ca049054f86a
 * https://www.founderlibrary.com/categories/self-care
 
-SF
 * https://loveyourlife.co/
 
 ## Friends Socializing
 
 * https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html
 
-## Lists
-
-* https://medium.com/mind-cafe/you-dont-need-a-bucketlist-you-need-a-fuggit-list-985984ac54d7
-
-> You Don’t Need a Bucket list. You Need a Fuggit List. Stop caring about these things to free up time, money, and energy.
 
 ## Meetings
 

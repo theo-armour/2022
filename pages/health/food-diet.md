@@ -9,17 +9,33 @@
 * A diet that supplies all needed nutrients
 * Food that tastes good
 * Food that is filling
-* Food that supports a health micribiome all the way down and out
+* Food that supports a health microbiome all the way down and out
 * A diet that helps weight loss
 * Meals that are prepared quickly
 * A diet that travels
 
+## Standard Drink
+
+1 oz = 29.5735 ml
+
+### National Institute on Alcohol Abuse and Alcoholism / https://www.niaaa.nih.gov/
+
+In the United States, one "standard" drink (or one alcoholic drink equivalent) contains roughly 14 grams of pure alcohol, which is found in:
+* 12 ounces or 355 ml of regular beer, which is usually about 5% alcohol = 17.75 grams
+* 5 ounces of wine, which is typically about 12% alcohol ~ 5 oz @ 13.5 = 20 gm ~ 6 * 29.6 * 0.135 = 24 grams!!
+* 1.5 ounces of distilled spirits, which is about 40% alcohol ~ 45 * 0.4 = 18 gm
+
+In reality one standard drink may be closer to 20 grams than to 14 grams
 
 
+### https://www.rethinkingdrinking.niaaa.nih.gov/
+
+Nice stats and thoughts
 
 ## Beer
 
-* 805 4:7% ~ 141 calories
+* Ultra ~ 4.2% ~ 95 calories ~ 355 * 0.042 = 15 grams
+* 805 ~ 4:7% ~ 141 calories
 * Guinness Draught 4.2% ~ 125 calories
 * Lagunitas DayTime 4% ~ 98 calories
 * PBR 4.8% ~ 192 calories
