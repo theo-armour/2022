@@ -8,8 +8,9 @@ here we are
 
 https://dreamfusion3d.github.io/gallery.html
   * https://news.ycombinator.com/item?id=33025446
+* https://news.ycombinator.com/item?id=33020181
 
-  
+
 ## articles
 
 With Stable Diffusion, you may never believe what you see online again
