@@ -20,6 +20,8 @@ See my bookmarksL eyes > news news > music
 
 ## Algorithmic music
 
+* https://www.musi-co.com/listen/track/artificial-city
+
 The Magnet 041: One-line algorithmic music
 
 * https://themagnet.substack.com/p/the-magnet-041-one-line-algorithmic

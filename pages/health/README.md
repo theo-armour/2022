@@ -9,6 +9,10 @@
 * https://health.gov/our-work/nutrition-physical-activity/white-house-conference-hunger-nutrition-and-health
 * https://health.gov/sites/default/files/2019-10/PAG_ExecutiveSummary.pdf
 
+## Air Quality
+
+* https://halestrom.net/darksleep/blog/048_indoorairsensing/
+
 
 ## Death
 

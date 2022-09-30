@@ -4,6 +4,12 @@ tags #ai #sw
 
 here we are
 
+## New
+
+https://dreamfusion3d.github.io/gallery.html
+  * https://news.ycombinator.com/item?id=33025446
+
+  
 ## articles
 
 With Stable Diffusion, you may never believe what you see online again
