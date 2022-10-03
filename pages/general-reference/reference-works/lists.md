@@ -1,10 +1,12 @@
 # Lists
 
+tags #list 
+
 * https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists
 * https://en.wikipedia.org/wiki/Category:Lists
 
 
-# Lists ~ Awesome
+## Lists ~ Awesome
 
 * https://project-awesome.org/
 * https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows

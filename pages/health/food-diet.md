@@ -14,6 +14,19 @@
 * Meals that are prepared quickly
 * A diet that travels
 
+## Alcohol Addiction
+
+The relationship between alcohol use and dementia in adults aged more than 60 years: a combined analysis of prospective, individual-participant data from 15 international studies
+
+* https://onlinelibrary.wiley.com/doi/10.1111/add.16035
+  * https://www.news-medical.net/news/20220930/Increased-risk-for-all-cause-dementia-in-people-who-abstain-from-alcohol.aspx
+  * https://bestlifeonline.com/drinking-beer-dementia-risk-news/
+
+In dose–response analyses, moderate drinking up to 40 g/day was associated with a lower risk of dementia when compared with lif-time abstaining.
+
+### Conclusions
+Abstinence from alcohol appears to be associated with an increased risk for all-cause dementia. Among current drinkers, there appears to be no consistent evidence to suggest that the amount of alcohol consumed in later life is associated with dementia risk.
+
 ## Standard Drink
 
 1 oz = 29.5735 ml
@@ -66,7 +79,7 @@ Nice stats and thoughts
 ## Tips
 
 * 2019-10-31 ~ stopping cheese produced a significant overnight weight loss / or stopping omeprazole?
-
+\
 ## Kim Bauer ~ Items for discussion ~ 2019
 
 https://www.steppingstone-wellness.com/

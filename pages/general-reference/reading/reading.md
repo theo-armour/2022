@@ -1,5 +1,6 @@
 # Reading
 
+> Reading is sometimes an ingenious device for avoiding thought. Sir Arthur Helps 1813-1875
 
 ## https://www.thenewatlantis.com/
 
@@ -9,8 +10,7 @@
 > We are awash in text. The cumulative cultural effect is a kind of mass delusion. We may believe that all this text somehow captures reality. But as the words engulf us, the world recedes ever more from our grasp.
 
 
-
-https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X
+## Amusing Ourselves to Death / https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X
 
 What happens when media and politics become forms of entertainment? As our world begins to look more and more like Orwell's 1984, Neil's Postman's essential guide to the modern media is more relevant than ever.
 

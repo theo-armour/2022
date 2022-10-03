@@ -1,6 +1,6 @@
 # Books
 
-tags #books
+tags #books #reading # ref
 
 ## Binding & Printing
 
@@ -8,21 +8,7 @@ tags #books
 * https://sfcb.org/
 
 
-librarything
-
-## Borrowing
-
-### Libby
-
-* https://www.overdrive.com/apps/libby
->Borrow ebooks, audiobooks, magazines, and more from your local library for free! Libby is the newer library reading app by OverDrive, loved by millions of readers worldwide.
-
-### Manybooks
-
-* https://manybooks.net/about
-
-
-## Browsing
+## Browsing / Tracking
 
 ### GoodReads
 
@@ -33,6 +19,14 @@ librarything
 
 * https://www.librarything.com/
 
+* Catalog your books from Amazon, the Library of Congress and 4,941 other libraries.
+* Catalog your movies and music too.
+* LibraryThing is entirely free.
+* Find new books to read.
+* Talk about what you love with other committed bibliophiles.
+* Track and lend your books.
+* Snag a book from over 2000 early-release books every month.
+* Available in many languages
 
 ### Tertulia
 

@@ -6,6 +6,8 @@ here we are
 
 ## New
 
+https://www.ghostlystock.com/
+
 https://dreamfusion3d.github.io/gallery.html
   * https://news.ycombinator.com/item?id=33025446
 * https://news.ycombinator.com/item?id=33020181
