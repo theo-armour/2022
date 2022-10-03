@@ -52,6 +52,11 @@
 * 100K stars
 * 100M installs
 
+## https://www.photopea.com/
+
+* Web App + install
+* Very clean interface
+
 
 ## Snapseed ~ Google ~ https://support.google.com/snapseed#topic=6155507
 

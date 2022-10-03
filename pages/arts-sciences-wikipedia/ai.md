@@ -11,6 +11,8 @@ https://www.ghostlystock.com/
 https://dreamfusion3d.github.io/gallery.html
   * https://news.ycombinator.com/item?id=33025446
 * https://news.ycombinator.com/item?id=33020181
+* https://gorgeous.adityashankar.xyz/
+  * https://news.ycombinator.com/item?id=33055340
 
 
 ## articles

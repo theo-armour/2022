@@ -9,6 +9,14 @@
 * Decide when and where mental models may be useful
 * Identify overlaps with do-know-be and mission-value-vision
 
+## Models
+
+First make the change easy, then make the easy change
+* https://www.adamtal.me/2019/05/first-make-the-change-easy-then-make-the-easy-change
+
+Impoverished Emotional Lives
+* https://theconvivialsociety.substack.com/p/impoverished-emotional-lives
+* https://news.ycombinator.com/item?id=33045539
 
 ## Reference
 
@@ -34,7 +42,7 @@
 * https://www.farnamstreetblog.com/mental-models/
 * https://fs.blog/mental-models/
 * https://www.clearerthinking.org/
-
+* https://digitalvegan.net/#quotes
 
 ## Articles
 
