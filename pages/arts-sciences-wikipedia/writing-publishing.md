@@ -1,33 +1,18 @@
 # Writing & Publishing
 
-#`
 Eat oatmeal?
 
 https://medium.com/mind-cafe/a-psychological-trick-to-evoke-an-interesting-conversation-144ce6a376ae
 
 
-## Embeds
 
-* https://embed.ly/
+## Titles
 
-jsFiddle
-* https://jsfiddle.net/theo/2azktLex/embed/result/
+* https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/
 
-replit
+## Marketing
 
-https://repl.it/@armour/theo-2020-hello-world#index.html?lite=1&outputonly=1
-
-jsFiddle is best
-
-* https://medium.com/@codytowstik/embedding-code-into-medium-e18fd1759fff
-
-### Airtable
-
-& https://prezi.com/slybmeadkxfm/omar-more/?present=1
-
-### Presi
-
-
+* https://www.blurb.com/partner/reedsy
 
 ## Medium vs Substack
 
@@ -49,6 +34,14 @@ https://medium.com/menlo-office/medium-vs-substack-which-platform-is-best-to-mak
   * https://nancypeckenham.medium.com/
 * https://medium.com/mind-cafe
 
+## Publishing
+
+* https://scroll.com/
+Scroll distributes your membership to sites you read based on their share of your engagement. Those sites make more money than they would from showing you ads and deliver you a faster, better experience. Every month, we’ll tell you where your membership went and which sites you supported.
+
+* https://www.washingtonpost.com/public-relations/zeus/
+* https://itega.org/2021/03/16/sso-washington-post-eyes-shared-user-content-ad-network-for-zeus-sites
+The Washington Post has built a multi-publisher, shared-subscription system in its tech labs — one of three components of its digital advertising suite of tools called Zeus — and is considering deploying a “Zeus Pass” to allow users to sign in once and get access to multiple publications in the Zeus network, the paper’s chief technologist says.
 
 
 ## Web publishing personal

@@ -64,7 +64,12 @@ Three Big Things: The Most Important Forces Shaping the World
 * https://www.linkedin.com/in/david-peritz-2b342b5/
 * https://www.fromminstitute.org/node/319
 * https://olli.berkeley.edu/david-peritz
+* https://davidperitz.wordpress.com/
+* https://www.motherjones.com/politics/2016/12/berkeley-sarah-lawrence-professor-house-rental-saga/
 
+## Influences
+
+* https://en.wikipedia.org/wiki/Seyla_Benhabib
 
 ## Occupy Media
 

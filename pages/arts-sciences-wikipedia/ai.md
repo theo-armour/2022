@@ -36,7 +36,7 @@ With Stable Diffusion, you may never believe what you see online again
 * https://stability.ai/
 * https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important
 * https://news.ycombinator.com/item?id=32631673
-*
+* https://jalammar.github.io/illustrated-stable-diffusion/
 
 ### hugging face
 

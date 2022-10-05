@@ -5,6 +5,7 @@
 	* https://astralcodexten.substack.com/
 * https://perell.com/notebook/
 
+
 ### https://en.wikipedia.org/wiki/Asemic_writing
 
 >Asemic writing is a wordless open semantic form of writing. The word asemic means "having no specific semantic content", or "without the smallest unit of meaning". With the non-specificity of asemic writing there comes a vacuum of meaning, which is left for the reader to fill in and interpret. All of this is similar to the way one would deduce meaning from an abstract work of art.
@@ -14,9 +15,30 @@
 
 * http://tom7.org/lowercase/
 
-## Titles
 
-* https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/
+## Embeds
+
+* https://embed.ly/
+
+jsFiddle
+* https://jsfiddle.net/theo/2azktLex/embed/result/
+
+replit
+
+https://repl.it/@armour/theo-2020-hello-world#index.html?lite=1&outputonly=1
+
+jsFiddle is best
+
+* https://medium.com/@codytowstik/embedding-code-into-medium-e18fd1759fff
+
+
+### Airtable
+
+& https://prezi.com/slybmeadkxfm/omar-more/?present=1
+
+### Presi
+
+
 
 ## Publishing
 
@@ -29,6 +51,7 @@ The Washington Post has built a multi-publisher, shared-subscription system in i
 
 ## etherpads
 
+* https://etherpad.org/
 * https://etherpad.wikimedia.org/p/gardner
 
 

@@ -1,4 +1,5 @@
-# Writing
+# Writing Skills
+
 
 
 ## Medium
@@ -18,9 +19,14 @@
 * https://www.grammarly.com/
 * https://hemingwayapp.com/
 
-## Marketing
+## Some thoughts on writing
 
-* https://www.blurb.com/partner/reedsy
+* https://danluu.com/writing-non-advice/
+
+## How to Write Better with The Why, What, How Framework
+
+https://eugeneyan.com/writing/writing-docs-why-what-how/
+
 
 ## Books on Writing
 
